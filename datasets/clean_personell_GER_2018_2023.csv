@@ -1,0 +1,1117 @@
+,year,subj_grp_code,subj_grp_name,gender,number
+0,2018,SB-NATW-08,Geowissenschaften (ohne Geographie),GESM,2069
+1,2018,SB-KUNSTW-03,Gestaltung,GESM,917
+2,2021,SB-NATW-05,Chemie,GESW,3565
+3,2022,SB-KUNSTW-04,"Darstellende Kunst, Film u.Fernsehen, Theaterwiss.",GESM,370
+4,2020,SB-INGW-09,Vermessungswesen,GESM,442
+5,2022,HRZ-01,Hochschulrechenzentrum,GESM,854
+6,2019,SB-KUNSTW-03,Gestaltung,GESW,641
+7,2018,SB-NATW-01,"Mathematik, Naturwissenschaften allgemein",GESW,276
+8,2018,KL-ZD-01,"Kliniken insgesamt, Zentrale Dienste",GESW,787
+9,2020,SB-NATW-06,Pharmazie,GESW,735
+10,2022,THEOL-KT-01,Katholische Theologie,GESM,573
+11,2021,SB-RWSW-05,Sozialwesen,GESM,1045
+12,2020,SB-INGW-02,"Bergbau, Hüttenwesen",GESW,133
+13,2019,EINR-WISS-01,Zentrale wissenschaftliche Einrichtungen,GESW,3810
+14,2020,MEDHUM-KP-01,Klinisch-prakt. Humanmedizin (ohne Zahnmedizin),GESW,24088
+15,2019,SB-NATW-07,Biologie,GESM,5052
+16,2022,SF013,Architektur,GESM,1663
+17,2020,SB-SKW-09,"Germanistik (Deutsch, germ. Sprachen o. Anglistik)",GESM,1389
+18,2021,SB-AGRW-01,"Landespflege, Umweltgestaltung",GESW,257
+19,2020,SB-AGRW-03,"Forstwissenschaft, Holzwirtschaft",GESW,259
+20,2019,SB-AGRW-03,"Forstwissenschaft, Holzwirtschaft",GESM,469
+21,2019,KL-EINR-AUSB-01,Übrige Ausbildungseinrichtungen der Kliniken,GESW,89
+22,2018,SB-INGW-04,Elektro- und Informationstechnik,GESM,7818
+23,2022,SB-SKW-01,Geisteswissenschaften allgemein,GESW,522
+24,2022,SB-RWSW-10,Psychologie,GESW,3586
+25,2022,SKW-SONST-01,Sonstige Sprach- und Kulturwissenschaften,GESM,709
+26,2019,MEDHUM-VK-01,Vorklinische Humanmedizin (einschl. Zahnmedizin),GESM,2166
+27,2020,MEDHUM-ALLG-01,Humanmedizin allgemein,GESW,442
+28,2023,FACHGR-INGW-01,Ingenieurwissenschaften allgemein,GESM,1914
+29,2021,SB-INGW-08,Bauingenieurwesen,GESM,3572
+30,2018,FACHGR-INGW-01,Ingenieurwissenschaften allgemein,GESW,590
+31,2021,SB-MEDHUM-01,Gesundheitswissenschaften,GESM,823
+32,2023,SB-KUNSTW-04,"Darstellende Kunst, Film u.Fernsehen, Theaterwiss.",GESW,427
+33,2019,HRZ-01,Hochschulrechenzentrum,GESW,213
+34,2022,KL-EINR-AUSB-01,Übrige Ausbildungseinrichtungen der Kliniken,GESM,49
+35,2021,PHIL-KLASS-01,Altphilologie (klassische Philologie),GESM,287
+36,2020,SB-SKW-01,Geisteswissenschaften allgemein,GESW,549
+37,2021,SB-RWSW-12,Kommunikationswissenschaft/Publizistik,GESW,410
+38,2019,SB-SKW-09,"Germanistik (Deutsch, germ. Sprachen o. Anglistik)",GESM,1389
+39,2021,SB-SKW-01,Geisteswissenschaften allgemein,GESW,536
+40,2018,SB-SKW-09,"Germanistik (Deutsch, germ. Sprachen o. Anglistik)",GESM,1384
+41,2022,SB-INGW-07,Raumplanung,GESM,367
+42,2018,SKW-SONST-01,Sonstige Sprach- und Kulturwissenschaften,GESM,709
+43,2023,SB-RWSW-02,Regionalwissenschaften,GESM,78
+44,2023,SB-NATW-02,Mathematik,GESW,1704
+45,2020,SB-RWSW-12,Kommunikationswissenschaft/Publizistik,GESW,361
+46,2021,SB-RWSW-11,Erziehungswissenschaften,GESW,4371
+47,2023,EINR-SOZ-01,Soziale Einrichtungen,GESM,9
+48,2020,MEDVET-ALLG-01,Veterinärmedizin allgemein,GESM,0
+49,2023,EINR-VERS-01,Zentrale Betriebs- und Versorgungseinrichtungen,GESW,129
+50,2022,EINR-KLFRMD-02,Mit der Klinik verbundene u.klinikfremde Einricht.,GESM,25
+51,2020,SB-AGRW-02,"Agrarwissensch., Lebensmittel- u. Getränketechnik",GESW,1328
+52,2022,KL-ZD-01,"Kliniken insgesamt, Zentrale Dienste",GESM,1058
+53,2018,MEDHUM-KT-01,Klinisch-theor. Humanmedizin (einschl.Zahnmedizin),GESW,5421
+54,2018,MEDHUM-ALLG-01,Humanmedizin allgemein,GESM,332
+55,2019,MEDZN-KP-01,Zahnmedizin (klinisch-praktisch),GESM,1083
+56,2022,MEDHUM-KT-01,Klinisch-theor. Humanmedizin (einschl.Zahnmedizin),GESW,6878
+57,2022,SB-INGW-12,Informatik,GESW,2665
+58,2021,FACHGR-RWSW-01,"Rechts-, Wirtschafts- u.Sozialwissenschaften allg.",GESW,325
+59,2020,AFEW-ALLG-01,"Agrar-, Forst- und Ernährungswissenschaften allg.",GESW,86
+60,2022,SB-RWSW-04,Sozialwissenschaften/Soziologie,GESM,1534
+61,2022,SB-MEDHUM-01,Gesundheitswissenschaften,GESW,1569
+62,2019,SB-KUNSTW-02,Bildende Kunst,GESW,324
+63,2018,SB-AGRW-04,Ernährungs- und Haushaltswissenschaften,GESM,191
+64,2023,SB-INGW-05,"Verkehrstechnik, Nautik",GESM,2172
+65,2020,KL-EINR-SOZ-01,Soziale Einrichtungen der Kliniken,GESW,14
+66,2020,SB-KUNSTW-01,"Kunst, Kunstwissenschaft allgemein",GESW,768
+67,2023,THEOL-EV-01,Evangelische Theologie,GESM,646
+68,2022,SB-NATW-04,"Physik, Astronomie",GESW,2291
+69,2018,SB-MEDHUM-01,Gesundheitswissenschaften,GESW,1120
+70,2023,PHIL-KLASS-01,Altphilologie (klassische Philologie),GESM,274
+71,2022,SB-KUNSTW-05,"Musik, Musikwissenschaft",GESM,2120
+72,2021,SF013,Architektur,GESM,1628
+73,2022,SB-RWSW-03,Politikwissenschaft,GESM,1174
+74,2020,SB-SKW-14,Kulturwissenschaften i.e.S.,GESW,315
+75,2022,SB-SKW-14,Kulturwissenschaften i.e.S.,GESW,334
+76,2018,SB-NATW-07,Biologie,GESM,5042
+77,2023,SB-KUNSTW-05,"Musik, Musikwissenschaft",GESW,1221
+78,2023,MEDHUM-VK-01,Vorklinische Humanmedizin (einschl. Zahnmedizin),GESM,2187
+79,2018,SB-KUNSTW-04,"Darstellende Kunst, Film u.Fernsehen, Theaterwiss.",GESM,413
+80,2019,MEDVET-VK-01,Vorklinische Veterinärmedizin,GESM,106
+81,2018,SB-NATW-09,Geographie,GESM,1099
+82,2020,EINR-HSFRMD-02,Mit der Hochschule verb. u. hochschulfr. Einricht.,GESW,112
+83,2022,SB-RWSW-05,Sozialwesen,GESM,1029
+84,2019,SB-AGRW-02,"Agrarwissensch., Lebensmittel- u. Getränketechnik",GESM,1579
+85,2019,SB-SKW-17,Sonderpädagogik,GESW,0
+86,2020,MEDVET-VK-01,Vorklinische Veterinärmedizin,GESM,103
+87,2018,MEDVET-KT-01,Klinisch-theoretische Veterinärmedizin,GESW,347
+88,2019,SB-AGRW-04,Ernährungs- und Haushaltswissenschaften,GESM,197
+89,2023,SB-KUNSTW-03,Gestaltung,GESW,774
+90,2018,SB-SKW-01,Geisteswissenschaften allgemein,GESW,741
+91,2022,SB-INGW-05,"Verkehrstechnik, Nautik",GESM,2201
+92,2022,MEDVET-ALLG-01,Veterinärmedizin allgemein,GESW,12
+93,2021,SB-INGW-09,Vermessungswesen,GESM,479
+94,2021,SB-INGW-07,Raumplanung,GESM,367
+95,2021,MEDHUM-KT-01,Klinisch-theor. Humanmedizin (einschl.Zahnmedizin),GESM,6126
+96,2019,SB-NATW-08,Geowissenschaften (ohne Geographie),GESM,2066
+97,2023,SB-INGW-11,Materialwissenschaft und Werkstofftechnik,GESW,547
+98,2018,SB-INGW-03,Maschinenbau/Verfahrenstechnik,GESM,13406
+99,2023,SB-RWSW-03,Politikwissenschaft,GESM,1066
+100,2018,SB-KUNSTW-02,Bildende Kunst,GESM,459
+101,2023,SB-NATW-04,"Physik, Astronomie",GESW,2387
+102,2019,FACHGR-RWSW-01,"Rechts-, Wirtschafts- u.Sozialwissenschaften allg.",GESM,658
+103,2021,SB-SKW-07,Allg. und vergl. Literatur- und Sprachwissenschaft,GESM,630
+104,2022,BIB-ZENTRAL-01,Zentralbibliothek,GESM,213
+105,2021,KL-ZD-01,"Kliniken insgesamt, Zentrale Dienste",GESM,1108
+106,2023,SB-RWSW-04,Sozialwissenschaften/Soziologie,GESM,1584
+107,2018,KL-EINR-SOZ-01,Soziale Einrichtungen der Kliniken,GESM,9
+108,2019,SB-INGW-04,Elektro- und Informationstechnik,GESM,7865
+109,2022,EINR-WISS-01,Zentrale wissenschaftliche Einrichtungen,GESM,4007
+110,2023,SB-INGW-12,Informatik,GESW,2854
+111,2019,SB-NATW-05,Chemie,GESM,7493
+112,2019,EINR-SOZ-01,Soziale Einrichtungen,GESM,14
+113,2021,MEDHUM-ALLG-01,Humanmedizin allgemein,GESM,790
+114,2023,SB-SKW-09,"Germanistik (Deutsch, germ. Sprachen o. Anglistik)",GESM,1322
+115,2019,SB-NATW-06,Pharmazie,GESM,1021
+116,2018,SB-INGW-05,"Verkehrstechnik, Nautik",GESM,1707
+117,2023,SKW-SONST-01,Sonstige Sprach- und Kulturwissenschaften,GESW,827
+118,2019,SB-INGW-02,"Bergbau, Hüttenwesen",GESM,375
+119,2020,SB-INGW-07,Raumplanung,GESM,332
+120,2019,SB-SKW-18,Islamische Studien/Islamische Theologie,GESW,55
+121,2021,SB-SKW-09,"Germanistik (Deutsch, germ. Sprachen o. Anglistik)",GESM,1382
+122,2019,SB-INGW-03,Maschinenbau/Verfahrenstechnik,GESM,13482
+123,2023,SB-SKW-07,Allg. und vergl. Literatur- und Sprachwissenschaft,GESM,626
+124,2022,MEDZN-KP-01,Zahnmedizin (klinisch-praktisch),GESW,1120
+125,2020,SB-INGW-08,Bauingenieurwesen,GESM,3456
+126,2018,EINR-VERS-01,Zentrale Betriebs- und Versorgungseinrichtungen,GESM,93
+127,2020,BIB-ZENTRAL-01,Zentralbibliothek,GESW,233
+128,2019,SB-AGRW-01,"Landespflege, Umweltgestaltung",GESM,289
+129,2020,SB-INGW-04,Elektro- und Informationstechnik,GESW,1377
+130,2019,SB-KUNSTW-05,"Musik, Musikwissenschaft",GESW,1068
+131,2022,SB-KUNSTW-02,Bildende Kunst,GESM,440
+132,2019,SB-INGW-11,Materialwissenschaft und Werkstofftechnik,GESW,431
+133,2020,SB-RWSW-04,Sozialwissenschaften/Soziologie,GESM,1601
+134,2023,HS-VERW-02,Zentral verwaltete Hörsäle und Lehrräume,GESW,0
+135,2021,SB-KUNSTW-05,"Musik, Musikwissenschaft",GESW,1116
+136,2023,MEDHUM-ALLG-01,Humanmedizin allgemein,GESW,624
+137,2018,SB-NATW-06,Pharmazie,GESM,1008
+138,2021,MEDVET-KT-01,Klinisch-theoretische Veterinärmedizin,GESM,245
+139,2019,SB-SKW-14,Kulturwissenschaften i.e.S.,GESW,320
+140,2018,SB-INGW-12,Informatik,GESW,1823
+141,2022,SB-SKW-17,Sonderpädagogik,GESW,0
+142,2019,SB-RWSW-11,Erziehungswissenschaften,GESM,2095
+143,2019,FACHGR-INGW-01,Ingenieurwissenschaften allgemein,GESM,1665
+144,2021,MEDVET-KP-01,Klinisch-praktische Veterinärmedizin,GESM,196
+145,2019,SB-NATW-02,Mathematik,GESW,1629
+146,2021,THEOL-KT-01,Katholische Theologie,GESW,348
+147,2021,SB-SKW-17,Sonderpädagogik,GESW,0
+148,2021,SB-INGW-03,Maschinenbau/Verfahrenstechnik,GESW,3365
+149,2021,EINR-KLFRMD-02,Mit der Klinik verbundene u.klinikfremde Einricht.,GESW,20
+150,2023,MEDHUM-KT-01,Klinisch-theor. Humanmedizin (einschl.Zahnmedizin),GESM,6397
+151,2023,SB-AGRW-04,Ernährungs- und Haushaltswissenschaften,GESM,208
+152,2018,SB-RWSW-12,Kommunikationswissenschaft/Publizistik,GESM,0
+153,2022,EINR-SOZ-01,Soziale Einrichtungen,GESW,5
+154,2023,KL-ZD-01,"Kliniken insgesamt, Zentrale Dienste",GESM,1165
+155,2021,HRZ-01,Hochschulrechenzentrum,GESM,842
+156,2019,MEDHUM-KP-01,Klinisch-prakt. Humanmedizin (ohne Zahnmedizin),GESW,22762
+157,2018,SB-SKW-07,Allg. und vergl. Literatur- und Sprachwissenschaft,GESM,636
+158,2022,EINR-SONST-01,Übrige Ausbildungseinrichtungen,GESM,236
+159,2019,THEOL-EV-01,Evangelische Theologie,GESM,697
+160,2021,SB-RWSW-03,Politikwissenschaft,GESM,1198
+161,2020,THEOL-KT-01,Katholische Theologie,GESW,343
+162,2018,AFEW-ALLG-01,"Agrar-, Forst- und Ernährungswissenschaften allg.",GESM,110
+163,2020,KL-ZD-01,"Kliniken insgesamt, Zentrale Dienste",GESM,695
+164,2022,SB-INGW-02,"Bergbau, Hüttenwesen",GESW,158
+165,2018,SB-RWSW-10,Psychologie,GESW,3125
+166,2020,SB-RWSW-09,Wirtschaftsingenieurw. mit wirtschaftsw. Schwerp.,GESM,672
+167,2023,SB-NATW-08,Geowissenschaften (ohne Geographie),GESM,1893
+168,2022,SB-RWSW-02,Regionalwissenschaften,GESM,72
+169,2020,SB-SKW-07,Allg. und vergl. Literatur- und Sprachwissenschaft,GESM,643
+170,2023,SB-NATW-07,Biologie,GESM,4883
+171,2020,SB-RWSW-08,Wirtschaftswissenschaften,GESM,11021
+172,2019,SB-SKW-07,Allg. und vergl. Literatur- und Sprachwissenschaft,GESM,619
+173,2023,AFEW-ALLG-01,"Agrar-, Forst- und Ernährungswissenschaften allg.",GESW,361
+174,2021,BIB-ZENTRAL-01,Zentralbibliothek,GESW,249
+175,2018,SB-SKW-04,Philosophie,GESW,553
+176,2020,PHIL-KLASS-01,Altphilologie (klassische Philologie),GESW,181
+177,2020,SB-SKW-06,Informations- und Bibliothekswissenschaften,GESM,90
+178,2021,MEDHUM-VK-01,Vorklinische Humanmedizin (einschl. Zahnmedizin),GESW,2239
+179,2019,MEDVET-ALLG-01,Veterinärmedizin allgemein,GESW,5
+180,2018,SB-AGRW-02,"Agrarwissensch., Lebensmittel- u. Getränketechnik",GESM,1569
+181,2018,EINR-HSFRMD-02,Mit der Hochschule verb. u. hochschulfr. Einricht.,GESM,190
+182,2022,SB-SKW-18,Islamische Studien/Islamische Theologie,GESW,62
+183,2023,EINR-WISS-01,Zentrale wissenschaftliche Einrichtungen,GESW,4353
+184,2021,SB-RWSW-08,Wirtschaftswissenschaften,GESM,10938
+185,2018,SB-AGRW-03,"Forstwissenschaft, Holzwirtschaft",GESM,493
+186,2020,EINR-SOZ-01,Soziale Einrichtungen,GESM,11
+187,2022,SB-NATW-08,Geowissenschaften (ohne Geographie),GESM,2008
+188,2023,HRZ-01,Hochschulrechenzentrum,GESM,852
+189,2021,SB-RWSW-07,Verwaltungswissenschaften,GESM,1341
+190,2018,SB-SKW-05,Geschichte,GESW,1438
+191,2022,SB-NATW-09,Geographie,GESM,1077
+192,2021,MEDVET-VK-01,Vorklinische Veterinärmedizin,GESW,179
+193,2019,SB-KUNSTW-01,"Kunst, Kunstwissenschaft allgemein",GESW,765
+194,2018,EINR-SOZ-01,Soziale Einrichtungen,GESW,14
+195,2020,SB-RWSW-03,Politikwissenschaft,GESM,1066
+196,2021,SB-SKW-14,Kulturwissenschaften i.e.S.,GESW,350
+197,2022,SB-KUNSTW-03,Gestaltung,GESM,999
+198,2019,SB-INGW-12,Informatik,GESW,1952
+199,2023,HS-VERW-01,Zentrale Hochschulverwaltung,GESW,2206
+200,2019,SB-RWSW-10,Psychologie,GESM,2111
+201,2020,SB-INGW-05,"Verkehrstechnik, Nautik",GESW,251
+202,2022,SB-SKW-19,Medienwissenschaft,GESM,310
+203,2018,SB-NATW-02,Mathematik,GESW,1553
+204,2019,SB-KUNSTW-04,"Darstellende Kunst, Film u.Fernsehen, Theaterwiss.",GESW,379
+205,2020,SB-INGW-03,Maschinenbau/Verfahrenstechnik,GESW,3369
+206,2018,SB-NATW-04,"Physik, Astronomie",GESW,2017
+207,2021,SB-RWSW-04,Sozialwissenschaften/Soziologie,GESM,1605
+208,2018,MEDVET-ALLG-01,Veterinärmedizin allgemein,GESW,5
+209,2018,SB-INGW-11,Materialwissenschaft und Werkstofftechnik,GESW,423
+210,2019,SB-RWSW-12,Kommunikationswissenschaft/Publizistik,GESM,0
+211,2020,EINR-KLFRMD-02,Mit der Klinik verbundene u.klinikfremde Einricht.,GESW,13
+212,2021,KL-EINR-SOZ-01,Soziale Einrichtungen der Kliniken,GESM,3
+213,2020,SB-RWSW-05,Sozialwesen,GESM,1030
+214,2021,SB-RWSW-02,Regionalwissenschaften,GESM,75
+215,2018,MEDVET-KP-01,Klinisch-praktische Veterinärmedizin,GESM,206
+216,2022,HS-VERW-02,Zentral verwaltete Hörsäle und Lehrräume,GESW,0
+217,2021,SB-SKW-18,Islamische Studien/Islamische Theologie,GESW,68
+218,2021,SB-INGW-04,Elektro- und Informationstechnik,GESW,1483
+219,2023,KL-EINR-SOZ-01,Soziale Einrichtungen der Kliniken,GESW,36
+220,2021,HS-01,Hochschule insgesamt,GESW,364
+221,2023,SB-SKW-05,Geschichte,GESW,1521
+222,2018,SB-AGRW-01,"Landespflege, Umweltgestaltung",GESM,344
+223,2018,THEOL-EV-01,Evangelische Theologie,GESM,707
+224,2019,MEDHUM-KT-01,Klinisch-theor. Humanmedizin (einschl.Zahnmedizin),GESM,5603
+225,2019,SB-INGW-10,Wirtschaftsingenieurw. mit ingenieurw. Schwerpunkt,GESW,146
+226,2021,EINR-SOZ-01,Soziale Einrichtungen,GESW,4
+227,2022,SB-KUNSTW-01,"Kunst, Kunstwissenschaft allgemein",GESM,454
+228,2018,SB-SKW-06,Informations- und Bibliothekswissenschaften,GESM,73
+229,2020,HS-VERW-01,Zentrale Hochschulverwaltung,GESM,1474
+230,2020,SF013,Architektur,GESM,1620
+231,2020,SB-RWSW-07,Verwaltungswissenschaften,GESM,1343
+232,2023,SB-NATW-09,Geographie,GESM,1108
+233,2022,KL-EINR-SOZ-01,Soziale Einrichtungen der Kliniken,GESM,4
+234,2023,SB-SKW-01,Geisteswissenschaften allgemein,GESW,536
+235,2019,SB-NATW-01,"Mathematik, Naturwissenschaften allgemein",GESW,276
+236,2023,SB-SKW-04,Philosophie,GESW,661
+237,2021,SB-INGW-02,"Bergbau, Hüttenwesen",GESW,155
+238,2022,MEDHUM-KP-01,Klinisch-prakt. Humanmedizin (ohne Zahnmedizin),GESM,23368
+239,2018,SB-RWSW-11,Erziehungswissenschaften,GESM,2057
+240,2020,MEDVET-KP-01,Klinisch-praktische Veterinärmedizin,GESW,473
+241,2023,MEDVET-ALLG-01,Veterinärmedizin allgemein,GESM,1
+242,2021,SB-SKW-12,"Slawistik, Baltistik, Finno-Ugristik",GESW,271
+243,2020,HRZ-01,Hochschulrechenzentrum,GESM,878
+244,2020,EINR-VERS-01,Zentrale Betriebs- und Versorgungseinrichtungen,GESM,89
+245,2020,SKW-SONST-01,Sonstige Sprach- und Kulturwissenschaften,GESW,778
+246,2018,SB-INGW-10,Wirtschaftsingenieurw. mit ingenieurw. Schwerpunkt,GESW,142
+247,2023,MEDVET-KP-01,Klinisch-praktische Veterinärmedizin,GESW,557
+248,2021,BIB-ZENTRAL-01,Zentralbibliothek,GESM,223
+249,2021,HS-VERW-01,Zentrale Hochschulverwaltung,GESM,1547
+250,2018,MEDVET-VK-01,Vorklinische Veterinärmedizin,GESW,161
+251,2018,EINR-KLFRMD-02,Mit der Klinik verbundene u.klinikfremde Einricht.,GESW,19
+252,2020,SB-RWSW-02,Regionalwissenschaften,GESM,76
+253,2019,SB-NATW-04,"Physik, Astronomie",GESW,2035
+254,2021,SB-INGW-05,"Verkehrstechnik, Nautik",GESW,275
+255,2020,EINR-SONST-01,Übrige Ausbildungseinrichtungen,GESW,322
+256,2019,SB-INGW-08,Bauingenieurwesen,GESW,1247
+257,2020,SB-KUNSTW-03,Gestaltung,GESM,944
+258,2021,MEDVET-ALLG-01,Veterinärmedizin allgemein,GESM,0
+259,2021,SB-INGW-10,Wirtschaftsingenieurw. mit ingenieurw. Schwerpunkt,GESW,173
+260,2020,HS-VERW-02,Zentral verwaltete Hörsäle und Lehrräume,GESM,0
+261,2022,SB-AGRW-03,"Forstwissenschaft, Holzwirtschaft",GESM,408
+262,2019,KL-EINR-SOZ-01,Soziale Einrichtungen der Kliniken,GESM,5
+263,2018,SB-NATW-05,Chemie,GESW,3389
+264,2023,EINR-KLFRMD-02,Mit der Klinik verbundene u.klinikfremde Einricht.,GESM,12
+265,2019,SB-SKW-07,Allg. und vergl. Literatur- und Sprachwissenschaft,GESW,927
+266,2022,SB-SKW-04,Philosophie,GESM,1091
+267,2021,SB-SKW-11,Romanistik,GESW,822
+268,2018,SB-RWSW-07,Verwaltungswissenschaften,GESW,641
+269,2023,SB-INGW-02,"Bergbau, Hüttenwesen",GESW,151
+270,2018,MEDHUM-KP-01,Klinisch-prakt. Humanmedizin (ohne Zahnmedizin),GESW,21835
+271,2021,SB-AGRW-04,Ernährungs- und Haushaltswissenschaften,GESM,262
+272,2019,SB-SKW-19,Medienwissenschaft,GESM,0
+273,2021,SB-NATW-08,Geowissenschaften (ohne Geographie),GESM,2102
+274,2021,AFEW-ALLG-01,"Agrar-, Forst- und Ernährungswissenschaften allg.",GESM,169
+275,2019,MEDHUM-ALLG-01,Humanmedizin allgemein,GESW,322
+276,2019,SB-RWSW-05,Sozialwesen,GESW,1521
+277,2021,SB-KUNSTW-01,"Kunst, Kunstwissenschaft allgemein",GESM,441
+278,2018,FACHGR-RWSW-01,"Rechts-, Wirtschafts- u.Sozialwissenschaften allg.",GESM,686
+279,2020,SB-SKW-11,Romanistik,GESW,835
+280,2023,SB-SKW-06,Informations- und Bibliothekswissenschaften,GESW,86
+281,2022,LB-RW-01,Rechtswissenschaften,GESM,3586
+282,2021,SB-KUNSTW-02,Bildende Kunst,GESM,436
+283,2022,SB-INGW-03,Maschinenbau/Verfahrenstechnik,GESW,3423
+284,2020,SB-NATW-01,"Mathematik, Naturwissenschaften allgemein",GESM,620
+285,2019,SB-RWSW-11,Erziehungswissenschaften,GESW,4089
+286,2020,SB-SKW-19,Medienwissenschaft,GESW,281
+287,2020,SB-SKW-05,Geschichte,GESM,1866
+288,2022,SB-NATW-06,Pharmazie,GESM,1053
+289,2018,SB-RWSW-11,Erziehungswissenschaften,GESW,3912
+290,2019,SB-RWSW-10,Psychologie,GESW,3279
+291,2018,SB-SKW-11,Romanistik,GESW,841
+292,2022,SB-KUNSTW-02,Bildende Kunst,GESW,396
+293,2019,LB-RW-01,Rechtswissenschaften,GESM,3502
+294,2022,SB-NATW-07,Biologie,GESM,4960
+295,2023,SB-SKW-19,Medienwissenschaft,GESW,324
+296,2019,SB-SKW-06,Informations- und Bibliothekswissenschaften,GESW,81
+297,2018,SB-SKW-12,"Slawistik, Baltistik, Finno-Ugristik",GESW,311
+298,2020,THEOL-EV-01,Evangelische Theologie,GESM,691
+299,2021,MEDVET-KT-01,Klinisch-theoretische Veterinärmedizin,GESW,389
+300,2021,EINR-SONST-01,Übrige Ausbildungseinrichtungen,GESW,313
+301,2023,SB-RWSW-08,Wirtschaftswissenschaften,GESW,6020
+302,2022,SB-SKW-10,"Anglistik, Amerikanistik",GESM,712
+303,2022,SB-KUNSTW-01,"Kunst, Kunstwissenschaft allgemein",GESW,824
+304,2020,SB-MEDHUM-01,Gesundheitswissenschaften,GESW,1339
+305,2020,SB-KUNSTW-04,"Darstellende Kunst, Film u.Fernsehen, Theaterwiss.",GESM,387
+306,2020,HS-01,Hochschule insgesamt,GESW,370
+307,2023,SB-NATW-06,Pharmazie,GESM,1027
+308,2022,SB-INGW-04,Elektro- und Informationstechnik,GESW,1509
+309,2018,SB-INGW-09,Vermessungswesen,GESW,148
+310,2022,THEOL-EV-01,Evangelische Theologie,GESM,659
+311,2020,MEDHUM-KT-01,Klinisch-theor. Humanmedizin (einschl.Zahnmedizin),GESW,6316
+312,2019,SB-KUNSTW-05,"Musik, Musikwissenschaft",GESM,2033
+313,2022,EINR-SONST-01,Übrige Ausbildungseinrichtungen,GESW,339
+314,2020,SB-SKW-04,Philosophie,GESM,1107
+315,2018,SB-RWSW-12,Kommunikationswissenschaft/Publizistik,GESW,0
+316,2023,SB-RWSW-09,Wirtschaftsingenieurw. mit wirtschaftsw. Schwerp.,GESW,235
+317,2021,SB-SKW-10,"Anglistik, Amerikanistik",GESM,708
+318,2018,LB-RW-01,Rechtswissenschaften,GESW,2007
+319,2023,MEDVET-VK-01,Vorklinische Veterinärmedizin,GESW,187
+320,2023,SB-NATW-05,Chemie,GESM,7050
+321,2018,MEDZN-KP-01,Zahnmedizin (klinisch-praktisch),GESM,1084
+322,2021,HS-VERW-02,Zentral verwaltete Hörsäle und Lehrräume,GESM,0
+323,2021,SB-SKW-19,Medienwissenschaft,GESM,312
+324,2022,SB-AGRW-04,Ernährungs- und Haushaltswissenschaften,GESM,218
+325,2019,SB-INGW-07,Raumplanung,GESW,347
+326,2021,LB-RW-01,Rechtswissenschaften,GESM,3576
+327,2018,BIB-ZENTRAL-01,Zentralbibliothek,GESW,224
+328,2019,MEDVET-ALLG-01,Veterinärmedizin allgemein,GESM,3
+329,2020,SB-NATW-08,Geowissenschaften (ohne Geographie),GESM,2079
+330,2020,SB-SKW-12,"Slawistik, Baltistik, Finno-Ugristik",GESW,287
+331,2018,MEDHUM-VK-01,Vorklinische Humanmedizin (einschl. Zahnmedizin),GESW,2228
+332,2021,SB-AGRW-03,"Forstwissenschaft, Holzwirtschaft",GESM,468
+333,2019,SB-SKW-11,Romanistik,GESM,420
+334,2022,HS-VERW-01,Zentrale Hochschulverwaltung,GESM,1705
+335,2023,SB-AGRW-03,"Forstwissenschaft, Holzwirtschaft",GESM,391
+336,2019,SB-INGW-09,Vermessungswesen,GESW,165
+337,2019,SF013,Architektur,GESM,1620
+338,2018,SB-INGW-12,Informatik,GESM,8781
+339,2022,SB-AGRW-02,"Agrarwissensch., Lebensmittel- u. Getränketechnik",GESM,1402
+340,2020,SB-SKW-10,"Anglistik, Amerikanistik",GESW,1303
+341,2023,SB-INGW-03,Maschinenbau/Verfahrenstechnik,GESW,3490
+342,2021,SB-NATW-09,Geographie,GESM,1046
+343,2023,BIB-ZENTRAL-01,Zentralbibliothek,GESM,205
+344,2023,SB-MEDHUM-01,Gesundheitswissenschaften,GESM,900
+345,2022,SB-NATW-05,Chemie,GESM,7139
+346,2020,SB-SKW-18,Islamische Studien/Islamische Theologie,GESW,64
+347,2020,EINR-WISS-01,Zentrale wissenschaftliche Einrichtungen,GESM,3832
+348,2019,SB-INGW-10,Wirtschaftsingenieurw. mit ingenieurw. Schwerpunkt,GESM,384
+349,2023,THEOL-KT-01,Katholische Theologie,GESM,562
+350,2023,SB-INGW-04,Elektro- und Informationstechnik,GESW,1618
+351,2020,MEDVET-KT-01,Klinisch-theoretische Veterinärmedizin,GESM,229
+352,2018,MEDVET-KP-01,Klinisch-praktische Veterinärmedizin,GESW,435
+353,2019,SB-INGW-12,Informatik,GESM,8958
+354,2021,THEOL-KT-01,Katholische Theologie,GESM,587
+355,2021,SB-NATW-07,Biologie,GESM,5017
+356,2022,FACHGR-RWSW-01,"Rechts-, Wirtschafts- u.Sozialwissenschaften allg.",GESW,389
+357,2023,SB-AGRW-02,"Agrarwissensch., Lebensmittel- u. Getränketechnik",GESM,1400
+358,2021,SB-NATW-06,Pharmazie,GESM,1038
+359,2019,SB-SKW-10,"Anglistik, Amerikanistik",GESM,712
+360,2018,KL-EINR-AUSB-01,Übrige Ausbildungseinrichtungen der Kliniken,GESM,17
+361,2021,SB-SKW-18,Islamische Studien/Islamische Theologie,GESM,91
+362,2021,SB-SKW-17,Sonderpädagogik,GESM,0
+363,2021,EINR-KLFRMD-02,Mit der Klinik verbundene u.klinikfremde Einricht.,GESM,22
+364,2020,SB-NATW-09,Geographie,GESM,1096
+365,2019,SB-INGW-11,Materialwissenschaft und Werkstofftechnik,GESM,1526
+366,2023,SB-AGRW-01,"Landespflege, Umweltgestaltung",GESM,262
+367,2021,SB-INGW-12,Informatik,GESW,2472
+368,2020,SB-KUNSTW-01,"Kunst, Kunstwissenschaft allgemein",GESM,462
+369,2023,SB-RWSW-11,Erziehungswissenschaften,GESW,4535
+370,2019,HS-VERW-02,Zentral verwaltete Hörsäle und Lehrräume,GESM,0
+371,2018,SB-INGW-03,Maschinenbau/Verfahrenstechnik,GESW,3004
+372,2021,SB-AGRW-02,"Agrarwissensch., Lebensmittel- u. Getränketechnik",GESM,1556
+373,2018,SB-KUNSTW-01,"Kunst, Kunstwissenschaft allgemein",GESM,506
+374,2019,SKW-SONST-01,Sonstige Sprach- und Kulturwissenschaften,GESM,726
+375,2019,SB-SKW-09,"Germanistik (Deutsch, germ. Sprachen o. Anglistik)",GESW,2188
+376,2023,SB-INGW-09,Vermessungswesen,GESW,208
+377,2020,SB-NATW-07,Biologie,GESM,5063
+378,2022,FACHGR-INGW-01,Ingenieurwissenschaften allgemein,GESW,721
+379,2018,PHIL-KLASS-01,Altphilologie (klassische Philologie),GESM,303
+380,2020,SB-SKW-17,Sonderpädagogik,GESW,0
+381,2018,HS-01,Hochschule insgesamt,GESW,372
+382,2018,HRZ-01,Hochschulrechenzentrum,GESW,196
+383,2022,MEDZN-KP-01,Zahnmedizin (klinisch-praktisch),GESM,1083
+384,2021,SB-NATW-01,"Mathematik, Naturwissenschaften allgemein",GESM,593
+385,2019,SB-RWSW-03,Politikwissenschaft,GESW,741
+386,2019,SB-SKW-12,"Slawistik, Baltistik, Finno-Ugristik",GESM,166
+387,2018,SB-SKW-18,Islamische Studien/Islamische Theologie,GESW,57
+388,2019,PHIL-KLASS-01,Altphilologie (klassische Philologie),GESM,297
+389,2018,SB-INGW-07,Raumplanung,GESW,310
+390,2021,FACHGR-INGW-01,Ingenieurwissenschaften allgemein,GESW,707
+391,2018,SB-RWSW-09,Wirtschaftsingenieurw. mit wirtschaftsw. Schwerp.,GESW,207
+392,2018,SB-SKW-10,"Anglistik, Amerikanistik",GESW,1243
+393,2022,EINR-HSFRMD-02,Mit der Hochschule verb. u. hochschulfr. Einricht.,GESW,112
+394,2019,SB-INGW-02,"Bergbau, Hüttenwesen",GESW,138
+395,2021,MEDZN-KP-01,Zahnmedizin (klinisch-praktisch),GESM,1079
+396,2022,SB-AGRW-01,"Landespflege, Umweltgestaltung",GESM,247
+397,2020,SB-RWSW-10,Psychologie,GESW,3302
+398,2021,KL-EINR-AUSB-01,Übrige Ausbildungseinrichtungen der Kliniken,GESW,153
+399,2019,BIB-ZENTRAL-01,Zentralbibliothek,GESW,229
+400,2023,EINR-SONST-01,Übrige Ausbildungseinrichtungen,GESM,221
+401,2023,SB-INGW-10,Wirtschaftsingenieurw. mit ingenieurw. Schwerpunkt,GESW,185
+402,2021,EINR-HSFRMD-02,Mit der Hochschule verb. u. hochschulfr. Einricht.,GESW,120
+403,2019,MEDVET-VK-01,Vorklinische Veterinärmedizin,GESW,161
+404,2020,SB-NATW-02,Mathematik,GESM,4396
+405,2019,SB-SKW-04,Philosophie,GESW,592
+406,2018,SB-RWSW-04,Sozialwissenschaften/Soziologie,GESW,1564
+407,2023,LB-RW-01,Rechtswissenschaften,GESW,2223
+408,2022,MEDHUM-ALLG-01,Humanmedizin allgemein,GESW,658
+409,2020,SB-RWSW-11,Erziehungswissenschaften,GESW,4316
+410,2019,SB-SKW-05,Geschichte,GESW,1459
+411,2022,HS-01,Hochschule insgesamt,GESM,360
+412,2023,FACHGR-RWSW-01,"Rechts-, Wirtschafts- u.Sozialwissenschaften allg.",GESW,395
+413,2018,SB-INGW-08,Bauingenieurwesen,GESW,1192
+414,2018,EINR-SONST-01,Übrige Ausbildungseinrichtungen,GESW,318
+415,2019,THEOL-KT-01,Katholische Theologie,GESM,602
+416,2021,SB-KUNSTW-03,Gestaltung,GESM,994
+417,2022,MEDVET-KT-01,Klinisch-theoretische Veterinärmedizin,GESW,361
+418,2020,SB-AGRW-03,"Forstwissenschaft, Holzwirtschaft",GESM,459
+419,2023,SB-KUNSTW-02,Bildende Kunst,GESW,413
+420,2022,SB-INGW-11,Materialwissenschaft und Werkstofftechnik,GESW,520
+421,2020,KL-EINR-AUSB-01,Übrige Ausbildungseinrichtungen der Kliniken,GESM,30
+422,2018,SB-KUNSTW-05,"Musik, Musikwissenschaft",GESM,2019
+423,2019,KL-ZD-01,"Kliniken insgesamt, Zentrale Dienste",GESW,793
+424,2022,SB-INGW-10,Wirtschaftsingenieurw. mit ingenieurw. Schwerpunkt,GESW,184
+425,2023,SB-SKW-18,Islamische Studien/Islamische Theologie,GESW,63
+426,2020,SB-AGRW-04,Ernährungs- und Haushaltswissenschaften,GESM,234
+427,2021,SB-KUNSTW-04,"Darstellende Kunst, Film u.Fernsehen, Theaterwiss.",GESM,390
+428,2019,SB-SKW-17,Sonderpädagogik,GESM,0
+429,2023,SB-SKW-17,Sonderpädagogik,GESW,0
+430,2018,SB-SKW-14,Kulturwissenschaften i.e.S.,GESW,344
+431,2023,SB-KUNSTW-01,"Kunst, Kunstwissenschaft allgemein",GESW,828
+432,2021,SB-RWSW-10,Psychologie,GESW,3500
+433,2021,SB-AGRW-01,"Landespflege, Umweltgestaltung",GESM,306
+434,2018,SB-RWSW-05,Sozialwesen,GESW,1431
+435,2019,HS-01,Hochschule insgesamt,GESW,382
+436,2020,SB-KUNSTW-05,"Musik, Musikwissenschaft",GESM,2069
+437,2022,MEDVET-VK-01,Vorklinische Veterinärmedizin,GESW,189
+438,2018,SB-INGW-04,Elektro- und Informationstechnik,GESW,1162
+439,2019,EINR-SONST-01,Übrige Ausbildungseinrichtungen,GESW,327
+440,2023,SB-RWSW-10,Psychologie,GESW,3797
+441,2021,MEDHUM-ALLG-01,Humanmedizin allgemein,GESW,858
+442,2020,SB-INGW-10,Wirtschaftsingenieurw. mit ingenieurw. Schwerpunkt,GESW,138
+443,2019,MEDVET-KP-01,Klinisch-praktische Veterinärmedizin,GESW,444
+444,2020,SB-KUNSTW-02,Bildende Kunst,GESM,440
+445,2023,HS-01,Hochschule insgesamt,GESM,374
+446,2019,SB-INGW-05,"Verkehrstechnik, Nautik",GESW,223
+447,2021,SB-SKW-07,Allg. und vergl. Literatur- und Sprachwissenschaft,GESW,1026
+448,2023,SB-RWSW-12,Kommunikationswissenschaft/Publizistik,GESW,434
+449,2018,THEOL-KT-01,Katholische Theologie,GESM,618
+450,2019,MEDVET-KT-01,Klinisch-theoretische Veterinärmedizin,GESW,370
+451,2021,EINR-WISS-01,Zentrale wissenschaftliche Einrichtungen,GESM,4044
+452,2020,MEDHUM-VK-01,Vorklinische Humanmedizin (einschl. Zahnmedizin),GESW,2323
+453,2019,SB-SKW-18,Islamische Studien/Islamische Theologie,GESM,94
+454,2019,SB-INGW-03,Maschinenbau/Verfahrenstechnik,GESW,3092
+455,2023,SB-SKW-12,"Slawistik, Baltistik, Finno-Ugristik",GESW,286
+456,2022,SB-RWSW-11,Erziehungswissenschaften,GESW,4502
+457,2019,SB-SKW-01,Geisteswissenschaften allgemein,GESW,743
+458,2022,AFEW-ALLG-01,"Agrar-, Forst- und Ernährungswissenschaften allg.",GESM,478
+459,2020,SB-AGRW-02,"Agrarwissensch., Lebensmittel- u. Getränketechnik",GESM,1568
+460,2019,SB-RWSW-04,Sozialwissenschaften/Soziologie,GESW,1600
+461,2023,MEDZN-KP-01,Zahnmedizin (klinisch-praktisch),GESM,1093
+462,2018,SB-SKW-17,Sonderpädagogik,GESW,0
+463,2020,LB-RW-01,Rechtswissenschaften,GESW,2077
+464,2020,MEDZN-KP-01,Zahnmedizin (klinisch-praktisch),GESM,1110
+465,2023,SKW-SONST-01,Sonstige Sprach- und Kulturwissenschaften,GESM,767
+466,2023,EINR-HSFRMD-02,Mit der Hochschule verb. u. hochschulfr. Einricht.,GESW,110
+467,2023,SB-SKW-14,Kulturwissenschaften i.e.S.,GESW,337
+468,2022,SB-SKW-05,Geschichte,GESM,1805
+469,2018,SB-RWSW-08,Wirtschaftswissenschaften,GESW,5330
+470,2021,SB-INGW-11,Materialwissenschaft und Werkstofftechnik,GESW,490
+471,2021,SB-SKW-09,"Germanistik (Deutsch, germ. Sprachen o. Anglistik)",GESW,2293
+472,2019,EINR-KLFRMD-02,Mit der Klinik verbundene u.klinikfremde Einricht.,GESW,13
+473,2021,KL-ZD-01,"Kliniken insgesamt, Zentrale Dienste",GESW,1357
+474,2022,SB-SKW-07,Allg. und vergl. Literatur- und Sprachwissenschaft,GESM,638
+475,2019,SB-RWSW-07,Verwaltungswissenschaften,GESW,710
+476,2018,EINR-WISS-01,Zentrale wissenschaftliche Einrichtungen,GESM,3546
+477,2021,SB-SKW-04,Philosophie,GESW,650
+478,2022,MEDVET-KP-01,Klinisch-praktische Veterinärmedizin,GESW,531
+479,2022,SB-SKW-06,Informations- und Bibliothekswissenschaften,GESM,79
+480,2019,EINR-VERS-01,Zentrale Betriebs- und Versorgungseinrichtungen,GESM,89
+481,2022,EINR-VERS-01,Zentrale Betriebs- und Versorgungseinrichtungen,GESM,101
+482,2018,SB-SKW-19,Medienwissenschaft,GESW,0
+483,2021,SB-SKW-05,Geschichte,GESW,1480
+484,2022,SB-RWSW-12,Kommunikationswissenschaft/Publizistik,GESW,413
+485,2018,SF013,Architektur,GESM,1627
+486,2023,SB-SKW-11,Romanistik,GESW,793
+487,2019,SB-RWSW-09,Wirtschaftsingenieurw. mit wirtschaftsw. Schwerp.,GESW,222
+488,2021,SB-SKW-06,Informations- und Bibliothekswissenschaften,GESW,95
+489,2020,SB-INGW-12,Informatik,GESW,2223
+490,2023,FACHGR-INGW-01,Ingenieurwissenschaften allgemein,GESW,698
+491,2019,SB-RWSW-08,Wirtschaftswissenschaften,GESW,5482
+492,2022,SB-SKW-09,"Germanistik (Deutsch, germ. Sprachen o. Anglistik)",GESM,1351
+493,2023,KL-EINR-AUSB-01,Übrige Ausbildungseinrichtungen der Kliniken,GESM,53
+494,2020,SB-INGW-11,Materialwissenschaft und Werkstofftechnik,GESW,435
+495,2018,SB-INGW-02,"Bergbau, Hüttenwesen",GESW,136
+496,2023,SB-SKW-10,"Anglistik, Amerikanistik",GESW,1333
+497,2023,EINR-HSFRMD-02,Mit der Hochschule verb. u. hochschulfr. Einricht.,GESM,136
+498,2021,SB-RWSW-10,Psychologie,GESM,2203
+499,2020,KL-ZD-01,"Kliniken insgesamt, Zentrale Dienste",GESW,949
+500,2020,MEDZN-KP-01,Zahnmedizin (klinisch-praktisch),GESW,995
+501,2018,SB-INGW-05,"Verkehrstechnik, Nautik",GESW,206
+502,2022,SB-INGW-08,Bauingenieurwesen,GESW,1326
+503,2022,PHIL-KLASS-01,Altphilologie (klassische Philologie),GESM,277
+504,2018,EINR-HSFRMD-02,Mit der Hochschule verb. u. hochschulfr. Einricht.,GESW,122
+505,2023,MEDVET-KT-01,Klinisch-theoretische Veterinärmedizin,GESW,368
+506,2023,SB-RWSW-04,Sozialwissenschaften/Soziologie,GESW,1711
+507,2023,EINR-WISS-01,Zentrale wissenschaftliche Einrichtungen,GESM,4119
+508,2018,SB-SKW-01,Geisteswissenschaften allgemein,GESM,714
+509,2023,SB-INGW-10,Wirtschaftsingenieurw. mit ingenieurw. Schwerpunkt,GESM,479
+510,2019,SB-INGW-04,Elektro- und Informationstechnik,GESW,1232
+511,2018,HS-VERW-01,Zentrale Hochschulverwaltung,GESM,1453
+512,2021,SB-INGW-09,Vermessungswesen,GESW,186
+513,2020,SB-RWSW-08,Wirtschaftswissenschaften,GESW,5758
+514,2020,SB-NATW-05,Chemie,GESM,7456
+515,2019,SB-RWSW-08,Wirtschaftswissenschaften,GESM,10867
+516,2022,SB-INGW-11,Materialwissenschaft und Werkstofftechnik,GESM,1439
+517,2018,EINR-VERS-01,Zentrale Betriebs- und Versorgungseinrichtungen,GESW,104
+518,2018,SB-RWSW-02,Regionalwissenschaften,GESW,86
+519,2019,SB-KUNSTW-01,"Kunst, Kunstwissenschaft allgemein",GESM,506
+520,2023,SB-KUNSTW-02,Bildende Kunst,GESM,440
+521,2020,SB-AGRW-01,"Landespflege, Umweltgestaltung",GESM,305
+522,2021,SB-SKW-14,Kulturwissenschaften i.e.S.,GESM,237
+523,2018,SB-KUNSTW-05,"Musik, Musikwissenschaft",GESW,1049
+524,2019,KL-ZD-01,"Kliniken insgesamt, Zentrale Dienste",GESM,620
+525,2023,SB-NATW-01,"Mathematik, Naturwissenschaften allgemein",GESM,592
+526,2019,AFEW-ALLG-01,"Agrar-, Forst- und Ernährungswissenschaften allg.",GESM,102
+527,2018,SB-KUNSTW-04,"Darstellende Kunst, Film u.Fernsehen, Theaterwiss.",GESW,386
+528,2018,SB-NATW-09,Geographie,GESW,678
+529,2019,SB-SKW-14,Kulturwissenschaften i.e.S.,GESM,252
+530,2020,SB-NATW-04,"Physik, Astronomie",GESM,9038
+531,2020,SB-SKW-14,Kulturwissenschaften i.e.S.,GESM,226
+532,2023,SB-KUNSTW-03,Gestaltung,GESM,983
+533,2018,SB-RWSW-03,Politikwissenschaft,GESW,713
+534,2022,MEDVET-ALLG-01,Veterinärmedizin allgemein,GESM,1
+535,2022,KL-EINR-SOZ-01,Soziale Einrichtungen der Kliniken,GESW,6
+536,2019,SB-NATW-08,Geowissenschaften (ohne Geographie),GESW,1008
+537,2019,THEOL-EV-01,Evangelische Theologie,GESW,473
+538,2019,EINR-SOZ-01,Soziale Einrichtungen,GESW,13
+539,2020,SB-RWSW-07,Verwaltungswissenschaften,GESW,739
+540,2021,THEOL-EV-01,Evangelische Theologie,GESM,664
+541,2019,SB-RWSW-02,Regionalwissenschaften,GESW,86
+542,2023,SB-INGW-11,Materialwissenschaft und Werkstofftechnik,GESM,1389
+543,2018,HS-VERW-02,Zentral verwaltete Hörsäle und Lehrräume,GESM,1
+544,2020,MEDVET-VK-01,Vorklinische Veterinärmedizin,GESW,178
+545,2019,FACHGR-RWSW-01,"Rechts-, Wirtschafts- u.Sozialwissenschaften allg.",GESW,640
+546,2023,MEDHUM-KT-01,Klinisch-theor. Humanmedizin (einschl.Zahnmedizin),GESW,7084
+547,2018,SB-RWSW-09,Wirtschaftsingenieurw. mit wirtschaftsw. Schwerp.,GESM,646
+548,2021,SB-KUNSTW-05,"Musik, Musikwissenschaft",GESM,2105
+549,2022,SB-SKW-01,Geisteswissenschaften allgemein,GESM,398
+550,2022,SB-INGW-09,Vermessungswesen,GESW,189
+551,2023,SB-NATW-02,Mathematik,GESM,4377
+552,2022,SB-SKW-09,"Germanistik (Deutsch, germ. Sprachen o. Anglistik)",GESW,2232
+553,2023,SB-SKW-01,Geisteswissenschaften allgemein,GESM,403
+554,2021,SB-INGW-08,Bauingenieurwesen,GESW,1338
+555,2021,MEDVET-KP-01,Klinisch-praktische Veterinärmedizin,GESW,510
+556,2022,EINR-VERS-01,Zentrale Betriebs- und Versorgungseinrichtungen,GESW,129
+557,2020,PHIL-KLASS-01,Altphilologie (klassische Philologie),GESM,283
+558,2020,SB-SKW-09,"Germanistik (Deutsch, germ. Sprachen o. Anglistik)",GESW,2208
+559,2019,SB-RWSW-07,Verwaltungswissenschaften,GESM,1292
+560,2019,HS-VERW-01,Zentrale Hochschulverwaltung,GESM,1429
+561,2023,AFEW-ALLG-01,"Agrar-, Forst- und Ernährungswissenschaften allg.",GESM,478
+562,2023,SB-KUNSTW-01,"Kunst, Kunstwissenschaft allgemein",GESM,429
+563,2019,SB-NATW-09,Geographie,GESW,762
+564,2023,SF013,Architektur,GESW,1162
+565,2020,MEDVET-KP-01,Klinisch-praktische Veterinärmedizin,GESM,205
+566,2018,KL-ZD-01,"Kliniken insgesamt, Zentrale Dienste",GESM,596
+567,2020,SB-NATW-06,Pharmazie,GESM,1003
+568,2018,SB-INGW-10,Wirtschaftsingenieurw. mit ingenieurw. Schwerpunkt,GESM,359
+569,2021,SB-NATW-02,Mathematik,GESM,4424
+570,2023,THEOL-EV-01,Evangelische Theologie,GESW,514
+571,2020,SB-SKW-01,Geisteswissenschaften allgemein,GESM,434
+572,2020,FACHGR-INGW-01,Ingenieurwissenschaften allgemein,GESW,641
+573,2022,SB-INGW-07,Raumplanung,GESW,401
+574,2022,SB-INGW-12,Informatik,GESM,10206
+575,2019,SB-RWSW-09,Wirtschaftsingenieurw. mit wirtschaftsw. Schwerp.,GESM,644
+576,2022,HRZ-01,Hochschulrechenzentrum,GESW,252
+577,2020,KL-EINR-SOZ-01,Soziale Einrichtungen der Kliniken,GESM,7
+578,2021,SB-NATW-04,"Physik, Astronomie",GESM,9165
+579,2023,SB-INGW-05,"Verkehrstechnik, Nautik",GESW,332
+580,2023,SB-SKW-14,Kulturwissenschaften i.e.S.,GESM,221
+581,2021,SB-INGW-11,Materialwissenschaft und Werkstofftechnik,GESM,1457
+582,2023,HS-VERW-01,Zentrale Hochschulverwaltung,GESM,1682
+583,2023,SB-SKW-12,"Slawistik, Baltistik, Finno-Ugristik",GESM,156
+584,2022,SB-INGW-10,Wirtschaftsingenieurw. mit ingenieurw. Schwerpunkt,GESM,462
+585,2023,HS-VERW-02,Zentral verwaltete Hörsäle und Lehrräume,GESM,0
+586,2021,HRZ-01,Hochschulrechenzentrum,GESW,242
+587,2023,SB-INGW-08,Bauingenieurwesen,GESW,1330
+588,2018,THEOL-KT-01,Katholische Theologie,GESW,326
+589,2023,MEDHUM-KP-01,Klinisch-prakt. Humanmedizin (ohne Zahnmedizin),GESM,23696
+590,2020,THEOL-KT-01,Katholische Theologie,GESM,603
+591,2022,MEDVET-KT-01,Klinisch-theoretische Veterinärmedizin,GESM,236
+592,2021,EINR-VERS-01,Zentrale Betriebs- und Versorgungseinrichtungen,GESM,97
+593,2023,EINR-VERS-01,Zentrale Betriebs- und Versorgungseinrichtungen,GESM,102
+594,2019,EINR-WISS-01,Zentrale wissenschaftliche Einrichtungen,GESM,3645
+595,2022,SB-NATW-01,"Mathematik, Naturwissenschaften allgemein",GESM,581
+596,2022,SB-NATW-02,Mathematik,GESM,4450
+597,2019,SB-SKW-01,Geisteswissenschaften allgemein,GESM,771
+598,2021,SB-NATW-05,Chemie,GESM,7396
+599,2018,SKW-SONST-01,Sonstige Sprach- und Kulturwissenschaften,GESW,719
+600,2021,SB-INGW-12,Informatik,GESM,10017
+601,2023,SB-INGW-07,Raumplanung,GESW,372
+602,2020,HRZ-01,Hochschulrechenzentrum,GESW,217
+603,2022,KL-ZD-01,"Kliniken insgesamt, Zentrale Dienste",GESW,1363
+604,2021,SKW-SONST-01,Sonstige Sprach- und Kulturwissenschaften,GESM,728
+605,2019,SB-NATW-06,Pharmazie,GESW,733
+606,2022,SB-RWSW-03,Politikwissenschaft,GESW,967
+607,2019,HRZ-01,Hochschulrechenzentrum,GESM,856
+608,2023,SB-NATW-09,Geographie,GESW,839
+609,2019,SB-INGW-09,Vermessungswesen,GESM,451
+610,2021,HS-01,Hochschule insgesamt,GESM,365
+611,2022,HS-VERW-02,Zentral verwaltete Hörsäle und Lehrräume,GESM,0
+612,2018,SB-AGRW-04,Ernährungs- und Haushaltswissenschaften,GESW,370
+613,2018,SB-INGW-11,Materialwissenschaft und Werkstofftechnik,GESM,1461
+614,2023,EINR-SOZ-01,Soziale Einrichtungen,GESW,9
+615,2021,EINR-SONST-01,Übrige Ausbildungseinrichtungen,GESM,219
+616,2022,EINR-KLFRMD-02,Mit der Klinik verbundene u.klinikfremde Einricht.,GESW,23
+617,2022,SB-NATW-04,"Physik, Astronomie",GESM,9074
+618,2018,LB-RW-01,Rechtswissenschaften,GESM,3486
+619,2020,SB-INGW-08,Bauingenieurwesen,GESW,1263
+620,2021,SF013,Architektur,GESW,1119
+621,2018,SB-NATW-07,Biologie,GESW,4551
+622,2018,SB-SKW-09,"Germanistik (Deutsch, germ. Sprachen o. Anglistik)",GESW,2173
+623,2020,AFEW-ALLG-01,"Agrar-, Forst- und Ernährungswissenschaften allg.",GESM,158
+624,2021,MEDHUM-KP-01,Klinisch-prakt. Humanmedizin (ohne Zahnmedizin),GESW,24687
+625,2019,SB-RWSW-12,Kommunikationswissenschaft/Publizistik,GESW,0
+626,2020,HS-VERW-01,Zentrale Hochschulverwaltung,GESW,2027
+627,2019,SB-KUNSTW-03,Gestaltung,GESM,917
+628,2020,SB-INGW-03,Maschinenbau/Verfahrenstechnik,GESM,14010
+629,2019,KL-EINR-AUSB-01,Übrige Ausbildungseinrichtungen der Kliniken,GESM,16
+630,2019,MEDHUM-VK-01,Vorklinische Humanmedizin (einschl. Zahnmedizin),GESW,2230
+631,2018,SB-NATW-01,"Mathematik, Naturwissenschaften allgemein",GESM,466
+632,2020,EINR-KLFRMD-02,Mit der Klinik verbundene u.klinikfremde Einricht.,GESM,23
+633,2020,SB-INGW-02,"Bergbau, Hüttenwesen",GESM,402
+634,2020,SB-RWSW-05,Sozialwesen,GESW,1640
+635,2018,FACHGR-INGW-01,Ingenieurwissenschaften allgemein,GESM,1650
+636,2023,SB-KUNSTW-04,"Darstellende Kunst, Film u.Fernsehen, Theaterwiss.",GESM,382
+637,2018,SB-NATW-08,Geowissenschaften (ohne Geographie),GESW,996
+638,2022,SB-KUNSTW-03,Gestaltung,GESW,768
+639,2020,HS-VERW-02,Zentral verwaltete Hörsäle und Lehrräume,GESW,0
+640,2022,SB-SKW-11,Romanistik,GESM,426
+641,2019,SB-KUNSTW-04,"Darstellende Kunst, Film u.Fernsehen, Theaterwiss.",GESM,385
+642,2019,SB-SKW-10,"Anglistik, Amerikanistik",GESW,1280
+643,2018,SB-KUNSTW-03,Gestaltung,GESW,607
+644,2022,SB-INGW-05,"Verkehrstechnik, Nautik",GESW,308
+645,2018,SB-NATW-02,Mathematik,GESM,4618
+646,2021,SB-RWSW-04,Sozialwissenschaften/Soziologie,GESW,1733
+647,2021,SB-SKW-12,"Slawistik, Baltistik, Finno-Ugristik",GESM,147
+648,2020,SB-INGW-09,Vermessungswesen,GESW,158
+649,2018,MEDVET-ALLG-01,Veterinärmedizin allgemein,GESM,4
+650,2023,SB-INGW-12,Informatik,GESM,10600
+651,2021,SB-MEDHUM-01,Gesundheitswissenschaften,GESW,1430
+652,2021,EINR-SOZ-01,Soziale Einrichtungen,GESM,11
+653,2021,MEDHUM-KT-01,Klinisch-theor. Humanmedizin (einschl.Zahnmedizin),GESW,6544
+654,2021,SB-KUNSTW-01,"Kunst, Kunstwissenschaft allgemein",GESW,804
+655,2022,EINR-WISS-01,Zentrale wissenschaftliche Einrichtungen,GESW,4229
+656,2022,SF013,Architektur,GESW,1109
+657,2023,SB-NATW-04,"Physik, Astronomie",GESM,9132
+658,2018,SB-KUNSTW-02,Bildende Kunst,GESW,321
+659,2021,SB-SKW-11,Romanistik,GESM,445
+660,2019,SB-NATW-07,Biologie,GESW,4660
+661,2019,SB-MEDHUM-01,Gesundheitswissenschaften,GESW,1269
+662,2019,MEDHUM-KT-01,Klinisch-theor. Humanmedizin (einschl.Zahnmedizin),GESW,5687
+663,2023,KL-EINR-SOZ-01,Soziale Einrichtungen der Kliniken,GESM,25
+664,2018,KL-EINR-SOZ-01,Soziale Einrichtungen der Kliniken,GESW,15
+665,2021,SB-INGW-07,Raumplanung,GESW,380
+666,2023,SB-KUNSTW-05,"Musik, Musikwissenschaft",GESM,2123
+667,2023,SB-RWSW-05,Sozialwesen,GESW,1873
+668,2019,SB-NATW-05,Chemie,GESW,3483
+669,2023,SB-SKW-09,"Germanistik (Deutsch, germ. Sprachen o. Anglistik)",GESW,2233
+670,2022,BIB-ZENTRAL-01,Zentralbibliothek,GESW,261
+671,2023,THEOL-KT-01,Katholische Theologie,GESW,378
+672,2023,SB-RWSW-07,Verwaltungswissenschaften,GESW,818
+673,2020,MEDVET-KT-01,Klinisch-theoretische Veterinärmedizin,GESW,374
+674,2022,EINR-SOZ-01,Soziale Einrichtungen,GESM,13
+675,2022,SB-RWSW-04,Sozialwissenschaften/Soziologie,GESW,1672
+676,2018,SB-NATW-06,Pharmazie,GESW,750
+677,2021,SB-SKW-10,"Anglistik, Amerikanistik",GESW,1358
+678,2021,MEDVET-VK-01,Vorklinische Veterinärmedizin,GESM,108
+679,2023,SB-SKW-07,Allg. und vergl. Literatur- und Sprachwissenschaft,GESW,965
+680,2022,THEOL-KT-01,Katholische Theologie,GESW,354
+681,2021,SB-RWSW-05,Sozialwesen,GESW,1704
+682,2022,MEDHUM-VK-01,Vorklinische Humanmedizin (einschl. Zahnmedizin),GESM,2146
+683,2022,KL-EINR-AUSB-01,Übrige Ausbildungseinrichtungen der Kliniken,GESW,163
+684,2023,PHIL-KLASS-01,Altphilologie (klassische Philologie),GESW,190
+685,2022,SB-SKW-12,"Slawistik, Baltistik, Finno-Ugristik",GESM,155
+686,2020,SB-RWSW-09,Wirtschaftsingenieurw. mit wirtschaftsw. Schwerp.,GESW,225
+687,2022,MEDHUM-KT-01,Klinisch-theor. Humanmedizin (einschl.Zahnmedizin),GESM,6268
+688,2020,SB-INGW-07,Raumplanung,GESW,357
+689,2022,SB-RWSW-02,Regionalwissenschaften,GESW,92
+690,2018,MEDHUM-ALLG-01,Humanmedizin allgemein,GESW,317
+691,2018,SB-AGRW-03,"Forstwissenschaft, Holzwirtschaft",GESW,245
+692,2022,SB-KUNSTW-04,"Darstellende Kunst, Film u.Fernsehen, Theaterwiss.",GESW,408
+693,2019,SB-KUNSTW-02,Bildende Kunst,GESM,443
+694,2020,EINR-SOZ-01,Soziale Einrichtungen,GESW,9
+695,2022,SB-MEDHUM-01,Gesundheitswissenschaften,GESM,857
+696,2023,MEDHUM-ALLG-01,Humanmedizin allgemein,GESM,552
+697,2021,SB-RWSW-07,Verwaltungswissenschaften,GESW,764
+698,2019,SB-AGRW-03,"Forstwissenschaft, Holzwirtschaft",GESW,255
+699,2022,SB-RWSW-09,Wirtschaftsingenieurw. mit wirtschaftsw. Schwerp.,GESW,248
+700,2019,SB-AGRW-02,"Agrarwissensch., Lebensmittel- u. Getränketechnik",GESW,1337
+701,2022,SB-KUNSTW-05,"Musik, Musikwissenschaft",GESW,1188
+702,2020,FACHGR-RWSW-01,"Rechts-, Wirtschafts- u.Sozialwissenschaften allg.",GESW,306
+703,2019,SB-AGRW-01,"Landespflege, Umweltgestaltung",GESW,237
+704,2022,SB-RWSW-08,Wirtschaftswissenschaften,GESW,5954
+705,2021,HS-VERW-02,Zentral verwaltete Hörsäle und Lehrräume,GESW,0
+706,2021,SB-RWSW-08,Wirtschaftswissenschaften,GESW,5871
+707,2022,SB-RWSW-07,Verwaltungswissenschaften,GESW,794
+708,2020,BIB-ZENTRAL-01,Zentralbibliothek,GESM,227
+709,2021,HS-VERW-01,Zentrale Hochschulverwaltung,GESW,2054
+710,2019,SB-AGRW-04,Ernährungs- und Haushaltswissenschaften,GESW,382
+711,2022,SB-SKW-14,Kulturwissenschaften i.e.S.,GESM,234
+712,2018,MEDVET-VK-01,Vorklinische Veterinärmedizin,GESM,98
+713,2020,HS-01,Hochschule insgesamt,GESM,331
+714,2019,MEDHUM-KP-01,Klinisch-prakt. Humanmedizin (ohne Zahnmedizin),GESM,22380
+715,2022,SB-RWSW-05,Sozialwesen,GESW,1789
+716,2018,SB-SKW-04,Philosophie,GESM,1072
+717,2018,MEDVET-KT-01,Klinisch-theoretische Veterinärmedizin,GESM,225
+718,2022,SB-SKW-17,Sonderpädagogik,GESM,0
+719,2023,SB-RWSW-03,Politikwissenschaft,GESW,872
+720,2021,SB-RWSW-09,Wirtschaftsingenieurw. mit wirtschaftsw. Schwerp.,GESW,221
+721,2018,SB-RWSW-10,Psychologie,GESM,2085
+722,2019,EINR-HSFRMD-02,Mit der Hochschule verb. u. hochschulfr. Einricht.,GESM,169
+723,2023,SB-RWSW-02,Regionalwissenschaften,GESW,80
+724,2022,SB-NATW-08,Geowissenschaften (ohne Geographie),GESW,1078
+725,2022,SB-RWSW-08,Wirtschaftswissenschaften,GESM,10897
+726,2018,EINR-SONST-01,Übrige Ausbildungseinrichtungen,GESM,193
+727,2021,SB-KUNSTW-03,Gestaltung,GESW,738
+728,2018,SB-INGW-08,Bauingenieurwesen,GESM,3436
+729,2020,SB-NATW-02,Mathematik,GESW,1561
+730,2020,SB-SKW-18,Islamische Studien/Islamische Theologie,GESM,105
+731,2022,SB-SKW-18,Islamische Studien/Islamische Theologie,GESM,87
+732,2022,SB-INGW-02,"Bergbau, Hüttenwesen",GESM,400
+733,2022,HS-VERW-01,Zentrale Hochschulverwaltung,GESW,2203
+734,2018,SB-SKW-19,Medienwissenschaft,GESM,0
+735,2019,SB-RWSW-04,Sozialwissenschaften/Soziologie,GESM,1566
+736,2018,THEOL-EV-01,Evangelische Theologie,GESW,463
+737,2022,MEDHUM-VK-01,Vorklinische Humanmedizin (einschl. Zahnmedizin),GESW,2350
+738,2019,SB-MEDHUM-01,Gesundheitswissenschaften,GESM,716
+739,2018,SB-SKW-05,Geschichte,GESM,1883
+740,2023,SB-RWSW-12,Kommunikationswissenschaft/Publizistik,GESM,360
+741,2022,SB-SKW-06,Informations- und Bibliothekswissenschaften,GESW,85
+742,2021,SB-RWSW-09,Wirtschaftsingenieurw. mit wirtschaftsw. Schwerp.,GESM,654
+743,2020,EINR-VERS-01,Zentrale Betriebs- und Versorgungseinrichtungen,GESW,114
+744,2023,SB-SKW-04,Philosophie,GESM,1019
+745,2022,MEDVET-KP-01,Klinisch-praktische Veterinärmedizin,GESM,195
+746,2018,EINR-SOZ-01,Soziale Einrichtungen,GESM,14
+747,2020,SB-KUNSTW-05,"Musik, Musikwissenschaft",GESW,1081
+748,2021,MEDHUM-VK-01,Vorklinische Humanmedizin (einschl. Zahnmedizin),GESM,2102
+749,2022,SB-AGRW-04,Ernährungs- und Haushaltswissenschaften,GESW,416
+750,2018,SB-AGRW-02,"Agrarwissensch., Lebensmittel- u. Getränketechnik",GESW,1301
+751,2020,KL-EINR-AUSB-01,Übrige Ausbildungseinrichtungen der Kliniken,GESW,142
+752,2020,SB-RWSW-03,Politikwissenschaft,GESW,792
+753,2019,HS-01,Hochschule insgesamt,GESM,348
+754,2018,SB-RWSW-05,Sozialwesen,GESM,952
+755,2020,SB-INGW-05,"Verkehrstechnik, Nautik",GESM,2046
+756,2019,SB-INGW-07,Raumplanung,GESM,353
+757,2019,SB-SKW-05,Geschichte,GESM,1889
+758,2023,MEDVET-ALLG-01,Veterinärmedizin allgemein,GESW,10
+759,2023,SB-SKW-18,Islamische Studien/Islamische Theologie,GESM,80
+760,2018,SB-NATW-04,"Physik, Astronomie",GESM,8832
+761,2022,EINR-HSFRMD-02,Mit der Hochschule verb. u. hochschulfr. Einricht.,GESM,140
+762,2020,SKW-SONST-01,Sonstige Sprach- und Kulturwissenschaften,GESM,728
+763,2019,EINR-HSFRMD-02,Mit der Hochschule verb. u. hochschulfr. Einricht.,GESW,119
+764,2020,SB-INGW-10,Wirtschaftsingenieurw. mit ingenieurw. Schwerpunkt,GESM,407
+765,2018,PHIL-KLASS-01,Altphilologie (klassische Philologie),GESW,211
+766,2022,FACHGR-INGW-01,Ingenieurwissenschaften allgemein,GESM,1886
+767,2021,SB-SKW-19,Medienwissenschaft,GESW,300
+768,2021,SB-SKW-05,Geschichte,GESM,1818
+769,2021,EINR-WISS-01,Zentrale wissenschaftliche Einrichtungen,GESW,4083
+770,2020,SB-RWSW-04,Sozialwissenschaften/Soziologie,GESW,1671
+771,2021,LB-RW-01,Rechtswissenschaften,GESW,2189
+772,2020,SB-SKW-10,"Anglistik, Amerikanistik",GESM,707
+773,2018,SB-AGRW-01,"Landespflege, Umweltgestaltung",GESW,278
+774,2021,SB-NATW-09,Geographie,GESW,813
+775,2018,AFEW-ALLG-01,"Agrar-, Forst- und Ernährungswissenschaften allg.",GESW,70
+776,2018,SB-SKW-06,Informations- und Bibliothekswissenschaften,GESW,79
+777,2018,SB-SKW-07,Allg. und vergl. Literatur- und Sprachwissenschaft,GESW,938
+778,2021,SB-SKW-04,Philosophie,GESM,1120
+779,2022,AFEW-ALLG-01,"Agrar-, Forst- und Ernährungswissenschaften allg.",GESW,335
+780,2021,SB-RWSW-03,Politikwissenschaft,GESW,910
+781,2018,HS-01,Hochschule insgesamt,GESM,332
+782,2023,SB-AGRW-03,"Forstwissenschaft, Holzwirtschaft",GESW,286
+783,2019,SB-SKW-11,Romanistik,GESW,832
+784,2018,HRZ-01,Hochschulrechenzentrum,GESM,845
+785,2021,SB-RWSW-02,Regionalwissenschaften,GESW,83
+786,2022,SB-SKW-19,Medienwissenschaft,GESW,327
+787,2018,SB-SKW-18,Islamische Studien/Islamische Theologie,GESM,83
+788,2023,SB-AGRW-04,Ernährungs- und Haushaltswissenschaften,GESW,431
+789,2023,BIB-ZENTRAL-01,Zentralbibliothek,GESW,247
+790,2019,SB-SKW-12,"Slawistik, Baltistik, Finno-Ugristik",GESW,290
+791,2018,SB-KUNSTW-01,"Kunst, Kunstwissenschaft allgemein",GESW,706
+792,2018,SB-INGW-09,Vermessungswesen,GESM,426
+793,2020,FACHGR-RWSW-01,"Rechts-, Wirtschafts- u.Sozialwissenschaften allg.",GESM,382
+794,2023,KL-ZD-01,"Kliniken insgesamt, Zentrale Dienste",GESW,1483
+795,2022,SB-RWSW-07,Verwaltungswissenschaften,GESM,1376
+796,2022,SB-NATW-09,Geographie,GESW,796
+797,2023,SB-SKW-19,Medienwissenschaft,GESM,290
+798,2023,EINR-SONST-01,Übrige Ausbildungseinrichtungen,GESW,341
+799,2022,SB-NATW-07,Biologie,GESW,4793
+800,2021,SB-KUNSTW-02,Bildende Kunst,GESW,375
+801,2019,SB-SKW-04,Philosophie,GESM,1076
+802,2023,EINR-KLFRMD-02,Mit der Klinik verbundene u.klinikfremde Einricht.,GESW,10
+803,2022,SB-RWSW-09,Wirtschaftsingenieurw. mit wirtschaftsw. Schwerp.,GESM,648
+804,2023,SB-RWSW-08,Wirtschaftswissenschaften,GESM,10746
+805,2022,SB-RWSW-12,Kommunikationswissenschaft/Publizistik,GESM,346
+806,2018,SF013,Architektur,GESW,988
+807,2022,MEDHUM-ALLG-01,Humanmedizin allgemein,GESM,603
+808,2022,SB-INGW-03,Maschinenbau/Verfahrenstechnik,GESM,13282
+809,2023,SB-INGW-02,"Bergbau, Hüttenwesen",GESM,391
+810,2020,SB-SKW-05,Geschichte,GESW,1491
+811,2019,SB-INGW-08,Bauingenieurwesen,GESM,3482
+812,2023,HRZ-01,Hochschulrechenzentrum,GESW,245
+813,2023,SB-SKW-17,Sonderpädagogik,GESM,0
+814,2023,KL-EINR-AUSB-01,Übrige Ausbildungseinrichtungen der Kliniken,GESW,187
+815,2021,SB-INGW-02,"Bergbau, Hüttenwesen",GESM,419
+816,2020,SB-INGW-11,Materialwissenschaft und Werkstofftechnik,GESM,1476
+817,2019,SB-NATW-01,"Mathematik, Naturwissenschaften allgemein",GESM,451
+818,2018,SB-NATW-05,Chemie,GESM,7412
+819,2023,SB-SKW-10,"Anglistik, Amerikanistik",GESM,677
+820,2019,SB-SKW-06,Informations- und Bibliothekswissenschaften,GESM,85
+821,2022,THEOL-EV-01,Evangelische Theologie,GESW,492
+822,2022,MEDHUM-KP-01,Klinisch-prakt. Humanmedizin (ohne Zahnmedizin),GESW,25501
+823,2022,SB-SKW-07,Allg. und vergl. Literatur- und Sprachwissenschaft,GESW,990
+824,2020,SB-INGW-04,Elektro- und Informationstechnik,GESM,7985
+825,2023,SB-RWSW-11,Erziehungswissenschaften,GESM,2148
+826,2020,SB-RWSW-02,Regionalwissenschaften,GESW,82
+827,2021,SB-KUNSTW-04,"Darstellende Kunst, Film u.Fernsehen, Theaterwiss.",GESW,393
+828,2021,SB-INGW-05,"Verkehrstechnik, Nautik",GESM,2076
+829,2022,LB-RW-01,Rechtswissenschaften,GESW,2233
+830,2019,FACHGR-INGW-01,Ingenieurwissenschaften allgemein,GESW,617
+831,2023,SB-NATW-05,Chemie,GESW,3684
+832,2019,KL-EINR-SOZ-01,Soziale Einrichtungen der Kliniken,GESW,15
+833,2022,MEDVET-VK-01,Vorklinische Veterinärmedizin,GESM,110
+834,2019,SB-NATW-02,Mathematik,GESM,4650
+835,2023,SB-RWSW-05,Sozialwesen,GESM,1044
+836,2021,SB-INGW-03,Maschinenbau/Verfahrenstechnik,GESM,13777
+837,2022,SB-SKW-10,"Anglistik, Amerikanistik",GESW,1391
+838,2019,EINR-SONST-01,Übrige Ausbildungseinrichtungen,GESM,227
+839,2021,SB-INGW-10,Wirtschaftsingenieurw. mit ingenieurw. Schwerpunkt,GESM,429
+840,2019,SB-INGW-05,"Verkehrstechnik, Nautik",GESM,1779
+841,2023,SB-NATW-06,Pharmazie,GESW,812
+842,2023,SB-SKW-05,Geschichte,GESM,1746
+843,2023,SB-NATW-07,Biologie,GESW,4876
+844,2019,MEDVET-KT-01,Klinisch-theoretische Veterinärmedizin,GESM,226
+845,2018,MEDHUM-KP-01,Klinisch-prakt. Humanmedizin (ohne Zahnmedizin),GESM,21836
+846,2019,MEDHUM-ALLG-01,Humanmedizin allgemein,GESM,337
+847,2022,SB-SKW-11,Romanistik,GESW,813
+848,2023,MEDZN-KP-01,Zahnmedizin (klinisch-praktisch),GESW,1158
+849,2023,SB-RWSW-07,Verwaltungswissenschaften,GESM,1413
+850,2022,SB-SKW-12,"Slawistik, Baltistik, Finno-Ugristik",GESW,285
+851,2019,LB-RW-01,Rechtswissenschaften,GESW,2047
+852,2022,HS-01,Hochschule insgesamt,GESW,361
+853,2021,MEDHUM-KP-01,Klinisch-prakt. Humanmedizin (ohne Zahnmedizin),GESM,22923
+854,2021,KL-EINR-SOZ-01,Soziale Einrichtungen der Kliniken,GESW,7
+855,2022,SB-SKW-05,Geschichte,GESW,1499
+856,2019,THEOL-KT-01,Katholische Theologie,GESW,337
+857,2023,SB-SKW-06,Informations- und Bibliothekswissenschaften,GESM,88
+858,2020,SB-SKW-06,Informations- und Bibliothekswissenschaften,GESW,84
+859,2022,SB-SKW-04,Philosophie,GESW,663
+860,2018,SB-INGW-07,Raumplanung,GESM,327
+861,2021,KL-EINR-AUSB-01,Übrige Ausbildungseinrichtungen der Kliniken,GESM,39
+862,2021,MEDZN-KP-01,Zahnmedizin (klinisch-praktisch),GESW,1038
+863,2021,SKW-SONST-01,Sonstige Sprach- und Kulturwissenschaften,GESW,820
+864,2020,SF013,Architektur,GESW,1056
+865,2021,SB-INGW-04,Elektro- und Informationstechnik,GESM,8064
+866,2023,SB-NATW-08,Geowissenschaften (ohne Geographie),GESW,1068
+867,2019,SB-NATW-04,"Physik, Astronomie",GESM,8882
+868,2020,SB-SKW-07,Allg. und vergl. Literatur- und Sprachwissenschaft,GESW,965
+869,2019,SB-SKW-19,Medienwissenschaft,GESW,0
+870,2020,LB-RW-01,Rechtswissenschaften,GESM,3601
+871,2023,SB-INGW-03,Maschinenbau/Verfahrenstechnik,GESM,13088
+872,2023,MEDVET-VK-01,Vorklinische Veterinärmedizin,GESM,109
+873,2020,SB-NATW-04,"Physik, Astronomie",GESW,2118
+874,2023,SB-RWSW-09,Wirtschaftsingenieurw. mit wirtschaftsw. Schwerp.,GESM,634
+875,2018,MEDZN-KP-01,Zahnmedizin (klinisch-praktisch),GESW,919
+876,2018,SB-RWSW-03,Politikwissenschaft,GESM,981
+877,2021,PHIL-KLASS-01,Altphilologie (klassische Philologie),GESW,178
+878,2023,SB-AGRW-01,"Landespflege, Umweltgestaltung",GESW,233
+879,2019,EINR-KLFRMD-02,Mit der Klinik verbundene u.klinikfremde Einricht.,GESM,15
+880,2021,SB-NATW-07,Biologie,GESW,4685
+881,2019,SB-NATW-09,Geographie,GESM,1100
+882,2022,FACHGR-RWSW-01,"Rechts-, Wirtschafts- u.Sozialwissenschaften allg.",GESM,421
+883,2021,SB-RWSW-12,Kommunikationswissenschaft/Publizistik,GESM,350
+884,2020,EINR-WISS-01,Zentrale wissenschaftliche Einrichtungen,GESW,3989
+885,2020,THEOL-EV-01,Evangelische Theologie,GESW,478
+886,2018,EINR-WISS-01,Zentrale wissenschaftliche Einrichtungen,GESW,3822
+887,2022,SB-NATW-06,Pharmazie,GESW,770
+888,2022,SB-AGRW-02,"Agrarwissensch., Lebensmittel- u. Getränketechnik",GESW,1244
+889,2022,SB-INGW-04,Elektro- und Informationstechnik,GESM,7934
+890,2021,THEOL-EV-01,Evangelische Theologie,GESW,472
+891,2018,MEDHUM-VK-01,Vorklinische Humanmedizin (einschl. Zahnmedizin),GESM,2111
+892,2018,SB-MEDHUM-01,Gesundheitswissenschaften,GESM,678
+893,2020,SB-SKW-04,Philosophie,GESW,635
+894,2023,SB-INGW-07,Raumplanung,GESM,368
+895,2020,MEDHUM-VK-01,Vorklinische Humanmedizin (einschl. Zahnmedizin),GESM,2150
+896,2018,MEDHUM-KT-01,Klinisch-theor. Humanmedizin (einschl.Zahnmedizin),GESM,5343
+897,2019,MEDZN-KP-01,Zahnmedizin (klinisch-praktisch),GESW,955
+898,2023,SB-RWSW-10,Psychologie,GESM,2205
+899,2019,MEDVET-KP-01,Klinisch-praktische Veterinärmedizin,GESM,204
+900,2021,FACHGR-RWSW-01,"Rechts-, Wirtschafts- u.Sozialwissenschaften allg.",GESM,377
+901,2023,SB-SKW-11,Romanistik,GESM,418
+902,2023,HS-01,Hochschule insgesamt,GESW,347
+903,2021,SB-SKW-06,Informations- und Bibliothekswissenschaften,GESM,87
+904,2019,SB-RWSW-02,Regionalwissenschaften,GESM,86
+905,2020,SB-INGW-12,Informatik,GESM,9533
+906,2020,SB-MEDHUM-01,Gesundheitswissenschaften,GESM,775
+907,2020,SB-NATW-08,Geowissenschaften (ohne Geographie),GESW,1032
+908,2020,SB-AGRW-01,"Landespflege, Umweltgestaltung",GESW,233
+909,2022,PHIL-KLASS-01,Altphilologie (klassische Philologie),GESW,179
+910,2018,KL-EINR-AUSB-01,Übrige Ausbildungseinrichtungen der Kliniken,GESW,97
+911,2020,FACHGR-INGW-01,Ingenieurwissenschaften allgemein,GESM,1712
+912,2020,SB-KUNSTW-03,Gestaltung,GESW,683
+913,2022,SB-NATW-01,"Mathematik, Naturwissenschaften allgemein",GESW,326
+914,2020,SB-SKW-12,"Slawistik, Baltistik, Finno-Ugristik",GESM,165
+915,2018,SB-INGW-02,"Bergbau, Hüttenwesen",GESM,397
+916,2020,SB-NATW-09,Geographie,GESW,808
+917,2022,SB-NATW-02,Mathematik,GESW,1674
+918,2018,SB-RWSW-08,Wirtschaftswissenschaften,GESM,10972
+919,2018,HS-VERW-01,Zentrale Hochschulverwaltung,GESW,2024
+920,2023,SB-MEDHUM-01,Gesundheitswissenschaften,GESW,1607
+921,2020,SB-SKW-11,Romanistik,GESM,424
+922,2019,EINR-VERS-01,Zentrale Betriebs- und Versorgungseinrichtungen,GESW,100
+923,2022,SB-INGW-09,Vermessungswesen,GESM,512
+924,2020,EINR-HSFRMD-02,Mit der Hochschule verb. u. hochschulfr. Einricht.,GESM,146
+925,2020,SB-KUNSTW-02,Bildende Kunst,GESW,338
+926,2018,SB-RWSW-07,Verwaltungswissenschaften,GESM,1219
+927,2023,MEDHUM-VK-01,Vorklinische Humanmedizin (einschl. Zahnmedizin),GESW,2424
+928,2022,SB-RWSW-10,Psychologie,GESM,2200
+929,2021,AFEW-ALLG-01,"Agrar-, Forst- und Ernährungswissenschaften allg.",GESW,103
+930,2021,MEDVET-ALLG-01,Veterinärmedizin allgemein,GESW,7
+931,2018,SB-SKW-17,Sonderpädagogik,GESM,0
+932,2020,MEDHUM-ALLG-01,Humanmedizin allgemein,GESM,471
+933,2019,AFEW-ALLG-01,"Agrar-, Forst- und Ernährungswissenschaften allg.",GESW,72
+934,2022,SB-NATW-05,Chemie,GESW,3595
+935,2022,SB-RWSW-11,Erziehungswissenschaften,GESM,2107
+936,2023,SB-NATW-01,"Mathematik, Naturwissenschaften allgemein",GESW,350
+937,2018,EINR-KLFRMD-02,Mit der Klinik verbundene u.klinikfremde Einricht.,GESM,15
+938,2023,SB-INGW-04,Elektro- und Informationstechnik,GESM,7954
+939,2022,SB-INGW-08,Bauingenieurwesen,GESM,3484
+940,2021,SB-NATW-08,Geowissenschaften (ohne Geographie),GESW,1069
+941,2019,SB-RWSW-05,Sozialwesen,GESM,967
+942,2021,SB-RWSW-11,Erziehungswissenschaften,GESM,2132
+943,2023,LB-RW-01,Rechtswissenschaften,GESM,3559
+944,2020,SB-RWSW-10,Psychologie,GESM,2131
+945,2019,BIB-ZENTRAL-01,Zentralbibliothek,GESM,209
+946,2020,SB-SKW-17,Sonderpädagogik,GESM,0
+947,2018,SB-RWSW-04,Sozialwissenschaften/Soziologie,GESM,1578
+948,2019,SB-RWSW-03,Politikwissenschaft,GESM,1049
+949,2021,FACHGR-INGW-01,Ingenieurwissenschaften allgemein,GESM,1904
+950,2021,SB-SKW-01,Geisteswissenschaften allgemein,GESM,391
+951,2021,SB-NATW-06,Pharmazie,GESW,739
+952,2019,PHIL-KLASS-01,Altphilologie (klassische Philologie),GESW,188
+953,2023,SB-AGRW-02,"Agrarwissensch., Lebensmittel- u. Getränketechnik",GESW,1321
+954,2021,EINR-VERS-01,Zentrale Betriebs- und Versorgungseinrichtungen,GESW,136
+955,2020,SB-NATW-07,Biologie,GESW,4568
+956,2022,SB-AGRW-03,"Forstwissenschaft, Holzwirtschaft",GESW,261
+957,2021,SB-NATW-04,"Physik, Astronomie",GESW,2221
+958,2023,MEDVET-KP-01,Klinisch-praktische Veterinärmedizin,GESM,197
+959,2023,SB-INGW-08,Bauingenieurwesen,GESM,3467
+960,2023,MEDHUM-KP-01,Klinisch-prakt. Humanmedizin (ohne Zahnmedizin),GESW,26677
+961,2020,SB-KUNSTW-04,"Darstellende Kunst, Film u.Fernsehen, Theaterwiss.",GESW,389
+962,2020,SB-NATW-01,"Mathematik, Naturwissenschaften allgemein",GESW,302
+963,2018,HS-VERW-02,Zentral verwaltete Hörsäle und Lehrräume,GESW,0
+964,2020,SB-AGRW-04,Ernährungs- und Haushaltswissenschaften,GESW,433
+965,2018,SB-SKW-14,Kulturwissenschaften i.e.S.,GESM,247
+966,2018,FACHGR-RWSW-01,"Rechts-, Wirtschafts- u.Sozialwissenschaften allg.",GESW,628
+967,2020,MEDHUM-KT-01,Klinisch-theor. Humanmedizin (einschl.Zahnmedizin),GESM,6029
+968,2023,SB-INGW-09,Vermessungswesen,GESM,509
+969,2021,SB-AGRW-03,"Forstwissenschaft, Holzwirtschaft",GESW,299
+970,2020,MEDHUM-KP-01,Klinisch-prakt. Humanmedizin (ohne Zahnmedizin),GESM,23020
+971,2018,SB-SKW-12,"Slawistik, Baltistik, Finno-Ugristik",GESM,167
+972,2019,SF013,Architektur,GESW,1005
+973,2018,BIB-ZENTRAL-01,Zentralbibliothek,GESM,207
+974,2021,SB-AGRW-02,"Agrarwissensch., Lebensmittel- u. Getränketechnik",GESW,1339
+975,2020,EINR-SONST-01,Übrige Ausbildungseinrichtungen,GESM,212
+976,2020,SB-RWSW-12,Kommunikationswissenschaft/Publizistik,GESM,343
+977,2021,SB-NATW-02,Mathematik,GESW,1578
+978,2023,FACHGR-RWSW-01,"Rechts-, Wirtschafts- u.Sozialwissenschaften allg.",GESM,437
+979,2023,MEDVET-KT-01,Klinisch-theoretische Veterinärmedizin,GESM,228
+980,2018,SB-SKW-10,"Anglistik, Amerikanistik",GESM,715
+981,2018,SB-SKW-11,Romanistik,GESM,435
+982,2022,SKW-SONST-01,Sonstige Sprach- und Kulturwissenschaften,GESW,830
+983,2023,SF013,Architektur,GESM,1642
+984,2020,MEDVET-ALLG-01,Veterinärmedizin allgemein,GESW,10
+985,2022,SB-AGRW-01,"Landespflege, Umweltgestaltung",GESW,194
+986,2019,HS-VERW-01,Zentrale Hochschulverwaltung,GESW,1955
+987,2020,SB-NATW-05,Chemie,GESW,3544
+988,2021,EINR-HSFRMD-02,Mit der Hochschule verb. u. hochschulfr. Einricht.,GESM,159
+989,2019,HS-VERW-02,Zentral verwaltete Hörsäle und Lehrräume,GESW,0
+990,2020,SB-RWSW-11,Erziehungswissenschaften,GESM,2115
+991,2021,SB-NATW-01,"Mathematik, Naturwissenschaften allgemein",GESW,299
+992,2020,SB-SKW-19,Medienwissenschaft,GESM,310
+993,2019,SKW-SONST-01,Sonstige Sprach- und Kulturwissenschaften,GESW,758
+994,2018,SB-RWSW-02,Regionalwissenschaften,GESM,72
+995,2021,SB-AGRW-04,Ernährungs- und Haushaltswissenschaften,GESW,464
+996,2019,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",GESM,3175
+997,2023,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),GESW,1716
+998,2019,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),GESW,7148
+999,2020,FACHGR-SKW,Geisteswissenschaften,GESW,10797
+1000,2021,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),GESW,7565
+1001,2021,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",GESW,3547
+1002,2023,,Insgesamt,GESM,161195
+1003,2023,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",GESW,3663
+1004,2023,FACHGR-INGW,Ingenieurwissenschaften,GESW,12947
+1005,2018,FACHGR-INGW,Ingenieurwissenschaften,GESM,41395
+1006,2018,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,GESM,31384
+1007,2023,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",GESM,3274
+1008,2020,FACHGR-INGW,Ingenieurwissenschaften,GESM,43421
+1009,2022,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",GESM,3295
+1010,2023,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",GESM,25274
+1011,2019,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",GESW,3177
+1012,2019,,Insgesamt,GESM,155848
+1013,2018,FACHGR-SKW,Geisteswissenschaften,GESM,9746
+1014,2020,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),GESW,7393
+1015,2019,FACHGR-SKW,Geisteswissenschaften,GESW,10523
+1016,2019,FACHGR-NATW,"Mathematik, Naturwissenschaften",GESM,30715
+1017,2020,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,GESW,35503
+1018,2018,FACHGR-NATW,"Mathematik, Naturwissenschaften",GESM,30546
+1019,2023,FACHGR-NATW,"Mathematik, Naturwissenschaften",GESW,15720
+1020,2020,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",GESM,25381
+1021,2021,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,GESW,36796
+1022,2022,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),GESW,7891
+1023,2019,FACHGR-SKW,Geisteswissenschaften,GESM,9795
+1024,2021,,Insgesamt,GESM,161505
+1025,2021,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",GESM,4366
+1026,2018,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),GESW,7196
+1027,2023,FACHGR-INGW,Ingenieurwissenschaften,GESM,43973
+1028,2019,FACHGR-INGW,Ingenieurwissenschaften,GESM,41940
+1029,2018,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),GESW,918
+1030,2020,FACHGR-NATW,"Mathematik, Naturwissenschaften",GESW,14668
+1031,2021,FACHGR-INGW,Ingenieurwissenschaften,GESM,44189
+1032,2023,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,GESW,39574
+1033,2020,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),GESW,1118
+1034,2021,FACHGR-SKW,Geisteswissenschaften,GESM,9634
+1035,2023,,Insgesamt,GESW,120393
+1036,2022,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),GESW,1555
+1037,2022,FACHGR-SKW,Geisteswissenschaften,GESM,9504
+1038,2018,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",GESM,3240
+1039,2023,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",GESM,4357
+1040,2018,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",GESM,4314
+1041,2020,,Insgesamt,GESM,159568
+1042,2019,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",GESM,24837
+1043,2019,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",GESM,4284
+1044,2018,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",GESM,24734
+1045,2018,,Insgesamt,GESM,154020
+1046,2020,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",GESM,4302
+1047,2018,FACHGR-SKW,Geisteswissenschaften,GESW,10437
+1048,2023,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),GESW,7987
+1049,2020,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",GESM,3261
+1050,2018,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",GESW,19644
+1051,2022,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,GESW,38076
+1052,2020,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",GESW,21269
+1053,2023,FACHGR-NATW,"Mathematik, Naturwissenschaften",GESM,30062
+1054,2022,,Insgesamt,GESW,117180
+1055,2022,FACHGR-INGW,Ingenieurwissenschaften,GESM,43836
+1056,2022,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",GESM,4383
+1057,2021,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),GESW,1537
+1058,2021,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",GESW,3426
+1059,2021,FACHGR-SKW,Geisteswissenschaften,GESW,11067
+1060,2019,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),GESW,910
+1061,2019,FACHGR-INGW,Ingenieurwissenschaften,GESW,10595
+1062,2023,FACHGR-SKW,Geisteswissenschaften,GESM,9295
+1063,2018,FACHGR-INGW,Ingenieurwissenschaften,GESW,10124
+1064,2022,FACHGR-NATW,"Mathematik, Naturwissenschaften",GESW,15323
+1065,2023,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",GESW,3754
+1066,2018,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,GESW,31840
+1067,2020,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",GESW,3259
+1068,2021,FACHGR-NATW,"Mathematik, Naturwissenschaften",GESW,14969
+1069,2019,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,GESW,33225
+1070,2022,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",GESM,25390
+1071,2018,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",GESW,3069
+1072,2021,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",GESM,25494
+1073,2021,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",GESM,3310
+1074,2022,FACHGR-KUNSTW,"Kunst, Kunstwissenschaft",GESW,3584
+1075,2023,FACHGR-SKW,Geisteswissenschaften,GESW,11047
+1076,2020,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,GESM,33555
+1077,2019,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",GESW,20417
+1078,2021,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",GESW,22081
+1079,2018,,Insgesamt,GESW,101522
+1080,2020,FACHGR-SKW,Geisteswissenschaften,GESM,9771
+1081,2023,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),GESM,1255
+1082,2022,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",GESW,3543
+1083,2020,,Insgesamt,GESW,109707
+1084,2019,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,GESM,32285
+1085,2022,FACHGR-INGW,Ingenieurwissenschaften,GESW,12513
+1086,2022,,Insgesamt,GESM,161055
+1087,2021,FACHGR-INGW,Ingenieurwissenschaften,GESW,12143
+1088,2020,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),GESM,7200
+1089,2018,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),GESM,637
+1090,2019,FACHGR-NATW,"Mathematik, Naturwissenschaften",GESW,14586
+1091,2021,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),GESM,1172
+1092,2020,FACHGR-NATW,"Mathematik, Naturwissenschaften",GESM,30751
+1093,2020,FACHGR-INGW,Ingenieurwissenschaften,GESW,11401
+1094,2023,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,GESM,34825
+1095,2019,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),GESM,656
+1096,2022,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),GESM,1136
+1097,2018,FACHGR-NATW,"Mathematik, Naturwissenschaften",GESW,14210
+1098,2020,FACHGR-ZE-02,Zentr.Einricht.d.Hochschulkliniken (nur Humanmed.),GESM,755
+1099,2022,FACHGR-SKW,Geisteswissenschaften,GESW,11058
+1100,2018,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",GESW,3212
+1101,2019,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",GESW,3263
+1102,2022,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),GESM,7629
+1103,2021,,Insgesamt,GESW,114094
+1104,2018,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),GESM,6874
+1105,2019,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),GESM,6986
+1106,2023,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",GESW,22993
+1107,2022,FACHGR-NATW,"Mathematik, Naturwissenschaften",GESM,30342
+1108,2021,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,GESM,33843
+1109,2023,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),GESM,7700
+1110,2021,FACHGR-ZE-01,Zentr.Einrichtungen (o. klinikspez. Einrichtungen),GESM,7507
+1111,2022,FACHGR-MEDHUM,Humanmedizin/Gesundheitswissenschaften,GESM,34325
+1112,2019,,Insgesamt,GESW,104763
+1113,2022,FACHGR-RWSW,"Rechts-, Wirtschafts- und Sozialwissenschaften",GESW,22639
+1114,2020,FACHGR-AGRVET,"Agrar-, Forst- u.Ernährungswiss., Veterinärmedizin",GESW,3374
+1115,2021,FACHGR-NATW,"Mathematik, Naturwissenschaften",GESM,30781
