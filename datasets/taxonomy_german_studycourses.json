@@ -165,6 +165,16 @@
             "code": "284",
             "name": "Angewandte Sprachwissenschaft",
             "name_en": "Applied Linguistics"
+          },
+          {
+            "code": "018",
+            "name": "Berufsbezogene Fremdsprachenausbildung",
+            "name_en": "Vocational Foreign Language Training"
+          },
+          {
+            "code": "160",
+            "name": "Computerlinguistik",
+            "name_en": "Computational Linguistics"
           }
         ]
       },
@@ -173,6 +183,11 @@
         "name": "Altphilologie (klass. Philologie), Neugriechisch",
         "name_en": "Classical Philology, Modern Greek",
         "Studienfächer": [
+          {
+            "code": "031",
+            "name": "Byzantinistik",
+            "name_en": "Byzantine Studies"
+          },
           {
             "code": "005",
             "name": "Klassische Philologie",
@@ -339,11 +354,6 @@
         "name_en": "Other Language and Cultural Studies",
         "Studienfächer": [
           {
-            "code": "160",
-            "name": "Computerlinguistik",
-            "name_en": "Computational Linguistics"
-          },
-          {
             "code": "001",
             "name": "Ägyptologie",
             "name_en": "Egyptology"
@@ -362,11 +372,6 @@
             "code": "015",
             "name": "Außereuropäische Sprachen und Kulturen in Ozeanien und Amerika",
             "name_en": "Non-European Languages and Cultures in Oceania and America"
-          },
-          {
-            "code": "031",
-            "name": "Byzantinistik",
-            "name_en": "Byzantine Studies"
           },
           {
             "code": "073",
@@ -1233,9 +1238,14 @@
         "name_en": "Home Economics, Nutritional Science",
         "Studienfächer": [
           {
+            "code": "320",
+            "name": "Ernährungswissenschaft",
+            "name_en": "Nutritional Science"
+          },
+          {
             "code": "071",
-            "name": "Ernährungs- und Haushalts- und Ernährungswissenschaft",
-            "name_en": "Nutritional and Home and Nutritional Science"
+            "name": "Haushalts- und Ernährungswissenschaft",
+            "name_en": "Home and Nutritional Science"
           },
           {
             "code": "333",
