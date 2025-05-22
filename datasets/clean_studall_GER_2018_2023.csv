@@ -1,5 +1,5 @@
 ,year,nationality,gender,subj_code,subj_name,number
-0,2018,domestic,m,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),3
+0,2018,domestic,m,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),3
 1,2022,domestic,f,220,Milch- und Molkereiwirtschaft,21
 2,2022,foreign,f,280,Kartografie,44
 3,2023,foreign,m,086,"Katholische Theologie, - Religionslehre",407
@@ -25,7 +25,7 @@
 23,2018,foreign,f,273,Mittlere und neuere Geschichte,47
 24,2023,domestic,f,119,Niederländisch,142
 25,2022,domestic,m,033,Chemie-Ingenieurwesen/Chemieverfahrenstechnik,4365
-26,2018,foreign,m,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+26,2018,foreign,m,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 27,2021,foreign,m,231,Druck- und Reproduktionstechnik,113
 28,2019,domestic,f,075,Holzwirtschaft,59
 29,2023,domestic,m,266,Finanzverwaltung,977
@@ -57,7 +57,7 @@
 55,2019,domestic,m,232,Gesundheitswissenschaften/-management,12263
 56,2018,foreign,m,180,Kaukasistik,0
 57,2020,domestic,f,143,Augenoptik,508
-58,2019,foreign,f,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+58,2019,foreign,f,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 59,2021,foreign,f,073,Judaistik/Hebräisch,66
 60,2018,domestic,m,002,Afrikanistik,395
 61,2023,domestic,f,117,Ausländerpädagogik,90
@@ -68,7 +68,7 @@
 66,2019,domestic,f,077,Wasserwirtschaft,373
 67,2018,foreign,m,086,"Katholische Theologie, - Religionslehre",483
 68,2019,foreign,m,172,Verwaltungswissenschaft/-wesen,186
-69,2023,domestic,m,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+69,2023,domestic,m,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 70,2020,domestic,f,049,Interdisz. Studien (Schwerp. Naturwissenschaften),3531
 71,2021,domestic,f,135,Rechtswissenschaft,62200
 72,2022,domestic,f,125,Agrarökonomie,498
@@ -101,13 +101,13 @@
 99,2018,domestic,m,149,Soziologie,6507
 100,2018,domestic,f,083,Islamwissenschaft,1185
 101,2021,domestic,m,041,Sonstiges Orientierungsstudium,6
-102,2019,domestic,f,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+102,2019,domestic,f,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 103,2020,foreign,f,333,Haushaltswissenschaft,1
 104,2018,domestic,m,385,Geoökologie,545
 105,2023,foreign,m,088,Optoelektronik,80
 106,2023,domestic,f,210,Verkehrswirtschaft,338
 107,2022,foreign,m,008,Anglistik/Englisch,1517
-108,2021,foreign,f,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+108,2021,foreign,f,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 109,2018,domestic,m,145,Sinologie/Koreanistik,951
 110,2022,foreign,f,282,Biotechnologie,1930
 111,2018,domestic,f,086,"Katholische Theologie, - Religionslehre",3888
@@ -142,7 +142,7 @@
 140,2018,foreign,f,177,Werkstofftechnik,501
 141,2019,foreign,f,264,Sozialversicherung,61
 142,2022,foreign,m,102,Schauspiel,62
-143,2020,domestic,m,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+143,2020,domestic,m,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 144,2019,domestic,f,171,Vermessungswesen (Geodäsie),1328
 145,2021,domestic,m,284,Angewandte Sprachwissenschaft,924
 146,2022,foreign,m,092,"Kunstgeschichte, Kunstwissenschaft",219
@@ -150,12 +150,12 @@
 148,2018,domestic,f,180,Kaukasistik,0
 149,2019,foreign,f,024,Europäische Ethnologie und Kulturwissenschaft,478
 150,2020,foreign,f,080,Instrumentalmusik,2549
-151,2019,foreign,m,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+151,2019,foreign,m,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 152,2023,domestic,m,029,Sportwissenschaft,12335
 153,2022,domestic,f,123,Ingenieurinformatik/Technische Informatik,1657
 154,2021,domestic,f,231,Druck- und Reproduktionstechnik,719
 155,2022,domestic,m,277,Wirtschaftsinformatik,45471
-156,2023,foreign,m,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+156,2023,foreign,m,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 157,2022,foreign,m,009,Anthropologie (Humanbiologie),74
 158,2020,domestic,f,385,Geoökologie,797
 159,2019,domestic,m,234,Pflegewissenschaft/-management,2705
@@ -195,7 +195,7 @@
 193,2021,domestic,m,043,Neugriechisch,12
 194,2019,foreign,f,265,Bankwesen,4
 195,2019,domestic,f,172,Verwaltungswissenschaft/-wesen,9503
-196,2020,foreign,f,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
+196,2020,foreign,f,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
 197,2018,foreign,f,032,Chemie,3338
 198,2023,foreign,m,180,Kaukasistik,0
 199,2022,domestic,m,130,Westslawisch (allgemein und a.n.g.),12
@@ -211,7 +211,7 @@
 209,2018,domestic,m,143,Augenoptik,220
 210,2022,domestic,f,122,"Orientalistik, Altorientalistik",530
 211,2018,domestic,f,088,Optoelektronik,124
-212,2021,domestic,m,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+212,2021,domestic,m,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 213,2023,foreign,f,174,Volkskunde,103
 214,2023,foreign,m,184,Wirtschaftswissenschaften,6719
 215,2021,domestic,f,130,Westslawisch (allgemein und a.n.g.),14
@@ -254,7 +254,7 @@
 252,2019,foreign,f,022,Informations-/Bibliothekswiss. (nicht f. Verw.-FH),165
 253,2020,domestic,m,097,Lebensmitteltechnologie,1579
 254,2020,domestic,m,107,Medizin (Allgemein-Medizin),31959
-255,2019,domestic,m,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),1432
+255,2019,domestic,m,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),1432
 256,2021,domestic,m,140,Angewandte Systemwissenschaften,1726
 257,2021,foreign,m,235,Fahrzeugtechnik,2532
 258,2022,domestic,m,175,Volkswirtschaftslehre,10556
@@ -262,13 +262,13 @@
 260,2019,domestic,f,071,Haushalts- und Ernährungswissenschaft,5995
 261,2018,foreign,f,277,Wirtschaftsinformatik,2964
 262,2021,domestic,f,370,Wirtschaftsingenieurw. m. ingenieurwiss.Schwerpkt.,11410
-263,2021,foreign,m,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
+263,2021,foreign,m,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
 264,2021,foreign,f,321,Erwachsenenbildung und außerschulische Jugendbild.,132
 265,2023,foreign,m,089,Verkehrsingenieurwesen,962
 266,2018,foreign,m,082,Holz-/Fasertechnik,42
 267,2018,domestic,m,144,Technische Kybernetik,356
-268,2018,domestic,f,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
-269,2020,domestic,f,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+268,2018,domestic,f,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+269,2020,domestic,f,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 270,2021,domestic,f,277,Wirtschaftsinformatik,11007
 271,2019,domestic,m,080,Instrumentalmusik,1145
 272,2021,domestic,f,131,Portugiesisch,47
@@ -288,11 +288,11 @@
 286,2019,foreign,m,270,Berufs- und Wirtschaftspädagogik,37
 287,2022,foreign,f,043,Neugriechisch,49
 288,2021,domestic,f,037,Archiv- und Dokumentationswissenschaft,259
-289,2022,domestic,f,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+289,2022,domestic,f,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 290,2020,foreign,f,088,Optoelektronik,36
 291,2020,foreign,m,140,Angewandte Systemwissenschaften,606
 292,2019,domestic,f,072,Interdisz. Studien (Schwerp. Ingenieurwissensch.),4012
-293,2020,foreign,f,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+293,2020,foreign,f,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 294,2020,foreign,m,141,Abfallwirtschaft,2
 295,2022,foreign,m,101,Restaurierungskunde,11
 296,2019,foreign,m,177,Werkstofftechnik,1048
@@ -309,7 +309,7 @@
 307,2023,foreign,m,182,Internationale Betriebswirtschaft/Management,7701
 308,2018,foreign,f,132,Psychologie,4643
 309,2022,foreign,m,247,Medizinische Informatik,561
-310,2020,foreign,m,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+310,2020,foreign,m,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 311,2022,foreign,m,007,Angewandte Kunst,164
 312,2022,domestic,m,176,Werkerziehung,40
 313,2018,domestic,f,181,Wirtschaftspädagogik,4270
@@ -325,10 +325,10 @@
 323,2023,foreign,m,186,Lernbereich Naturwissenschaft/Sachunterricht,22
 324,2023,foreign,f,270,Berufs- und Wirtschaftspädagogik,106
 325,2018,foreign,m,081,Iranistik,32
-326,2018,foreign,m,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),204
+326,2018,foreign,m,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),204
 327,2023,foreign,m,040,"Interdisz. Studien (Schwerpunkt Kunst, Kunstwiss.)",140
 328,2021,foreign,f,072,Interdisz. Studien (Schwerp. Ingenieurwissensch.),1323
-329,2018,domestic,m,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+329,2018,domestic,m,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 330,2021,foreign,f,464,Facility Management,87
 331,2023,foreign,f,030,"Interdisz.Studien(Schwerp.Rechts-,Wirt.-u.Sozialw)",1941
 332,2022,domestic,f,120,"Nordistik/Skandinavist.(Nord.Phil.,Einzelsp.a.n.g)",741
@@ -354,12 +354,12 @@
 352,2019,foreign,f,260,Bundeswehrverwaltung,2
 353,2020,foreign,m,286,Mikrosystemtechnik,954
 354,2019,foreign,f,166,Sportmanagement/Sportökonomie,92
-355,2020,foreign,m,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+355,2020,foreign,m,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 356,2019,foreign,m,176,Werkerziehung,0
-357,2022,foreign,f,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+357,2022,foreign,f,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 358,2020,foreign,f,084,Italienisch,296
 359,2023,domestic,m,220,Milch- und Molkereiwirtschaft,29
-360,2020,domestic,m,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+360,2020,domestic,m,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 361,2021,domestic,m,142,Schiffbau/Schiffstechnik,588
 362,2019,domestic,m,333,Haushaltswissenschaft,40
 363,2021,foreign,m,233,Nichtärztliche Heilberufe/Therapien,210
@@ -367,14 +367,14 @@
 365,2018,foreign,f,275,Wissenschaftsgeschichte/Technikgeschichte,1
 366,2022,foreign,m,004,Interdisz. Studien (Schwerpunkt Geisteswiss.),1157
 367,2021,foreign,f,225,Textil- und Bekleidungstechnik/-gewerbe,270
-368,2020,domestic,m,303,Publizistik (ab 2008 zu SF303),0
+368,2020,domestic,m,109,Publizistik (ab 2008 zu SF303),0
 369,2018,foreign,f,035,Darstellende Kunst/Bühnenkunst/Regie,306
 370,2019,domestic,m,083,Islamwissenschaft,401
 371,2018,domestic,f,089,Verkehrsingenieurwesen,1087
 372,2023,domestic,m,127,Philosophie,8409
-373,2021,domestic,m,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+373,2021,domestic,m,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 374,2021,foreign,f,071,Haushalts- und Ernährungswissenschaft,431
-375,2021,domestic,f,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+375,2021,domestic,f,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 376,2018,foreign,f,037,Archiv- und Dokumentationswissenschaft,40
 377,2022,domestic,f,025,Biochemie,4304
 378,2022,domestic,f,265,Bankwesen,302
@@ -398,7 +398,7 @@
 396,2019,foreign,f,261,Innere Verwaltung,74
 397,2019,foreign,f,021,Betriebswirtschaftslehre,15305
 398,2022,domestic,m,032,Chemie,19871
-399,2022,foreign,f,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+399,2022,foreign,f,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 400,2019,domestic,f,074,Transport-/Fördertechnik,46
 401,2020,foreign,f,085,Japanologie,280
 402,2022,foreign,m,245,Sozialpädagogik,62
@@ -484,7 +484,7 @@
 482,2023,foreign,m,041,Sonstiges Orientierungsstudium,15
 483,2022,domestic,m,231,Druck- und Reproduktionstechnik,567
 484,2021,domestic,f,033,Chemie-Ingenieurwesen/Chemieverfahrenstechnik,2318
-485,2022,foreign,m,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+485,2022,foreign,m,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 486,2018,foreign,m,282,Biotechnologie,756
 487,2019,foreign,f,129,Politikwissenschaft/Politologie,2880
 488,2020,domestic,m,092,"Kunstgeschichte, Kunstwissenschaft",2082
@@ -564,13 +564,13 @@
 562,2023,foreign,f,136,Religionswissenschaft,176
 563,2022,domestic,f,226,Verfahrenstechnik,2673
 564,2019,foreign,m,274,Tourismuswirtschaft,425
-565,2023,domestic,f,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+565,2023,domestic,f,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 566,2018,foreign,m,041,Sonstiges Orientierungsstudium,0
 567,2018,domestic,f,234,Pflegewissenschaft/-management,8552
 568,2021,domestic,m,182,Internationale Betriebswirtschaft/Management,16182
 569,2020,foreign,f,182,Internationale Betriebswirtschaft/Management,6850
 570,2021,foreign,m,179,Wirtschaftsingenieurw.m.wirtschaftswiss.Schwerpkt.,3042
-571,2019,domestic,m,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+571,2019,domestic,m,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 572,2020,domestic,f,006,Amerikanistik/Amerikakunde,1564
 573,2018,domestic,m,092,"Kunstgeschichte, Kunstwissenschaft",2127
 574,2018,domestic,m,102,Schauspiel,236
@@ -607,7 +607,7 @@
 605,2020,domestic,f,091,Kunsterziehung,4577
 606,2018,foreign,m,280,Kartografie,72
 607,2023,foreign,m,189,Niederdeutsch,0
-608,2018,foreign,f,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+608,2018,foreign,f,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 609,2020,foreign,m,186,Lernbereich Naturwissenschaft/Sachunterricht,17
 610,2020,domestic,f,247,Medizinische Informatik,1147
 611,2019,domestic,m,086,"Katholische Theologie, - Religionslehre",3025
@@ -624,7 +624,7 @@
 622,2020,domestic,m,094,Wasserbau,648
 623,2021,domestic,m,181,Wirtschaftspädagogik,2479
 624,2018,foreign,f,076,Hütten- und Gießereiwesen,127
-625,2023,domestic,f,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+625,2023,domestic,f,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 626,2020,domestic,m,104,Maschinenbau/-wesen,69710
 627,2018,foreign,m,186,Lernbereich Naturwissenschaft/Sachunterricht,18
 628,2018,domestic,f,233,Nichtärztliche Heilberufe/Therapien,8309
@@ -634,7 +634,7 @@
 632,2018,domestic,m,103,Markscheidewesen,17
 633,2019,foreign,f,221,Bioinformatik,306
 634,2019,foreign,m,179,Wirtschaftsingenieurw.m.wirtschaftswiss.Schwerpkt.,3003
-635,2021,domestic,m,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+635,2021,domestic,m,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 636,2018,domestic,f,139,Russisch,526
 637,2022,foreign,m,108,Metalltechnik,6
 638,2023,foreign,m,140,Angewandte Systemwissenschaften,1054
@@ -648,7 +648,7 @@
 646,2022,domestic,f,224,Physikal. Technik/Mechanische Verfahrenstechnik,472
 647,2020,foreign,f,189,Niederdeutsch,0
 648,2023,foreign,f,130,Westslawisch (allgemein und a.n.g.),3
-649,2023,foreign,m,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+649,2023,foreign,m,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 650,2020,domestic,m,245,Sozialpädagogik,1951
 651,2022,foreign,f,088,Optoelektronik,34
 652,2023,domestic,m,320,Ernährungswissenschaft,1048
@@ -669,7 +669,7 @@
 667,2018,foreign,f,175,Volkswirtschaftslehre,2532
 668,2018,foreign,m,185,Zahnmedizin,1051
 669,2020,domestic,m,005,Klassische Philologie,172
-670,2021,foreign,m,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+670,2021,foreign,m,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 671,2019,domestic,f,173,Ethnologie,2728
 672,2023,domestic,f,069,Grafikdesign/Kommunikationsgestaltung,15538
 673,2021,foreign,f,123,Ingenieurinformatik/Technische Informatik,1043
@@ -687,16 +687,16 @@
 685,2022,domestic,m,039,Geowissenschaften allgemein,4580
 686,2022,foreign,f,181,Wirtschaftspädagogik,227
 687,2019,foreign,f,125,Agrarökonomie,260
-688,2022,foreign,m,303,Publizistik (ab 2008 zu SF303),0
-689,2022,foreign,m,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+688,2022,foreign,m,109,Publizistik (ab 2008 zu SF303),0
+689,2022,foreign,m,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 690,2023,domestic,m,071,Haushalts- und Ernährungswissenschaft,1114
 691,2019,domestic,f,175,Volkswirtschaftslehre,5520
 692,2023,domestic,m,227,Weinbau und Kellerwirtschaft,539
 693,2019,foreign,m,039,Geowissenschaften allgemein,999
-694,2022,domestic,m,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+694,2022,domestic,m,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 695,2018,domestic,m,090,Lernbereich Geisteswissenschaften,899
 696,2021,foreign,f,365,Pädagogik der frühen Kindheit,257
-697,2022,foreign,f,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+697,2022,foreign,f,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 698,2023,foreign,f,371,Tierproduktion,15
 699,2019,domestic,m,089,Verkehrsingenieurwesen,3357
 700,2020,foreign,f,044,Ost- und Südosteuropa-Studien,119
@@ -734,7 +734,7 @@
 732,2021,domestic,f,175,Volkswirtschaftslehre,4927
 733,2022,foreign,m,203,Industriedesign/Produktgestaltung,319
 734,2019,domestic,m,182,Internationale Betriebswirtschaft/Management,17239
-735,2019,foreign,m,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+735,2019,foreign,m,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 736,2019,foreign,f,365,Pädagogik der frühen Kindheit,226
 737,2021,foreign,f,028,Brauwesen/Getränketechnologie,18
 738,2019,domestic,f,176,Werkerziehung,73
@@ -803,7 +803,7 @@
 801,2023,domestic,m,073,Judaistik/Hebräisch,143
 802,2020,foreign,f,188,Allgemeine Literaturwissenschaft,454
 803,2019,domestic,f,031,Byzantinistik,18
-804,2023,foreign,m,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+804,2023,foreign,m,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 805,2022,domestic,f,127,Philosophie,7444
 806,2019,foreign,m,370,Wirtschaftsingenieurw. m. ingenieurwiss.Schwerpkt.,8002
 807,2022,foreign,f,089,Verkehrsingenieurwesen,283
@@ -819,7 +819,7 @@
 817,2018,domestic,f,081,Iranistik,109
 818,2023,domestic,f,316,Elektronische Energietechnik,176
 819,2019,foreign,m,131,Portugiesisch,12
-820,2023,foreign,f,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+820,2023,foreign,f,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 821,2020,domestic,f,095,Latein,1176
 822,2020,domestic,f,105,Mathematik,25834
 823,2019,foreign,m,371,Tierproduktion,22
@@ -842,7 +842,7 @@
 840,2019,foreign,f,123,Ingenieurinformatik/Technische Informatik,856
 841,2019,foreign,m,277,Wirtschaftsinformatik,5379
 842,2023,domestic,f,066,Geophysik,574
-843,2018,domestic,f,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),965
+843,2018,domestic,f,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),965
 844,2021,domestic,m,185,Zahnmedizin,4223
 845,2023,foreign,m,371,Tierproduktion,16
 846,2019,domestic,f,361,Schulpädagogik,368
@@ -876,7 +876,7 @@
 874,2020,domestic,f,083,Islamwissenschaft,807
 875,2023,foreign,f,223,Nautik/Seefahrt,27
 876,2018,domestic,m,206,Polnisch,26
-877,2021,domestic,f,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+877,2021,domestic,f,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 878,2022,foreign,m,059,Französisch,161
 879,2018,domestic,m,196,Studienkolleg,0
 880,2023,foreign,m,037,Archiv- und Dokumentationswissenschaft,16
@@ -885,7 +885,7 @@
 883,2021,foreign,f,025,Biochemie,1100
 884,2022,foreign,f,245,Sozialpädagogik,420
 885,2018,foreign,m,145,Sinologie/Koreanistik,166
-886,2019,domestic,f,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+886,2019,domestic,f,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 887,2023,domestic,f,154,Lernbereich Gesellschaftslehre,229
 888,2022,domestic,f,174,Volkskunde,676
 889,2018,foreign,m,385,Geoökologie,58
@@ -906,11 +906,11 @@
 904,2019,foreign,f,312,Statistik,0
 905,2022,domestic,m,083,Islamwissenschaft,302
 906,2020,foreign,f,035,Darstellende Kunst/Bühnenkunst/Regie,329
-907,2023,domestic,m,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
-908,2018,domestic,f,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+907,2023,domestic,m,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+908,2018,domestic,f,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 909,2018,foreign,f,083,Islamwissenschaft,266
 910,2019,foreign,f,458,Umweltschutz,368
-911,2019,foreign,f,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+911,2019,foreign,f,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 912,2020,domestic,m,159,Edelstein- und Schmuckdesign,6
 913,2021,foreign,m,174,Volkskunde,26
 914,2021,domestic,m,138,Agrarbiologie,364
@@ -921,9 +921,9 @@
 919,2023,domestic,m,458,Umweltschutz,780
 920,2020,foreign,f,275,Wissenschaftsgeschichte/Technikgeschichte,0
 921,2019,domestic,f,122,"Orientalistik, Altorientalistik",717
-922,2020,foreign,m,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+922,2020,foreign,m,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 923,2020,domestic,m,013,Architektur,14397
-924,2020,foreign,m,303,Publizistik (ab 2008 zu SF303),0
+924,2020,foreign,m,109,Publizistik (ab 2008 zu SF303),0
 925,2023,foreign,m,130,Westslawisch (allgemein und a.n.g.),3
 926,2021,foreign,f,361,Schulpädagogik,54
 927,2018,domestic,f,287,Neue Medien,898
@@ -931,7 +931,7 @@
 929,2022,domestic,m,333,Haushaltswissenschaft,34
 930,2022,domestic,f,173,Ethnologie,2197
 931,2019,foreign,f,219,Kunststofftechnik,34
-932,2018,domestic,m,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+932,2018,domestic,m,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 933,2023,foreign,f,464,Facility Management,75
 934,2021,domestic,f,171,Vermessungswesen (Geodäsie),1189
 935,2023,foreign,m,036,Sonstige Regionalwissenschaften,33
@@ -939,7 +939,7 @@
 937,2021,domestic,m,139,Russisch,174
 938,2019,domestic,m,173,Ethnologie,1075
 939,2021,foreign,f,024,Europäische Ethnologie und Kulturwissenschaft,486
-940,2023,domestic,m,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+940,2023,domestic,m,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 941,2022,domestic,f,079,Informatik,18486
 942,2021,domestic,f,077,Wasserwirtschaft,287
 943,2019,foreign,m,124,Ozeanografie,9
@@ -969,7 +969,7 @@
 967,2020,foreign,m,098,Sportpädagogik/Sportpsychologie,146
 968,2018,domestic,f,144,Technische Kybernetik,76
 969,2020,domestic,m,016,Baltistik,3
-970,2023,foreign,m,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+970,2023,foreign,m,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 971,2019,foreign,f,215,Gesundheitstechnik,1461
 972,2020,foreign,m,108,Metalltechnik,4
 973,2021,foreign,f,264,Sozialversicherung,72
@@ -997,7 +997,7 @@
 995,2021,domestic,f,172,Verwaltungswissenschaft/-wesen,11331
 996,2022,foreign,f,091,Kunsterziehung,448
 997,2019,foreign,m,123,Ingenieurinformatik/Technische Informatik,3057
-998,2021,foreign,f,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+998,2021,foreign,f,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 999,2022,foreign,f,247,Medizinische Informatik,595
 1000,2019,domestic,f,029,Sportwissenschaft,6875
 1001,2018,foreign,m,143,Augenoptik,27
@@ -1005,7 +1005,7 @@
 1003,2020,foreign,m,191,Komposition,159
 1004,2020,foreign,m,201,Werken (technisch)/Technologie,3
 1005,2019,foreign,f,310,Regenerative Energien,202
-1006,2022,foreign,m,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+1006,2022,foreign,m,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 1007,2018,foreign,f,081,Iranistik,39
 1008,2021,foreign,m,172,Verwaltungswissenschaft/-wesen,233
 1009,2018,foreign,m,049,Interdisz. Studien (Schwerp. Naturwissenschaften),975
@@ -1023,14 +1023,14 @@
 1021,2021,foreign,f,265,Bankwesen,8
 1022,2020,foreign,f,033,Chemie-Ingenieurwesen/Chemieverfahrenstechnik,829
 1023,2022,foreign,m,057,Luft- und Raumfahrttechnik,1249
-1024,2018,foreign,f,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),215
+1024,2018,foreign,f,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),215
 1025,2021,domestic,m,234,Pflegewissenschaft/-management,3169
 1026,2019,foreign,f,060,Gartenbau,89
 1027,2018,domestic,f,143,Augenoptik,475
 1028,2021,foreign,m,078,Indologie,16
 1029,2020,domestic,m,255,Archivwesen,150
 1030,2020,foreign,f,273,Mittlere und neuere Geschichte,39
-1031,2023,domestic,f,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+1031,2023,domestic,f,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 1032,2020,foreign,f,272,Alte Geschichte,16
 1033,2023,foreign,m,038,Lateinamerika-Studien,49
 1034,2021,foreign,f,120,"Nordistik/Skandinavist.(Nord.Phil.,Einzelsp.a.n.g)",72
@@ -1094,22 +1094,22 @@
 1092,2021,foreign,m,177,Werkstofftechnik,1187
 1093,2020,domestic,f,181,Wirtschaftspädagogik,4215
 1094,2018,domestic,f,147,Sozialkunde,1610
-1095,2022,domestic,f,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+1095,2022,domestic,f,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 1096,2023,foreign,f,125,Agrarökonomie,312
 1097,2021,foreign,f,167,Europäische Wirtschaft,214
 1098,2018,domestic,m,098,Sportpädagogik/Sportpsychologie,5575
 1099,2023,foreign,m,135,Rechtswissenschaft,3115
 1100,2018,domestic,m,108,Metalltechnik,681
 1101,2019,domestic,m,272,Alte Geschichte,154
-1102,2018,foreign,m,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+1102,2018,foreign,m,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 1103,2019,foreign,m,223,Nautik/Seefahrt,176
 1104,2023,domestic,m,316,Elektronische Energietechnik,938
-1105,2023,domestic,f,303,Journalistik (ab 2008 zu SF303),0
+1105,2023,domestic,f,252,Journalistik (ab 2008 zu SF303),0
 1106,2022,domestic,f,076,Hütten- und Gießereiwesen,87
 1107,2022,foreign,f,093,Landespflege/Landschaftsgestaltung,253
 1108,2018,foreign,m,287,Neue Medien,225
 1109,2022,foreign,f,103,Markscheidewesen,4
-1110,2020,domestic,f,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+1110,2020,domestic,f,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 1111,2023,domestic,m,066,Geophysik,636
 1112,2020,foreign,m,190,Sonderpädagogik,48
 1113,2018,domestic,m,202,Fertigungs-/Produktionstechnik,4889
@@ -1127,12 +1127,12 @@
 1125,2022,foreign,m,305,Medientechnik,428
 1126,2020,foreign,m,105,Mathematik,3350
 1127,2023,domestic,m,160,Computerlinguistik,619
-1128,2020,foreign,f,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+1128,2020,foreign,f,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 1129,2019,domestic,m,032,Chemie,23156
 1130,2018,domestic,f,145,Sinologie/Koreanistik,1732
 1131,2021,foreign,m,272,Alte Geschichte,13
-1132,2018,domestic,m,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
-1133,2018,domestic,m,303,Publizistik (ab 2008 zu SF303),0
+1132,2018,domestic,m,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+1133,2018,domestic,m,109,Publizistik (ab 2008 zu SF303),0
 1134,2018,foreign,f,181,Wirtschaftspädagogik,291
 1135,2018,foreign,m,380,Mechatronik,4681
 1136,2019,domestic,m,178,Wirtschafts-/Sozialgeografie,269
@@ -1143,7 +1143,7 @@
 1141,2022,foreign,m,055,Orientierungsstudium Gesellschaftswissenschaften,0
 1142,2018,domestic,f,385,Geoökologie,723
 1143,2021,foreign,f,020,Bergbau/Bergtechnik,232
-1144,2018,foreign,f,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+1144,2018,foreign,f,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 1145,2023,domestic,m,067,Germanistik/Deutsch,12190
 1146,2021,foreign,m,178,Wirtschafts-/Sozialgeografie,7
 1147,2018,domestic,m,203,Industriedesign/Produktgestaltung,1770
@@ -1155,7 +1155,7 @@
 1153,2021,foreign,f,166,Sportmanagement/Sportökonomie,161
 1154,2023,foreign,m,134,Raumplanung,529
 1155,2019,domestic,m,271,Deutsch als Fremdsprache oder als Zweitsprache,520
-1156,2021,domestic,m,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
+1156,2021,domestic,m,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
 1157,2018,domestic,f,146,Slawistik (Slawische Philologie),774
 1158,2018,foreign,m,140,Angewandte Systemwissenschaften,505
 1159,2023,domestic,f,011,Arbeitslehre/Wirtschaftslehre,1070
@@ -1166,7 +1166,7 @@
 1164,2022,foreign,f,102,Schauspiel,96
 1165,2019,foreign,m,222,Kommunikations- und Informationstechnik,2103
 1166,2020,foreign,f,039,Geowissenschaften allgemein,686
-1167,2018,foreign,m,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+1167,2018,foreign,m,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 1168,2022,foreign,f,095,Latein,41
 1169,2022,domestic,m,080,Instrumentalmusik,1206
 1170,2022,foreign,f,105,Mathematik,2556
@@ -1182,10 +1182,10 @@
 1180,2019,foreign,m,127,Philosophie,1302
 1181,2019,domestic,f,025,Biochemie,4245
 1182,2023,domestic,f,156,Tiermedizin/Veterinärmedizin,6209
-1183,2020,domestic,m,303,Journalistik (ab 2008 zu SF303),0
+1183,2020,domestic,m,252,Journalistik (ab 2008 zu SF303),0
 1184,2020,foreign,f,276,Wirtschaftsmathematik,783
 1185,2021,domestic,m,333,Haushaltswissenschaft,37
-1186,2022,foreign,m,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+1186,2022,foreign,m,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 1187,2023,foreign,m,231,Druck- und Reproduktionstechnik,103
 1188,2018,domestic,f,242,Innenarchitektur,2751
 1189,2019,foreign,f,117,Ausländerpädagogik,54
@@ -1237,14 +1237,14 @@
 1235,2022,foreign,m,209,Tschechisch,3
 1236,2021,foreign,m,030,"Interdisz.Studien(Schwerp.Rechts-,Wirt.-u.Sozialw)",1188
 1237,2020,foreign,m,009,Anthropologie (Humanbiologie),75
-1238,2022,domestic,m,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
+1238,2022,domestic,m,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
 1239,2020,foreign,f,131,Portugiesisch,24
 1240,2019,domestic,m,274,Tourismuswirtschaft,1948
 1241,2018,foreign,f,085,Japanologie,327
 1242,2019,domestic,m,034,Dänisch,11
 1243,2020,domestic,m,157,Mikroelektronik,47
 1244,2021,foreign,m,176,Werkerziehung,0
-1245,2018,domestic,f,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+1245,2018,domestic,f,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 1246,2019,domestic,f,266,Finanzverwaltung,1261
 1247,2020,foreign,f,371,Tierproduktion,22
 1248,2023,foreign,m,136,Religionswissenschaft,141
@@ -1315,7 +1315,7 @@
 1313,2023,foreign,m,233,Nichtärztliche Heilberufe/Therapien,249
 1314,2019,foreign,f,164,Jazz und Popularmusik,75
 1315,2019,domestic,m,370,Wirtschaftsingenieurw. m. ingenieurwiss.Schwerpkt.,45694
-1316,2020,domestic,m,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+1316,2020,domestic,m,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 1317,2021,foreign,m,320,Ernährungswissenschaft,147
 1318,2018,domestic,f,280,Kartografie,93
 1319,2022,domestic,f,130,Westslawisch (allgemein und a.n.g.),16
@@ -1379,7 +1379,7 @@
 1377,2020,domestic,f,280,Kartografie,72
 1378,2021,foreign,m,321,Erwachsenenbildung und außerschulische Jugendbild.,31
 1379,2022,domestic,f,275,Wissenschaftsgeschichte/Technikgeschichte,9
-1380,2023,foreign,f,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+1380,2023,foreign,f,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 1381,2020,foreign,m,091,Kunsterziehung,108
 1382,2023,foreign,m,138,Agrarbiologie,275
 1383,2022,foreign,m,016,Baltistik,0
@@ -1393,8 +1393,8 @@
 1391,2023,foreign,f,172,Verwaltungswissenschaft/-wesen,332
 1392,2018,domestic,f,042,Wirtschaftsrecht,11391
 1393,2023,domestic,f,014,Astrophysik und Astronomie,84
-1394,2021,domestic,m,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
-1395,2019,domestic,m,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+1394,2021,domestic,m,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+1395,2019,domestic,m,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 1396,2020,domestic,f,042,Wirtschaftsrecht,12105
 1397,2018,foreign,m,006,Amerikanistik/Amerikakunde,356
 1398,2020,foreign,f,134,Raumplanung,721
@@ -1408,7 +1408,7 @@
 1406,2021,domestic,m,039,Geowissenschaften allgemein,4764
 1407,2019,foreign,f,161,Diakoniewissenschaft,7
 1408,2018,domestic,f,188,Allgemeine Literaturwissenschaft,2861
-1409,2022,foreign,m,303,Journalistik (ab 2008 zu SF303),0
+1409,2022,foreign,m,252,Journalistik (ab 2008 zu SF303),0
 1410,2018,domestic,m,056,Finno-Ugristik,42
 1411,2022,foreign,f,385,Geoökologie,80
 1412,2021,domestic,f,226,Verfahrenstechnik,2812
@@ -1434,7 +1434,7 @@
 1432,2020,domestic,f,041,Sonstiges Orientierungsstudium,0
 1433,2023,domestic,m,020,Bergbau/Bergtechnik,594
 1434,2021,foreign,m,224,Physikal. Technik/Mechanische Verfahrenstechnik,761
-1435,2018,foreign,f,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+1435,2018,foreign,f,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 1436,2022,domestic,m,186,Lernbereich Naturwissenschaft/Sachunterricht,930
 1437,2018,domestic,f,187,Asiatische Sprachen u.Kulturen/Asienwissenschaften,1145
 1438,2023,domestic,f,159,Edelstein- und Schmuckdesign,34
@@ -1455,7 +1455,7 @@
 1453,2021,domestic,m,132,Psychologie,24096
 1454,2023,foreign,f,173,Ethnologie,438
 1455,2019,foreign,m,224,Physikal. Technik/Mechanische Verfahrenstechnik,866
-1456,2018,domestic,m,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+1456,2018,domestic,m,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 1457,2021,domestic,f,320,Ernährungswissenschaft,5038
 1458,2019,domestic,f,320,Ernährungswissenschaft,3695
 1459,2019,domestic,m,132,Psychologie,21572
@@ -1511,7 +1511,7 @@
 1509,2023,domestic,f,114,Musikwissenschaft/-geschichte,1898
 1510,2021,domestic,m,135,Rechtswissenschaft,46939
 1511,2019,foreign,f,066,Geophysik,98
-1512,2022,foreign,f,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+1512,2022,foreign,f,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 1513,2023,foreign,m,081,Iranistik,48
 1514,2023,domestic,m,022,Informations-/Bibliothekswiss. (nicht f. Verw.-FH),556
 1515,2021,foreign,f,316,Elektronische Energietechnik,167
@@ -1533,12 +1533,12 @@
 1531,2022,domestic,f,272,Alte Geschichte,94
 1532,2018,domestic,m,544,"Ev. Religionspädagogik, kirchliche Bildungsarbeit",206
 1533,2023,foreign,f,227,Weinbau und Kellerwirtschaft,114
-1534,2023,foreign,m,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
+1534,2023,foreign,m,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
 1535,2023,foreign,f,071,Haushalts- und Ernährungswissenschaft,394
 1536,2023,domestic,m,262,Bibliothekswesen,14
 1537,2018,domestic,f,043,Neugriechisch,27
 1538,2023,domestic,f,113,Musikerziehung,4059
-1539,2021,foreign,m,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+1539,2021,foreign,m,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 1540,2019,domestic,m,134,Raumplanung,2222
 1541,2021,domestic,m,134,Raumplanung,2381
 1542,2018,foreign,m,149,Soziologie,654
@@ -1579,14 +1579,14 @@
 1577,2022,foreign,m,012,Archäologie,196
 1578,2022,foreign,f,146,Slawistik (Slawische Philologie),380
 1579,2020,domestic,m,208,Soziale Arbeit,15916
-1580,2020,domestic,m,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+1580,2020,domestic,m,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 1581,2022,domestic,f,177,Werkstofftechnik,797
 1582,2018,domestic,m,545,"Kath. Religionspäd., kirchliche Bildungsarbeit",118
 1583,2018,foreign,m,002,Afrikanistik,120
 1584,2023,foreign,f,072,Interdisz. Studien (Schwerp. Ingenieurwissensch.),1562
 1585,2022,domestic,f,031,Byzantinistik,12
 1586,2020,foreign,m,003,Agrarwissenschaft/Landwirtschaft,1143
-1587,2022,domestic,m,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+1587,2022,domestic,m,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 1588,2018,foreign,m,242,Innenarchitektur,80
 1589,2020,domestic,m,052,Erziehungswissenschaft (Pädagogik),12636
 1590,2020,foreign,f,235,Fahrzeugtechnik,305
@@ -1605,14 +1605,14 @@
 1603,2022,foreign,m,154,Lernbereich Gesellschaftslehre,5
 1604,2021,foreign,f,161,Diakoniewissenschaft,18
 1605,2021,domestic,f,221,Bioinformatik,866
-1606,2018,domestic,f,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
-1607,2019,foreign,f,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+1606,2018,domestic,f,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+1607,2019,foreign,f,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 1608,2023,domestic,f,018,Berufsbezogene Fremdsprachenausbildung,663
 1609,2019,domestic,f,221,Bioinformatik,869
 1610,2021,domestic,m,137,"Romanistik (Roman.Philologie,Einzelsprach. a.n.g.)",497
 1611,2018,domestic,m,208,Soziale Arbeit,13421
-1612,2018,domestic,m,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
-1613,2020,domestic,f,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+1612,2018,domestic,m,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+1613,2020,domestic,f,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 1614,2018,domestic,f,286,Mikrosystemtechnik,191
 1615,2019,foreign,m,073,Judaistik/Hebräisch,43
 1616,2023,domestic,f,258,Arbeitsverwaltung,597
@@ -1637,7 +1637,7 @@
 1635,2018,foreign,m,001,Ägyptologie,61
 1636,2019,domestic,m,137,"Romanistik (Roman.Philologie,Einzelsprach. a.n.g.)",568
 1637,2020,domestic,m,545,"Kath. Religionspäd., kirchliche Bildungsarbeit",119
-1638,2018,foreign,m,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+1638,2018,foreign,m,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 1639,2022,domestic,f,030,"Interdisz.Studien(Schwerp.Rechts-,Wirt.-u.Sozialw)",8005
 1640,2020,foreign,f,138,Agrarbiologie,234
 1641,2022,foreign,f,149,Soziologie,1505
@@ -1662,7 +1662,7 @@
 1660,2019,domestic,f,222,Kommunikations- und Informationstechnik,655
 1661,2023,domestic,m,025,Biochemie,2780
 1662,2018,domestic,m,053,"Evangelische Theologie, - Religionslehre",4629
-1663,2020,domestic,f,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+1663,2020,domestic,f,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 1664,2022,foreign,m,155,Theaterwissenschaft,86
 1665,2018,foreign,f,139,Russisch,244
 1666,2023,domestic,f,017,Bauingenieurwesen/Ingenieurbau,13575
@@ -1676,7 +1676,7 @@
 1674,2022,domestic,m,089,Verkehrsingenieurwesen,2912
 1675,2022,foreign,f,242,Innenarchitektur,523
 1676,2018,domestic,m,303,Kommunikationswissenschaft/Publizistik,5331
-1677,2020,foreign,m,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+1677,2020,foreign,m,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 1678,2022,foreign,m,156,Tiermedizin/Veterinärmedizin,153
 1679,2022,domestic,m,183,Wirtschafts-/Sozialgeschichte,98
 1680,2020,domestic,m,544,"Ev. Religionspädagogik, kirchliche Bildungsarbeit",209
@@ -1695,8 +1695,8 @@
 1693,2022,domestic,f,175,Volkswirtschaftslehre,4639
 1694,2020,domestic,m,304,Medienwirtschaft/Medienmanagement,4307
 1695,2020,domestic,m,294,Materialwissenschaften,1145
-1696,2021,domestic,f,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
-1697,2023,foreign,m,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+1696,2021,domestic,f,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+1697,2023,foreign,m,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 1698,2022,domestic,f,353,Pflanzenproduktion,323
 1699,2018,domestic,m,254,Sachunterricht (einschließlich Schulgarten),90
 1700,2021,domestic,f,001,Ägyptologie,329
@@ -1705,7 +1705,7 @@
 1703,2021,foreign,f,061,Meliorationswesen,0
 1704,2020,domestic,f,155,Theaterwissenschaft,2103
 1705,2019,domestic,m,090,Lernbereich Geisteswissenschaften,899
-1706,2023,foreign,m,303,Publizistik (ab 2008 zu SF303),0
+1706,2023,foreign,m,109,Publizistik (ab 2008 zu SF303),0
 1707,2018,domestic,m,014,Astrophysik und Astronomie,204
 1708,2022,domestic,m,167,Europäische Wirtschaft,792
 1709,2023,domestic,f,095,Latein,871
@@ -1734,7 +1734,7 @@
 1732,2023,domestic,m,253,Sozialwesen,5408
 1733,2019,foreign,m,067,Germanistik/Deutsch,1584
 1734,2023,domestic,f,096,Lebensmittelchemie,1210
-1735,2020,foreign,m,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+1735,2020,foreign,m,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 1736,2020,domestic,m,312,Statistik,1608
 1737,2018,domestic,f,107,Medizin (Allgemein-Medizin),52565
 1738,2018,foreign,f,166,Sportmanagement/Sportökonomie,89
@@ -1751,7 +1751,7 @@
 1749,2021,foreign,m,124,Ozeanografie,7
 1750,2021,domestic,m,305,Medientechnik,4632
 1751,2020,foreign,m,039,Geowissenschaften allgemein,1034
-1752,2020,domestic,m,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+1752,2020,domestic,m,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 1753,2023,foreign,m,202,Fertigungs-/Produktionstechnik,1259
 1754,2019,domestic,f,182,Internationale Betriebswirtschaft/Management,21210
 1755,2021,foreign,f,312,Statistik,627
@@ -1776,12 +1776,12 @@
 1774,2021,domestic,f,148,Sozialwissenschaften,11587
 1775,2023,foreign,f,286,Mikrosystemtechnik,272
 1776,2023,domestic,f,094,Wasserbau,353
-1777,2022,foreign,f,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+1777,2022,foreign,f,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 1778,2022,domestic,f,018,Berufsbezogene Fremdsprachenausbildung,743
 1779,2020,domestic,f,156,Tiermedizin/Veterinärmedizin,6199
 1780,2022,foreign,f,208,Soziale Arbeit,3963
 1781,2023,domestic,m,014,Astrophysik und Astronomie,190
-1782,2023,foreign,f,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+1782,2023,foreign,f,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 1783,2023,domestic,f,104,Maschinenbau/-wesen,7484
 1784,2021,domestic,f,002,Afrikanistik,637
 1785,2018,foreign,m,073,Judaistik/Hebräisch,44
@@ -1823,9 +1823,9 @@
 1821,2022,domestic,f,111,Mineralogie,41
 1822,2018,domestic,m,012,Archäologie,2500
 1823,2022,domestic,m,169,Ethik,358
-1824,2018,domestic,f,303,Publizistik (ab 2008 zu SF303),0
+1824,2018,domestic,f,109,Publizistik (ab 2008 zu SF303),0
 1825,2020,domestic,f,011,Arbeitslehre/Wirtschaftslehre,1295
-1826,2018,domestic,f,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+1826,2018,domestic,f,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 1827,2021,domestic,m,057,Luft- und Raumfahrttechnik,5386
 1828,2023,foreign,m,195,Gesundheitspädagogik,63
 1829,2019,domestic,m,102,Schauspiel,226
@@ -1835,7 +1835,7 @@
 1833,2022,domestic,f,017,Bauingenieurwesen/Ingenieurbau,13958
 1834,2023,domestic,m,255,Archivwesen,175
 1835,2020,domestic,f,157,Mikroelektronik,7
-1836,2021,foreign,f,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+1836,2021,foreign,f,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 1837,2019,foreign,m,064,Naturschutz,84
 1838,2023,foreign,f,141,Abfallwirtschaft,1
 1839,2021,domestic,f,149,Soziologie,11340
@@ -1845,11 +1845,11 @@
 1843,2020,foreign,m,370,Wirtschaftsingenieurw. m. ingenieurwiss.Schwerpkt.,8588
 1844,2022,domestic,f,257,Arbeits- und Berufsberatung,449
 1845,2023,domestic,m,015,Außereurop. Sprachen und Kult. in Ozeanien und Am.,50
-1846,2018,domestic,m,303,Journalistik (ab 2008 zu SF303),0
+1846,2018,domestic,m,252,Journalistik (ab 2008 zu SF303),0
 1847,2021,domestic,f,003,Agrarwissenschaft/Landwirtschaft,6411
 1848,2023,domestic,f,103,Markscheidewesen,10
 1849,2023,foreign,f,287,Neue Medien,348
-1850,2023,foreign,f,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+1850,2023,foreign,f,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 1851,2020,foreign,m,131,Portugiesisch,8
 1852,2018,foreign,f,164,Jazz und Popularmusik,86
 1853,2022,domestic,m,022,Informations-/Bibliothekswiss. (nicht f. Verw.-FH),832
@@ -1868,7 +1868,7 @@
 1866,2022,foreign,f,545,"Kath. Religionspäd., kirchliche Bildungsarbeit",90
 1867,2023,foreign,m,194,Tonmeister,95
 1868,2018,domestic,f,203,Industriedesign/Produktgestaltung,1638
-1869,2021,domestic,m,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+1869,2021,domestic,m,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 1870,2022,domestic,m,262,Bibliothekswesen,15
 1871,2019,foreign,f,011,Arbeitslehre/Wirtschaftslehre,74
 1872,2019,domestic,m,008,Anglistik/Englisch,12234
@@ -1892,9 +1892,9 @@
 1890,2022,foreign,f,294,Materialwissenschaften,325
 1891,2018,domestic,f,098,Sportpädagogik/Sportpsychologie,3901
 1892,2021,domestic,m,056,Finno-Ugristik,35
-1893,2021,foreign,f,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+1893,2021,foreign,f,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 1894,2019,domestic,m,101,Restaurierungskunde,158
-1895,2020,domestic,f,303,Journalistik (ab 2008 zu SF303),0
+1895,2020,domestic,f,252,Journalistik (ab 2008 zu SF303),0
 1896,2019,foreign,m,219,Kunststofftechnik,116
 1897,2021,domestic,f,004,Interdisz. Studien (Schwerpunkt Geisteswiss.),12100
 1898,2023,foreign,f,142,Schiffbau/Schiffstechnik,45
@@ -1903,7 +1903,7 @@
 1901,2022,foreign,f,054,Film und Fernsehen,307
 1902,2023,domestic,m,256,Rechtspflege,633
 1903,2020,domestic,f,012,Archäologie,2709
-1904,2019,foreign,m,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+1904,2019,foreign,m,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 1905,2023,domestic,f,092,"Kunstgeschichte, Kunstwissenschaft",7014
 1906,2022,domestic,f,016,Baltistik,6
 1907,2018,foreign,m,227,Weinbau und Kellerwirtschaft,100
@@ -1913,7 +1913,7 @@
 1911,2020,foreign,m,130,Westslawisch (allgemein und a.n.g.),4
 1912,2021,domestic,m,390,Archäometrie (Ingenieurarchäologie),16
 1913,2020,foreign,m,276,Wirtschaftsmathematik,598
-1914,2019,foreign,f,303,Journalistik (ab 2008 zu SF303),0
+1914,2019,foreign,f,252,Journalistik (ab 2008 zu SF303),0
 1915,2021,foreign,m,123,Ingenieurinformatik/Technische Informatik,3544
 1916,2022,foreign,m,210,Verkehrswirtschaft,232
 1917,2023,domestic,m,110,Meteorologie,519
@@ -1937,7 +1937,7 @@
 1935,2018,domestic,f,202,Fertigungs-/Produktionstechnik,825
 1936,2021,domestic,m,150,Spanisch,1020
 1937,2019,domestic,m,007,Angewandte Kunst,1260
-1938,2020,domestic,m,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+1938,2020,domestic,m,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 1939,2023,foreign,m,203,Industriedesign/Produktgestaltung,322
 1940,2018,foreign,m,070,Griechisch,52
 1941,2021,domestic,m,059,Französisch,857
@@ -1948,14 +1948,14 @@
 1946,2018,domestic,m,156,Tiermedizin/Veterinärmedizin,1085
 1947,2018,foreign,f,025,Biochemie,870
 1948,2018,foreign,m,320,Ernährungswissenschaft,82
-1949,2023,foreign,m,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+1949,2023,foreign,m,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 1950,2020,domestic,f,253,Sozialwesen,19130
 1951,2023,foreign,f,041,Sonstiges Orientierungsstudium,5
 1952,2021,domestic,f,143,Augenoptik,522
 1953,2023,foreign,m,207,Sorabistik,1
 1954,2021,foreign,f,119,Niederländisch,20
 1955,2022,domestic,m,069,Grafikdesign/Kommunikationsgestaltung,7603
-1956,2022,foreign,f,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+1956,2022,foreign,f,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 1957,2023,domestic,f,193,Kirchenmusik,109
 1958,2020,domestic,f,013,Architektur,18405
 1959,2023,domestic,m,111,Mineralogie,85
@@ -2019,11 +2019,11 @@
 2017,2023,domestic,m,258,Arbeitsverwaltung,314
 2018,2020,domestic,f,014,Astrophysik und Astronomie,83
 2019,2022,foreign,f,057,Luft- und Raumfahrttechnik,340
-2020,2023,domestic,f,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+2020,2023,domestic,f,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 2021,2020,foreign,m,274,Tourismuswirtschaft,475
 2022,2019,foreign,f,010,Arabisch/Arabistik,78
 2023,2019,domestic,m,009,Anthropologie (Humanbiologie),129
-2024,2023,domestic,f,303,Publizistik (ab 2008 zu SF303),0
+2024,2023,domestic,f,109,Publizistik (ab 2008 zu SF303),0
 2025,2019,domestic,f,085,Japanologie,1748
 2026,2020,foreign,f,074,Transport-/Fördertechnik,11
 2027,2020,domestic,m,213,Versorgungstechnik,2464
@@ -2059,7 +2059,7 @@
 2057,2018,domestic,f,197,Holzbau,132
 2058,2023,domestic,m,019,Orientierungsstudium MINT,4
 2059,2019,domestic,m,200,Computer- und Kommunikationstechniken,2985
-2060,2018,domestic,f,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+2060,2018,domestic,f,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 2061,2023,foreign,f,283,Landschaftsökol./Biogeografie (ab 2012 ohne SF385),37
 2062,2023,domestic,m,353,Pflanzenproduktion,331
 2063,2020,domestic,f,255,Archivwesen,197
@@ -2099,7 +2099,7 @@
 2097,2023,foreign,m,292,Islamische Studien/Islamische Theologie,130
 2098,2020,foreign,f,071,Haushalts- und Ernährungswissenschaft,436
 2099,2019,domestic,m,190,Sonderpädagogik,2607
-2100,2022,domestic,f,303,Journalistik (ab 2008 zu SF303),0
+2100,2022,domestic,f,252,Journalistik (ab 2008 zu SF303),0
 2101,2018,foreign,f,168,Justizvollzug,0
 2102,2019,domestic,m,106,Tanzpädagogik,28
 2103,2022,domestic,m,164,Jazz und Popularmusik,930
@@ -2111,7 +2111,7 @@
 2109,2023,domestic,f,200,Computer- und Kommunikationstechniken,2084
 2110,2023,foreign,m,208,Soziale Arbeit,1146
 2111,2022,domestic,f,158,Turkologie,209
-2112,2023,foreign,m,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+2112,2023,foreign,m,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 2113,2021,foreign,m,128,Physik,5366
 2114,2023,foreign,f,284,Angewandte Sprachwissenschaft,724
 2115,2022,domestic,f,012,Archäologie,2992
@@ -2143,7 +2143,7 @@
 2141,2019,foreign,f,154,Lernbereich Gesellschaftslehre,8
 2142,2021,foreign,m,221,Bioinformatik,361
 2143,2022,foreign,f,548,Ur- und Frühgeschichte,52
-2144,2019,domestic,f,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+2144,2019,domestic,f,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 2145,2023,domestic,f,107,Medizin (Allgemein-Medizin),64638
 2146,2020,foreign,f,072,Interdisz. Studien (Schwerp. Ingenieurwissensch.),1085
 2147,2018,domestic,f,050,Geografie/Erdkunde,9805
@@ -2160,7 +2160,7 @@
 2158,2018,foreign,f,023,Bildende Kunst/Grafik,765
 2159,2018,domestic,f,290,Sonstige Fächer,1171
 2160,2021,foreign,f,115,Grundschul-/Primärstufenpädagogik,192
-2161,2022,foreign,m,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+2161,2022,foreign,m,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 2162,2023,domestic,m,115,Grundschul-/Primärstufenpädagogik,1826
 2163,2022,domestic,m,123,Ingenieurinformatik/Technische Informatik,9696
 2164,2022,foreign,f,097,Lebensmitteltechnologie,298
@@ -2180,7 +2180,7 @@
 2178,2021,foreign,m,262,Bibliothekswesen,0
 2179,2022,domestic,m,269,Zoll- und Steuerverwaltung,3348
 2180,2020,foreign,m,030,"Interdisz.Studien(Schwerp.Rechts-,Wirt.-u.Sozialw)",1043
-2181,2023,foreign,f,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+2181,2023,foreign,f,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 2182,2020,domestic,m,210,Verkehrswirtschaft,1115
 2183,2018,foreign,f,064,Naturschutz,167
 2184,2020,domestic,f,017,Bauingenieurwesen/Ingenieurbau,14087
@@ -2209,17 +2209,17 @@
 2207,2018,domestic,m,211,Energieverfahrenstechnik,5032
 2208,2019,domestic,m,202,Fertigungs-/Produktionstechnik,4458
 2209,2022,foreign,f,191,Komposition,122
-2210,2021,domestic,m,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+2210,2021,domestic,m,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 2211,2022,foreign,f,201,Werken (technisch)/Technologie,22
 2212,2019,foreign,m,169,Ethik,30
 2213,2021,foreign,f,114,Musikwissenschaft/-geschichte,530
 2214,2023,foreign,m,544,"Ev. Religionspädagogik, kirchliche Bildungsarbeit",4
-2215,2023,domestic,f,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+2215,2023,domestic,f,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 2216,2019,domestic,m,192,Dirigieren,113
-2217,2021,domestic,m,303,Publizistik (ab 2008 zu SF303),0
+2217,2021,domestic,m,109,Publizistik (ab 2008 zu SF303),0
 2218,2022,domestic,m,124,Ozeanografie,3
-2219,2021,domestic,f,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
-2220,2019,domestic,f,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+2219,2021,domestic,f,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+2220,2019,domestic,f,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 2221,2022,foreign,f,096,Lebensmittelchemie,151
 2222,2021,domestic,f,286,Mikrosystemtechnik,194
 2223,2019,domestic,f,286,Mikrosystemtechnik,195
@@ -2254,7 +2254,7 @@
 2252,2020,domestic,f,258,Arbeitsverwaltung,916
 2253,2019,foreign,m,022,Informations-/Bibliothekswiss. (nicht f. Verw.-FH),54
 2254,2023,domestic,f,207,Sorabistik,13
-2255,2023,domestic,f,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+2255,2023,domestic,f,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 2256,2020,domestic,m,115,Grundschul-/Primärstufenpädagogik,1511
 2257,2023,foreign,f,148,Sozialwissenschaften,1644
 2258,2020,foreign,f,172,Verwaltungswissenschaft/-wesen,294
@@ -2280,11 +2280,11 @@
 2278,2022,foreign,f,193,Kirchenmusik,46
 2279,2019,domestic,f,287,Neue Medien,1119
 2280,2022,foreign,f,203,Industriedesign/Produktgestaltung,444
-2281,2023,foreign,m,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+2281,2023,foreign,m,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 2282,2022,domestic,m,365,Pädagogik der frühen Kindheit,402
 2283,2019,foreign,f,113,Musikerziehung,566
-2284,2021,domestic,f,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
-2285,2019,domestic,f,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+2284,2021,domestic,f,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+2285,2019,domestic,f,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 2286,2019,domestic,f,141,Abfallwirtschaft,30
 2287,2021,foreign,f,117,Ausländerpädagogik,61
 2288,2022,foreign,m,061,Meliorationswesen,0
@@ -2292,15 +2292,15 @@
 2290,2019,foreign,f,259,Auswärtige Angelegenheiten,5
 2291,2021,foreign,f,353,Pflanzenproduktion,32
 2292,2018,foreign,f,312,Statistik,0
-2293,2022,foreign,f,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+2293,2022,foreign,f,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 2294,2022,domestic,f,213,Versorgungstechnik,427
 2295,2023,foreign,m,057,Luft- und Raumfahrttechnik,1315
-2296,2022,foreign,f,303,Publizistik (ab 2008 zu SF303),0
+2296,2022,foreign,f,109,Publizistik (ab 2008 zu SF303),0
 2297,2020,domestic,f,353,Pflanzenproduktion,298
 2298,2020,domestic,m,212,Feinwerktechnik,487
 2299,2021,foreign,m,260,Bundeswehrverwaltung,10
 2300,2019,foreign,m,260,Bundeswehrverwaltung,2
-2301,2018,foreign,f,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+2301,2018,foreign,f,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 2302,2018,foreign,f,458,Umweltschutz,349
 2303,2019,foreign,f,019,Orientierungsstudium MINT,0
 2304,2020,foreign,m,174,Volkskunde,23
@@ -2344,7 +2344,7 @@
 2342,2021,domestic,f,142,Schiffbau/Schiffstechnik,92
 2343,2019,domestic,f,048,Elektrotechnik/Elektronik,5206
 2344,2022,foreign,f,098,Sportpädagogik/Sportpsychologie,92
-2345,2022,foreign,m,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+2345,2022,foreign,m,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 2346,2023,domestic,m,118,Technomathematik,1680
 2347,2023,foreign,m,150,Spanisch,191
 2348,2022,foreign,f,108,Metalltechnik,5
@@ -2364,22 +2364,22 @@
 2362,2020,foreign,f,076,Hütten- und Gießereiwesen,116
 2363,2021,foreign,m,167,Europäische Wirtschaft,178
 2364,2018,foreign,f,219,Kunststofftechnik,43
-2365,2018,foreign,f,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+2365,2018,foreign,f,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 2366,2018,foreign,m,079,Informatik,16792
 2367,2021,domestic,m,194,Tonmeister,386
 2368,2020,domestic,f,114,Musikwissenschaft/-geschichte,2165
 2369,2019,foreign,m,166,Sportmanagement/Sportökonomie,308
-2370,2019,domestic,m,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+2370,2019,domestic,m,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 2371,2023,foreign,f,004,Interdisz. Studien (Schwerpunkt Geisteswiss.),2838
 2372,2023,domestic,f,195,Gesundheitspädagogik,5019
 2373,2018,domestic,f,090,Lernbereich Geisteswissenschaften,5159
 2374,2021,domestic,m,204,Malerei,173
 2375,2022,domestic,f,118,Technomathematik,510
-2376,2019,domestic,m,303,Publizistik (ab 2008 zu SF303),0
+2376,2019,domestic,m,109,Publizistik (ab 2008 zu SF303),0
 2377,2019,foreign,m,020,Bergbau/Bergtechnik,677
 2378,2023,domestic,f,205,Bildhauerei/Plastik,163
 2379,2023,domestic,m,119,Niederländisch,80
-2380,2020,foreign,f,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+2380,2020,foreign,f,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 2381,2019,domestic,m,203,Industriedesign/Produktgestaltung,1783
 2382,2023,foreign,m,545,"Kath. Religionspäd., kirchliche Bildungsarbeit",84
 2383,2019,domestic,m,193,Kirchenmusik,291
@@ -2411,7 +2411,7 @@
 2409,2018,domestic,f,103,Markscheidewesen,10
 2410,2018,domestic,m,019,Orientierungsstudium MINT,0
 2411,2019,foreign,m,121,Medieninformatik,1208
-2412,2021,domestic,m,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+2412,2021,domestic,m,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 2413,2020,domestic,f,115,Grundschul-/Primärstufenpädagogik,8099
 2414,2018,foreign,f,162,Caritaswissenschaft,14
 2415,2019,domestic,m,050,Geografie/Erdkunde,10289
@@ -2432,7 +2432,7 @@
 2430,2018,domestic,m,113,Musikerziehung,3259
 2431,2018,domestic,f,009,Anthropologie (Humanbiologie),434
 2432,2022,domestic,m,264,Sozialversicherung,767
-2433,2019,foreign,m,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+2433,2019,foreign,m,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 2434,2018,foreign,f,068,Geschichte,1529
 2435,2021,foreign,m,026,Biologie,2817
 2436,2023,domestic,f,056,Finno-Ugristik,64
@@ -2494,7 +2494,7 @@
 2492,2021,domestic,m,290,Sonstige Fächer,1069
 2493,2018,foreign,f,163,Rhythmik,5
 2494,2020,domestic,f,116,Textilgestaltung,2126
-2495,2021,foreign,m,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+2495,2021,foreign,m,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 2496,2021,domestic,f,042,Wirtschaftsrecht,11862
 2497,2021,domestic,f,282,Biotechnologie,6218
 2498,2018,domestic,f,008,Anglistik/Englisch,29431
@@ -2510,10 +2510,10 @@
 2508,2018,foreign,f,069,Grafikdesign/Kommunikationsgestaltung,2009
 2509,2021,domestic,f,189,Niederdeutsch,2
 2510,2019,domestic,f,189,Niederdeutsch,2
-2511,2022,domestic,m,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+2511,2022,domestic,m,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 2512,2018,domestic,m,110,Meteorologie,753
-2513,2022,foreign,f,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
-2514,2020,foreign,m,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+2513,2022,foreign,f,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+2514,2020,foreign,m,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 2515,2019,foreign,f,015,Außereurop. Sprachen und Kult. in Ozeanien und Am.,79
 2516,2023,domestic,m,215,Gesundheitstechnik,4410
 2517,2021,foreign,f,019,Orientierungsstudium MINT,0
@@ -2532,7 +2532,7 @@
 2530,2019,domestic,f,043,Neugriechisch,20
 2531,2023,foreign,f,385,Geoökologie,86
 2532,2020,foreign,m,076,Hütten- und Gießereiwesen,297
-2533,2018,foreign,m,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+2533,2018,foreign,m,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 2534,2018,foreign,f,160,Computerlinguistik,320
 2535,2020,domestic,f,211,Energieverfahrenstechnik,1013
 2536,2018,foreign,f,316,Elektronische Energietechnik,115
@@ -2584,14 +2584,14 @@
 2582,2018,foreign,m,075,Holzwirtschaft,19
 2583,2023,domestic,f,302,Medienwissenschaft,8444
 2584,2020,foreign,m,075,Holzwirtschaft,28
-2585,2019,domestic,m,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+2585,2019,domestic,m,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 2586,2020,domestic,m,353,Pflanzenproduktion,367
 2587,2019,domestic,f,044,Ost- und Südosteuropa-Studien,243
 2588,2023,domestic,m,310,Regenerative Energien,2065
 2589,2022,domestic,f,114,Musikwissenschaft/-geschichte,1914
 2590,2023,foreign,m,154,Lernbereich Gesellschaftslehre,5
 2591,2020,foreign,f,175,Volkswirtschaftslehre,2403
-2592,2019,domestic,m,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+2592,2019,domestic,m,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 2593,2023,domestic,f,053,"Evangelische Theologie, - Religionslehre",4441
 2594,2020,domestic,m,019,Orientierungsstudium MINT,0
 2595,2023,foreign,f,146,Slawistik (Slawische Philologie),348
@@ -2610,7 +2610,7 @@
 2608,2019,foreign,f,110,Meteorologie,87
 2609,2021,foreign,f,111,Mineralogie,15
 2610,2022,domestic,m,361,Schulpädagogik,152
-2611,2021,domestic,m,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+2611,2021,domestic,m,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 2612,2020,domestic,f,118,Technomathematik,484
 2613,2018,foreign,f,067,Germanistik/Deutsch,5990
 2614,2018,domestic,m,258,Arbeitsverwaltung,278
@@ -2637,7 +2637,7 @@
 2635,2019,foreign,m,258,Arbeitsverwaltung,5
 2636,2018,foreign,m,039,Geowissenschaften allgemein,943
 2637,2021,foreign,m,160,Computerlinguistik,292
-2638,2023,domestic,f,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+2638,2023,domestic,f,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 2639,2021,domestic,m,006,Amerikanistik/Amerikakunde,648
 2640,2023,foreign,m,144,Technische Kybernetik,36
 2641,2022,foreign,m,165,Orchestermusik,494
@@ -2651,8 +2651,8 @@
 2649,2019,domestic,f,134,Raumplanung,2402
 2650,2021,foreign,f,253,Sozialwesen,1055
 2651,2020,foreign,f,021,Betriebswirtschaftslehre,15217
-2652,2020,domestic,m,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
-2653,2020,foreign,m,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+2652,2020,domestic,m,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+2653,2020,foreign,m,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 2654,2018,domestic,f,155,Theaterwissenschaft,2100
 2655,2020,foreign,f,261,Innere Verwaltung,54
 2656,2021,foreign,m,066,Geophysik,128
@@ -2665,7 +2665,7 @@
 2663,2021,domestic,m,007,Angewandte Kunst,1315
 2664,2021,foreign,f,012,Archäologie,299
 2665,2019,domestic,m,041,Sonstiges Orientierungsstudium,0
-2666,2018,domestic,m,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+2666,2018,domestic,m,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 2667,2023,domestic,f,287,Neue Medien,1471
 2668,2023,domestic,m,195,Gesundheitspädagogik,1312
 2669,2022,foreign,f,258,Arbeitsverwaltung,7
@@ -2731,7 +2731,7 @@
 2729,2022,foreign,f,257,Arbeits- und Berufsberatung,9
 2730,2022,domestic,f,066,Geophysik,843
 2731,2023,foreign,f,081,Iranistik,65
-2732,2023,domestic,f,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+2732,2023,domestic,f,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 2733,2023,domestic,m,206,Polnisch,9
 2734,2018,foreign,m,037,Archiv- und Dokumentationswissenschaft,11
 2735,2021,domestic,f,184,Wirtschaftswissenschaften,33519
@@ -2740,7 +2740,7 @@
 2738,2022,foreign,f,017,Bauingenieurwesen/Ingenieurbau,3332
 2739,2019,domestic,m,280,Kartografie,180
 2740,2023,domestic,f,286,Mikrosystemtechnik,167
-2741,2023,foreign,f,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
+2741,2023,foreign,f,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
 2742,2018,foreign,m,277,Wirtschaftsinformatik,5102
 2743,2023,domestic,m,300,Biomedizin,510
 2744,2023,domestic,m,290,Sonstige Fächer,1084
@@ -2771,7 +2771,7 @@
 2769,2018,domestic,m,061,Meliorationswesen,0
 2770,2023,foreign,m,146,Slawistik (Slawische Philologie),141
 2771,2019,domestic,m,283,Landschaftsökol./Biogeografie (ab 2012 ohne SF385),480
-2772,2019,foreign,f,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+2772,2019,foreign,f,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 2773,2018,foreign,m,370,Wirtschaftsingenieurw. m. ingenieurwiss.Schwerpkt.,7314
 2774,2020,domestic,f,202,Fertigungs-/Produktionstechnik,704
 2775,2022,domestic,m,227,Weinbau und Kellerwirtschaft,613
@@ -2782,7 +2782,7 @@
 2780,2018,foreign,m,036,Sonstige Regionalwissenschaften,39
 2781,2021,domestic,f,185,Zahnmedizin,8983
 2782,2023,foreign,f,082,Holz-/Fasertechnik,8
-2783,2023,domestic,m,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+2783,2023,domestic,m,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 2784,2021,foreign,f,014,Astrophysik und Astronomie,141
 2785,2022,foreign,f,114,Musikwissenschaft/-geschichte,539
 2786,2019,foreign,m,256,Rechtspflege,0
@@ -2808,9 +2808,9 @@
 2806,2021,domestic,m,247,Medizinische Informatik,1435
 2807,2019,domestic,m,043,Neugriechisch,14
 2808,2018,domestic,f,156,Tiermedizin/Veterinärmedizin,6173
-2809,2019,foreign,f,303,Publizistik (ab 2008 zu SF303),0
+2809,2019,foreign,f,109,Publizistik (ab 2008 zu SF303),0
 2810,2021,domestic,m,091,Kunsterziehung,1042
-2811,2021,foreign,f,303,Journalistik (ab 2008 zu SF303),0
+2811,2021,foreign,f,252,Journalistik (ab 2008 zu SF303),0
 2812,2020,domestic,m,122,"Orientalistik, Altorientalistik",442
 2813,2019,domestic,f,231,Druck- und Reproduktionstechnik,729
 2814,2020,foreign,f,020,Bergbau/Bergtechnik,223
@@ -2829,18 +2829,18 @@
 2827,2019,domestic,f,137,"Romanistik (Roman.Philologie,Einzelsprach. a.n.g.)",1935
 2828,2020,domestic,f,193,Kirchenmusik,126
 2829,2020,domestic,m,028,Brauwesen/Getränketechnologie,513
-2830,2018,domestic,m,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+2830,2018,domestic,m,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 2831,2021,domestic,f,280,Kartografie,76
 2832,2021,foreign,f,013,Architektur,4634
 2833,2022,foreign,f,113,Musikerziehung,644
 2834,2019,foreign,m,015,Außereurop. Sprachen und Kult. in Ozeanien und Am.,27
 2835,2023,foreign,f,333,Haushaltswissenschaft,0
 2836,2023,domestic,m,052,Erziehungswissenschaft (Pädagogik),12299
-2837,2020,domestic,f,303,Publizistik (ab 2008 zu SF303),0
+2837,2020,domestic,f,109,Publizistik (ab 2008 zu SF303),0
 2838,2022,foreign,f,259,Auswärtige Angelegenheiten,0
 2839,2019,foreign,m,255,Archivwesen,1
 2840,2021,foreign,f,159,Edelstein- und Schmuckdesign,37
-2841,2020,domestic,f,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+2841,2020,domestic,f,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 2842,2018,domestic,m,458,Umweltschutz,868
 2843,2022,domestic,f,064,Naturschutz,712
 2844,2023,domestic,f,044,Ost- und Südosteuropa-Studien,185
@@ -2848,7 +2848,7 @@
 2846,2023,domestic,m,208,Soziale Arbeit,18063
 2847,2018,foreign,m,035,Darstellende Kunst/Bühnenkunst/Regie,144
 2848,2021,domestic,f,186,Lernbereich Naturwissenschaft/Sachunterricht,3606
-2849,2023,domestic,m,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+2849,2023,domestic,m,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 2850,2023,foreign,f,083,Islamwissenschaft,127
 2851,2018,domestic,m,312,Statistik,0
 2852,2019,foreign,f,190,Sonderpädagogik,298
@@ -2875,7 +2875,7 @@
 2873,2019,domestic,m,286,Mikrosystemtechnik,1036
 2874,2022,domestic,m,127,Philosophie,8902
 2875,2018,foreign,f,073,Judaistik/Hebräisch,57
-2876,2019,domestic,m,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+2876,2019,domestic,m,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 2877,2018,domestic,f,253,Sozialwesen,18127
 2878,2019,foreign,f,096,Lebensmittelchemie,130
 2879,2020,domestic,m,169,Ethik,342
@@ -2887,7 +2887,7 @@
 2885,2018,foreign,m,274,Tourismuswirtschaft,469
 2886,2018,domestic,m,215,Gesundheitstechnik,5167
 2887,2021,foreign,f,154,Lernbereich Gesellschaftslehre,2
-2888,2022,domestic,f,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+2888,2022,domestic,f,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 2889,2021,domestic,f,085,Japanologie,1712
 2890,2021,domestic,m,095,Latein,772
 2891,2023,foreign,m,002,Afrikanistik,118
@@ -2932,11 +2932,11 @@
 2930,2020,domestic,m,168,Justizvollzug,94
 2931,2021,foreign,m,165,Orchestermusik,501
 2932,2019,domestic,f,277,Wirtschaftsinformatik,10648
-2933,2023,foreign,m,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
-2934,2018,domestic,f,303,Journalistik (ab 2008 zu SF303),0
+2933,2023,foreign,m,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+2934,2018,domestic,f,252,Journalistik (ab 2008 zu SF303),0
 2935,2022,domestic,f,458,Umweltschutz,949
 2936,2021,foreign,f,153,"Südslawisch(Bulgarisch,Serbokroatisch,Slowen.usw.)",1
-2937,2022,domestic,f,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+2937,2022,domestic,f,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 2938,2018,domestic,m,060,Gartenbau,1230
 2939,2018,foreign,m,033,Chemie-Ingenieurwesen/Chemieverfahrenstechnik,1068
 2940,2021,domestic,f,180,Kaukasistik,1
@@ -2966,7 +2966,7 @@
 2964,2020,foreign,m,081,Iranistik,37
 2965,2019,domestic,m,048,Elektrotechnik/Elektronik,41001
 2966,2022,foreign,f,118,Technomathematik,167
-2967,2020,foreign,m,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
+2967,2020,foreign,m,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
 2968,2020,foreign,f,169,Ethik,76
 2969,2020,domestic,m,265,Bankwesen,517
 2970,2019,foreign,f,094,Wasserbau,147
@@ -3016,14 +3016,14 @@
 3014,2018,domestic,m,213,Versorgungstechnik,2715
 3015,2020,domestic,f,206,Polnisch,39
 3016,2020,domestic,f,196,Studienkolleg,0
-3017,2021,domestic,f,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+3017,2021,domestic,f,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 3018,2022,foreign,f,117,Ausländerpädagogik,57
 3019,2022,domestic,m,464,Facility Management,2104
 3020,2019,foreign,m,019,Orientierungsstudium MINT,0
 3021,2020,domestic,m,264,Sozialversicherung,697
 3022,2020,domestic,f,208,Soziale Arbeit,52320
-3023,2020,domestic,f,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
-3024,2019,domestic,m,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+3023,2020,domestic,f,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+3024,2019,domestic,m,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 3025,2019,foreign,f,105,Mathematik,2588
 3026,2019,foreign,m,259,Auswärtige Angelegenheiten,1
 3027,2023,domestic,f,048,Elektrotechnik/Elektronik,4117
@@ -3038,7 +3038,7 @@
 3036,2019,domestic,m,141,Abfallwirtschaft,66
 3037,2019,domestic,m,287,Neue Medien,1058
 3038,2022,domestic,m,224,Physikal. Technik/Mechanische Verfahrenstechnik,1637
-3039,2019,domestic,f,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+3039,2019,domestic,f,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 3040,2019,foreign,f,095,Latein,54
 3041,2020,domestic,m,024,Europäische Ethnologie und Kulturwissenschaft,785
 3042,2022,foreign,m,066,Geophysik,120
@@ -3060,7 +3060,7 @@
 3058,2023,foreign,m,003,Agrarwissenschaft/Landwirtschaft,1233
 3059,2022,domestic,f,216,Glastechnik/Keramik,37
 3060,2019,foreign,m,113,Musikerziehung,294
-3061,2020,domestic,f,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+3061,2020,domestic,f,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 3062,2022,foreign,f,211,Energieverfahrenstechnik,333
 3063,2021,domestic,f,088,Optoelektronik,110
 3064,2019,domestic,f,039,Geowissenschaften allgemein,4059
@@ -3098,10 +3098,10 @@
 3096,2022,foreign,m,361,Schulpädagogik,23
 3097,2023,domestic,f,149,Soziologie,11003
 3098,2022,domestic,m,077,Wasserwirtschaft,453
-3099,2021,domestic,f,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
+3099,2021,domestic,f,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
 3100,2021,foreign,f,056,Finno-Ugristik,9
 3101,2022,foreign,f,156,Tiermedizin/Veterinärmedizin,547
-3102,2019,foreign,f,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+3102,2019,foreign,f,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 3103,2023,domestic,m,057,Luft- und Raumfahrttechnik,5020
 3104,2022,foreign,m,268,Verkehrswesen,0
 3105,2022,domestic,m,171,Vermessungswesen (Geodäsie),2873
@@ -3118,7 +3118,7 @@
 3116,2023,foreign,m,006,Amerikanistik/Amerikakunde,449
 3117,2019,foreign,f,057,Luft- und Raumfahrttechnik,231
 3118,2023,foreign,f,182,Internationale Betriebswirtschaft/Management,8267
-3119,2023,domestic,m,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+3119,2023,domestic,m,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 3120,2020,foreign,f,269,Zoll- und Steuerverwaltung,30
 3121,2020,foreign,m,235,Fahrzeugtechnik,2556
 3122,2020,domestic,f,052,Erziehungswissenschaft (Pädagogik),44881
@@ -3131,7 +3131,7 @@
 3129,2023,domestic,f,148,Sozialwissenschaften,10957
 3130,2018,domestic,f,208,Soziale Arbeit,42258
 3131,2020,domestic,f,054,Film und Fernsehen,1095
-3132,2018,domestic,f,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+3132,2018,domestic,f,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 3133,2022,domestic,f,169,Ethik,829
 3134,2019,foreign,m,213,Versorgungstechnik,204
 3135,2020,domestic,m,164,Jazz und Popularmusik,960
@@ -3152,7 +3152,7 @@
 3150,2022,foreign,m,123,Ingenieurinformatik/Technische Informatik,3794
 3151,2022,foreign,f,155,Theaterwissenschaft,266
 3152,2019,foreign,f,152,Allg. Sprachwissenschaft/Indogermanistik,1013
-3153,2019,domestic,f,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),1047
+3153,2019,domestic,f,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),1047
 3154,2023,domestic,m,548,Ur- und Frühgeschichte,400
 3155,2023,foreign,m,005,Klassische Philologie,24
 3156,2021,foreign,f,548,Ur- und Frühgeschichte,42
@@ -3194,7 +3194,7 @@
 3192,2023,foreign,f,185,Zahnmedizin,1331
 3193,2020,domestic,m,021,Betriebswirtschaftslehre,114157
 3194,2020,foreign,f,121,Medieninformatik,888
-3195,2018,foreign,f,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+3195,2018,foreign,f,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 3196,2023,domestic,m,059,Französisch,764
 3197,2020,foreign,f,361,Schulpädagogik,63
 3198,2018,domestic,m,163,Rhythmik,2
@@ -3226,12 +3226,12 @@
 3224,2018,domestic,f,545,"Kath. Religionspäd., kirchliche Bildungsarbeit",272
 3225,2020,foreign,m,233,Nichtärztliche Heilberufe/Therapien,186
 3226,2022,domestic,f,021,Betriebswirtschaftslehre,93471
-3227,2023,domestic,f,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+3227,2023,domestic,f,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 3228,2018,foreign,f,266,Finanzverwaltung,6
 3229,2020,domestic,f,304,Medienwirtschaft/Medienmanagement,7521
 3230,2019,domestic,f,082,Holz-/Fasertechnik,150
 3231,2022,domestic,f,261,Innere Verwaltung,5024
-3232,2020,foreign,f,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+3232,2020,foreign,f,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 3233,2020,domestic,f,294,Materialwissenschaften,428
 3234,2020,foreign,f,268,Verkehrswesen,0
 3235,2018,foreign,m,138,Agrarbiologie,184
@@ -3258,7 +3258,7 @@
 3256,2022,foreign,m,120,"Nordistik/Skandinavist.(Nord.Phil.,Einzelsp.a.n.g)",22
 3257,2019,domestic,m,385,Geoökologie,521
 3258,2019,foreign,f,305,Medientechnik,278
-3259,2021,foreign,f,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+3259,2021,foreign,f,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 3260,2018,domestic,m,164,Jazz und Popularmusik,918
 3261,2021,domestic,f,333,Haushaltswissenschaft,123
 3262,2022,foreign,f,010,Arabisch/Arabistik,98
@@ -3283,7 +3283,7 @@
 3281,2021,foreign,f,390,Archäometrie (Ingenieurarchäologie),2
 3282,2020,domestic,f,545,"Kath. Religionspäd., kirchliche Bildungsarbeit",274
 3283,2022,domestic,f,260,Bundeswehrverwaltung,308
-3284,2022,foreign,m,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+3284,2022,foreign,m,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 3285,2020,foreign,f,028,Brauwesen/Getränketechnologie,20
 3286,2021,foreign,m,212,Feinwerktechnik,94
 3287,2018,foreign,f,121,Medieninformatik,808
@@ -3303,9 +3303,9 @@
 3301,2019,domestic,m,148,Sozialwissenschaften,8182
 3302,2021,foreign,m,458,Umweltschutz,596
 3303,2021,domestic,m,242,Innenarchitektur,439
-3304,2018,domestic,f,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+3304,2018,domestic,f,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 3305,2022,domestic,f,166,Sportmanagement/Sportökonomie,2842
-3306,2021,foreign,m,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+3306,2021,foreign,m,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 3307,2018,foreign,m,137,"Romanistik (Roman.Philologie,Einzelsprach. a.n.g.)",249
 3308,2020,domestic,m,067,Germanistik/Deutsch,13788
 3309,2019,foreign,f,292,Islamische Studien/Islamische Theologie,135
@@ -3320,8 +3320,8 @@
 3318,2019,foreign,m,458,Umweltschutz,558
 3319,2021,domestic,m,148,Sozialwissenschaften,8127
 3320,2019,domestic,m,242,Innenarchitektur,384
-3321,2021,foreign,f,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
-3322,2019,foreign,m,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+3321,2021,foreign,f,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+3322,2019,foreign,m,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 3323,2023,domestic,f,247,Medizinische Informatik,1049
 3324,2022,foreign,m,263,Polizei/Verfassungsschutz,182
 3325,2018,domestic,m,067,Germanistik/Deutsch,14593
@@ -3363,24 +3363,24 @@
 3361,2020,domestic,f,152,Allg. Sprachwissenschaft/Indogermanistik,3879
 3362,2019,foreign,m,457,Umwelttechnik (einschließlich Recycling),787
 3363,2018,domestic,f,150,Spanisch,3617
-3364,2021,foreign,m,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+3364,2021,foreign,m,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 3365,2018,foreign,m,136,Religionswissenschaft,117
 3366,2020,domestic,m,066,Geophysik,942
 3367,2019,domestic,m,147,Sozialkunde,1743
-3368,2021,domestic,m,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+3368,2021,domestic,m,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 3369,2021,foreign,m,219,Kunststofftechnik,71
-3370,2021,foreign,f,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+3370,2021,foreign,f,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 3371,2018,foreign,f,128,Physik,2268
 3372,2019,foreign,f,303,Kommunikationswissenschaft/Publizistik,1224
 3373,2021,domestic,f,233,Nichtärztliche Heilberufe/Therapien,11190
 3374,2019,domestic,f,233,Nichtärztliche Heilberufe/Therapien,8845
 3375,2018,domestic,m,162,Caritaswissenschaft,52
 3376,2020,domestic,f,058,"Forstwissenschaft, -wirtschaft",2039
-3377,2019,domestic,m,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),2
+3377,2019,domestic,m,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),2
 3378,2021,foreign,f,197,Holzbau,7
 3379,2023,domestic,f,006,Amerikanistik/Amerikakunde,1395
 3380,2022,foreign,m,264,Sozialversicherung,61
-3381,2022,foreign,f,303,Journalistik (ab 2008 zu SF303),0
+3381,2022,foreign,f,252,Journalistik (ab 2008 zu SF303),0
 3382,2018,domestic,f,056,Finno-Ugristik,107
 3383,2021,domestic,m,147,Sozialkunde,1697
 3384,2022,foreign,f,253,Sozialwesen,1019
@@ -3406,7 +3406,7 @@
 3404,2021,foreign,f,544,"Ev. Religionspädagogik, kirchliche Bildungsarbeit",6
 3405,2020,foreign,m,136,Religionswissenschaft,149
 3406,2023,foreign,m,093,Landespflege/Landschaftsgestaltung,120
-3407,2020,domestic,f,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+3407,2020,domestic,f,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 3408,2018,foreign,f,365,Pädagogik der frühen Kindheit,165
 3409,2020,domestic,f,153,"Südslawisch(Bulgarisch,Serbokroatisch,Slowen.usw.)",6
 3410,2018,domestic,f,153,"Südslawisch(Bulgarisch,Serbokroatisch,Slowen.usw.)",10
@@ -3421,7 +3421,7 @@
 3419,2019,domestic,m,004,Interdisz. Studien (Schwerpunkt Geisteswiss.),5345
 3420,2021,foreign,m,216,Glastechnik/Keramik,13
 3421,2018,foreign,f,125,Agrarökonomie,234
-3422,2023,foreign,f,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+3422,2023,foreign,f,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 3423,2019,foreign,f,300,Biomedizin,440
 3424,2020,domestic,f,059,Französisch,3944
 3425,2022,foreign,m,021,Betriebswirtschaftslehre,16283
@@ -3469,9 +3469,9 @@
 3467,2022,domestic,f,069,Grafikdesign/Kommunikationsgestaltung,14847
 3468,2019,domestic,m,003,Agrarwissenschaft/Landwirtschaft,7451
 3469,2020,domestic,f,154,Lernbereich Gesellschaftslehre,231
-3470,2022,domestic,m,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+3470,2022,domestic,m,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 3471,2022,foreign,m,262,Bibliothekswesen,0
-3472,2019,foreign,f,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+3472,2019,foreign,f,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 3473,2022,foreign,m,022,Informations-/Bibliothekswiss. (nicht f. Verw.-FH),62
 3474,2018,domestic,f,058,"Forstwissenschaft, -wirtschaft",2010
 3475,2023,domestic,m,158,Turkologie,55
@@ -3483,10 +3483,10 @@
 3481,2021,domestic,m,003,Agrarwissenschaft/Landwirtschaft,7060
 3482,2022,foreign,m,169,Ethik,45
 3483,2021,foreign,f,199,Lernbereich Technik,15
-3484,2019,foreign,f,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+3484,2019,foreign,f,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 3485,2019,foreign,f,208,Soziale Arbeit,2986
 3486,2021,foreign,f,208,Soziale Arbeit,3794
-3487,2023,domestic,m,303,Journalistik (ab 2008 zu SF303),0
+3487,2023,domestic,m,252,Journalistik (ab 2008 zu SF303),0
 3488,2022,foreign,f,255,Archivwesen,4
 3489,2022,foreign,m,023,Bildende Kunst/Grafik,450
 3490,2019,domestic,f,235,Fahrzeugtechnik,705
@@ -3503,7 +3503,7 @@
 3501,2021,foreign,m,310,Regenerative Energien,936
 3502,2022,domestic,f,162,Caritaswissenschaft,62
 3503,2023,foreign,m,105,Mathematik,3721
-3504,2018,foreign,m,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+3504,2018,foreign,m,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 3505,2020,domestic,m,161,Diakoniewissenschaft,134
 3506,2023,foreign,f,181,Wirtschaftspädagogik,217
 3507,2022,domestic,m,076,Hütten- und Gießereiwesen,315
@@ -3571,12 +3571,12 @@
 3569,2022,domestic,f,005,Klassische Philologie,162
 3570,2019,foreign,m,052,Erziehungswissenschaft (Pädagogik),831
 3571,2023,domestic,m,147,Sozialkunde,1820
-3572,2023,domestic,f,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
+3572,2023,domestic,f,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
 3573,2021,domestic,f,255,Archivwesen,237
 3574,2022,foreign,f,065,Geologie/Paläontologie,53
-3575,2021,foreign,f,303,Publizistik (ab 2008 zu SF303),0
+3575,2021,foreign,f,109,Publizistik (ab 2008 zu SF303),0
 3576,2020,domestic,f,023,Bildende Kunst/Grafik,1620
-3577,2021,foreign,f,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+3577,2021,foreign,f,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 3578,2022,domestic,f,245,Sozialpädagogik,9617
 3579,2018,foreign,m,060,Gartenbau,86
 3580,2020,domestic,f,169,Ethik,764
@@ -3589,7 +3589,7 @@
 3587,2021,domestic,m,161,Diakoniewissenschaft,114
 3588,2019,domestic,f,050,Geografie/Erdkunde,10169
 3589,2019,domestic,f,300,Biomedizin,1382
-3590,2023,domestic,m,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+3590,2023,domestic,m,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 3591,2020,foreign,f,119,Niederländisch,18
 3592,2019,foreign,m,199,Lernbereich Technik,12
 3593,2021,foreign,f,206,Polnisch,15
@@ -3605,7 +3605,7 @@
 3603,2018,domestic,m,269,Zoll- und Steuerverwaltung,2629
 3604,2019,domestic,f,206,Polnisch,43
 3605,2018,foreign,f,154,Lernbereich Gesellschaftslehre,11
-3606,2019,foreign,f,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),2
+3606,2019,foreign,f,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),2
 3607,2019,foreign,f,147,Sozialkunde,121
 3608,2020,domestic,m,074,Transport-/Fördertechnik,316
 3609,2020,foreign,f,213,Versorgungstechnik,87
@@ -3622,7 +3622,7 @@
 3620,2020,foreign,f,210,Verkehrswirtschaft,182
 3621,2020,domestic,m,078,Indologie,42
 3622,2020,domestic,f,264,Sozialversicherung,1649
-3623,2019,domestic,f,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+3623,2019,domestic,f,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 3624,2021,foreign,f,050,Geografie/Erdkunde,656
 3625,2022,domestic,m,156,Tiermedizin/Veterinärmedizin,980
 3626,2019,domestic,f,208,Soziale Arbeit,46120
@@ -3635,7 +3635,7 @@
 3633,2021,foreign,f,196,Studienkolleg,0
 3634,2021,domestic,f,016,Baltistik,3
 3635,2019,foreign,m,207,Sorabistik,2
-3636,2019,foreign,m,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+3636,2019,foreign,m,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 3637,2023,domestic,m,148,Sozialwissenschaften,7408
 3638,2018,foreign,m,215,Gesundheitstechnik,1787
 3639,2023,foreign,f,154,Lernbereich Gesellschaftslehre,6
@@ -3645,12 +3645,12 @@
 3643,2022,foreign,f,069,Grafikdesign/Kommunikationsgestaltung,3039
 3644,2021,foreign,m,255,Archivwesen,5
 3645,2021,domestic,f,017,Bauingenieurwesen/Ingenieurbau,14028
-3646,2019,domestic,f,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+3646,2019,domestic,f,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 3647,2020,foreign,m,264,Sozialversicherung,65
 3648,2022,foreign,m,222,Kommunikations- und Informationstechnik,2304
 3649,2023,domestic,m,242,Innenarchitektur,451
-3650,2018,foreign,f,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
-3651,2019,foreign,m,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+3650,2018,foreign,f,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+3651,2019,foreign,m,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 3652,2023,foreign,m,061,Meliorationswesen,0
 3653,2019,domestic,m,115,Grundschul-/Primärstufenpädagogik,1357
 3654,2022,domestic,m,155,Theaterwissenschaft,689
@@ -3695,7 +3695,7 @@
 3693,2021,domestic,f,257,Arbeits- und Berufsberatung,459
 3694,2022,foreign,f,067,Germanistik/Deutsch,4349
 3695,2020,domestic,f,025,Biochemie,4310
-3696,2020,domestic,m,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+3696,2020,domestic,m,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 3697,2022,foreign,f,068,Geschichte,1342
 3698,2023,foreign,m,310,Regenerative Energien,1042
 3699,2020,foreign,m,263,Polizei/Verfassungsschutz,121
@@ -3715,7 +3715,7 @@
 3713,2023,foreign,m,216,Glastechnik/Keramik,8
 3714,2019,foreign,f,385,Geoökologie,58
 3715,2020,foreign,m,169,Ethik,29
-3716,2018,domestic,m,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+3716,2018,domestic,m,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 3717,2022,foreign,m,223,Nautik/Seefahrt,207
 3718,2019,domestic,f,292,Islamische Studien/Islamische Theologie,521
 3719,2018,domestic,f,215,Gesundheitstechnik,4777
@@ -3743,7 +3743,7 @@
 3741,2018,domestic,m,169,Ethik,340
 3742,2021,domestic,m,166,Sportmanagement/Sportökonomie,7325
 3743,2018,foreign,m,119,Niederländisch,17
-3744,2019,foreign,m,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+3744,2019,foreign,m,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 3745,2020,domestic,f,266,Finanzverwaltung,1295
 3746,2020,domestic,m,321,Erwachsenenbildung und außerschulische Jugendbild.,601
 3747,2023,foreign,f,054,Film und Fernsehen,326
@@ -3760,7 +3760,7 @@
 3758,2019,domestic,f,191,Komposition,43
 3759,2020,domestic,m,227,Weinbau und Kellerwirtschaft,713
 3760,2022,domestic,m,055,Orientierungsstudium Gesellschaftswissenschaften,0
-3761,2023,domestic,f,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+3761,2023,domestic,f,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 3762,2022,domestic,m,545,"Kath. Religionspäd., kirchliche Bildungsarbeit",118
 3763,2019,domestic,f,201,Werken (technisch)/Technologie,273
 3764,2019,domestic,f,097,Lebensmitteltechnologie,2121
@@ -3774,7 +3774,7 @@
 3772,2019,foreign,f,048,Elektrotechnik/Elektronik,4404
 3773,2020,foreign,f,060,Gartenbau,81
 3774,2020,foreign,m,168,Justizvollzug,0
-3775,2018,domestic,f,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+3775,2018,domestic,f,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 3776,2021,domestic,m,020,Bergbau/Bergtechnik,748
 3777,2019,domestic,m,117,Ausländerpädagogik,18
 3778,2018,domestic,f,312,Statistik,0
@@ -3794,8 +3794,8 @@
 3792,2022,domestic,f,001,Ägyptologie,377
 3793,2023,foreign,f,545,"Kath. Religionspäd., kirchliche Bildungsarbeit",108
 3794,2021,foreign,f,105,Mathematik,2542
-3795,2023,foreign,m,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
-3796,2022,domestic,f,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+3795,2023,foreign,m,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+3796,2022,domestic,f,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 3797,2023,foreign,f,305,Medientechnik,352
 3798,2021,foreign,f,095,Latein,49
 3799,2018,domestic,m,024,Europäische Ethnologie und Kulturwissenschaft,865
@@ -3803,7 +3803,7 @@
 3801,2019,domestic,m,210,Verkehrswirtschaft,1122
 3802,2018,foreign,m,212,Feinwerktechnik,83
 3803,2020,domestic,m,320,Ernährungswissenschaft,903
-3804,2019,domestic,f,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+3804,2019,domestic,f,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 3805,2023,foreign,f,055,Orientierungsstudium Gesellschaftswissenschaften,0
 3806,2020,domestic,f,121,Medieninformatik,5426
 3807,2019,foreign,m,150,Spanisch,219
@@ -3821,7 +3821,7 @@
 3819,2020,domestic,m,226,Verfahrenstechnik,5052
 3820,2019,domestic,f,202,Fertigungs-/Produktionstechnik,741
 3821,2022,domestic,m,150,Spanisch,951
-3822,2020,domestic,f,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+3822,2020,domestic,f,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 3823,2020,domestic,m,070,Griechisch,168
 3824,2022,domestic,m,056,Finno-Ugristik,42
 3825,2023,domestic,f,086,"Katholische Theologie, - Religionslehre",2860
@@ -3830,11 +3830,11 @@
 3828,2020,foreign,f,061,Meliorationswesen,0
 3829,2020,foreign,m,167,Europäische Wirtschaft,153
 3830,2022,foreign,m,221,Bioinformatik,376
-3831,2018,foreign,f,303,Journalistik (ab 2008 zu SF303),0
+3831,2018,foreign,f,252,Journalistik (ab 2008 zu SF303),0
 3832,2022,foreign,m,127,Philosophie,1216
 3833,2021,domestic,m,165,Orchestermusik,308
 3834,2021,foreign,m,210,Verkehrswirtschaft,281
-3835,2023,foreign,m,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+3835,2023,foreign,m,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 3836,2020,foreign,f,457,Umwelttechnik (einschließlich Recycling),651
 3837,2019,domestic,f,108,Metalltechnik,126
 3838,2019,foreign,f,049,Interdisz. Studien (Schwerp. Naturwissenschaften),894
@@ -3848,7 +3848,7 @@
 3846,2018,foreign,f,012,Archäologie,283
 3847,2023,foreign,f,544,"Ev. Religionspädagogik, kirchliche Bildungsarbeit",10
 3848,2023,domestic,m,006,Amerikanistik/Amerikakunde,612
-3849,2021,domestic,f,303,Journalistik (ab 2008 zu SF303),0
+3849,2021,domestic,f,252,Journalistik (ab 2008 zu SF303),0
 3850,2023,foreign,f,390,Archäometrie (Ingenieurarchäologie),2
 3851,2021,domestic,f,012,Archäologie,2754
 3852,2023,foreign,m,066,Geophysik,157
@@ -3879,7 +3879,7 @@
 3877,2023,foreign,f,056,Finno-Ugristik,5
 3878,2019,domestic,m,119,Niederländisch,100
 3879,2019,domestic,f,203,Industriedesign/Produktgestaltung,1662
-3880,2022,domestic,m,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+3880,2022,domestic,m,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 3881,2020,domestic,f,028,Brauwesen/Getränketechnologie,130
 3882,2019,foreign,f,140,Angewandte Systemwissenschaften,214
 3883,2022,foreign,m,124,Ozeanografie,9
@@ -3892,14 +3892,14 @@
 3890,2022,domestic,m,057,Luft- und Raumfahrttechnik,5169
 3891,2023,domestic,f,085,Japanologie,1419
 3892,2021,foreign,m,353,Pflanzenproduktion,37
-3893,2019,domestic,f,303,Publizistik (ab 2008 zu SF303),0
+3893,2019,domestic,f,109,Publizistik (ab 2008 zu SF303),0
 3894,2021,foreign,m,113,Musikerziehung,304
 3895,2018,foreign,f,155,Theaterwissenschaft,311
 3896,2018,foreign,m,210,Verkehrswirtschaft,250
 3897,2021,domestic,m,262,Bibliothekswesen,17
 3898,2019,domestic,m,213,Versorgungstechnik,2562
 3899,2021,foreign,m,259,Auswärtige Angelegenheiten,0
-3900,2019,foreign,f,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+3900,2019,foreign,f,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 3901,2019,domestic,f,193,Kirchenmusik,140
 3902,2023,foreign,m,065,Geologie/Paläontologie,72
 3903,2021,foreign,f,191,Komposition,131
@@ -3908,12 +3908,12 @@
 3906,2018,foreign,m,116,Textilgestaltung,68
 3907,2023,domestic,m,007,Angewandte Kunst,1235
 3908,2019,foreign,m,544,"Ev. Religionspädagogik, kirchliche Bildungsarbeit",3
-3909,2023,foreign,f,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+3909,2023,foreign,f,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 3910,2022,domestic,f,385,Geoökologie,648
 3911,2018,domestic,m,168,Justizvollzug,85
 3912,2018,domestic,f,219,Kunststofftechnik,211
 3913,2021,domestic,m,167,Europäische Wirtschaft,852
-3914,2018,domestic,f,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+3914,2018,domestic,f,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 3915,2021,foreign,f,107,Medizin (Allgemein-Medizin),7905
 3916,2021,domestic,f,253,Sozialwesen,18167
 3917,2021,foreign,f,097,Lebensmitteltechnologie,273
@@ -3955,7 +3955,7 @@
 3953,2021,foreign,f,190,Sonderpädagogik,334
 3954,2019,domestic,f,204,Malerei,196
 3955,2018,foreign,f,156,Tiermedizin/Veterinärmedizin,524
-3956,2019,foreign,f,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+3956,2019,foreign,f,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 3957,2022,domestic,m,016,Baltistik,2
 3958,2022,domestic,m,256,Rechtspflege,643
 3959,2019,domestic,f,058,"Forstwissenschaft, -wirtschaft",2105
@@ -3988,7 +3988,7 @@
 3986,2021,domestic,m,216,Glastechnik/Keramik,90
 3987,2023,foreign,f,254,Sachunterricht (einschließlich Schulgarten),38
 3988,2022,domestic,f,108,Metalltechnik,101
-3989,2018,foreign,f,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+3989,2018,foreign,f,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 3990,2020,domestic,m,129,Politikwissenschaft/Politologie,15627
 3991,2023,domestic,f,185,Zahnmedizin,9266
 3992,2018,domestic,f,258,Arbeitsverwaltung,744
@@ -3999,7 +3999,7 @@
 3997,2023,foreign,f,014,Astrophysik und Astronomie,136
 3998,2018,foreign,m,163,Rhythmik,0
 3999,2021,domestic,f,152,Allg. Sprachwissenschaft/Indogermanistik,3526
-4000,2022,foreign,m,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+4000,2022,foreign,m,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 4001,2021,foreign,f,101,Restaurierungskunde,52
 4002,2021,foreign,f,091,Kunsterziehung,435
 4003,2018,domestic,m,224,Physikal. Technik/Mechanische Verfahrenstechnik,2328
@@ -4053,7 +4053,7 @@
 4051,2018,domestic,f,257,Arbeits- und Berufsberatung,362
 4052,2021,foreign,m,156,Tiermedizin/Veterinärmedizin,156
 4053,2018,foreign,f,208,Soziale Arbeit,2648
-4054,2018,foreign,f,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+4054,2018,foreign,f,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 4055,2023,foreign,m,160,Computerlinguistik,432
 4056,2021,foreign,f,090,Lernbereich Geisteswissenschaften,188
 4057,2022,foreign,f,213,Versorgungstechnik,88
@@ -4087,13 +4087,13 @@
 4085,2021,domestic,m,458,Umweltschutz,871
 4086,2023,foreign,f,110,Meteorologie,81
 4087,2019,foreign,m,154,Lernbereich Gesellschaftslehre,2
-4088,2021,domestic,m,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+4088,2021,domestic,m,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 4089,2018,foreign,f,195,Gesundheitspädagogik,102
 4090,2018,foreign,m,067,Germanistik/Deutsch,1559
 4091,2018,domestic,f,114,Musikwissenschaft/-geschichte,2217
 4092,2020,foreign,f,458,Umweltschutz,376
 4093,2021,foreign,m,059,Französisch,162
-4094,2020,foreign,f,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+4094,2020,foreign,f,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 4095,2021,domestic,m,312,Statistik,1783
 4096,2020,foreign,m,068,Geschichte,1268
 4097,2022,domestic,f,096,Lebensmittelchemie,1360
@@ -4151,7 +4151,7 @@
 4149,2021,foreign,m,154,Lernbereich Gesellschaftslehre,4
 4150,2018,foreign,f,206,Polnisch,29
 4151,2018,domestic,m,129,Politikwissenschaft/Politologie,15914
-4152,2020,foreign,f,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+4152,2020,foreign,f,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 4153,2019,foreign,m,153,"Südslawisch(Bulgarisch,Serbokroatisch,Slowen.usw.)",2
 4154,2022,domestic,f,095,Latein,944
 4155,2021,domestic,m,061,Meliorationswesen,0
@@ -4174,7 +4174,7 @@
 4172,2022,domestic,m,158,Turkologie,58
 4173,2022,foreign,f,458,Umweltschutz,443
 4174,2023,domestic,m,106,Tanzpädagogik,34
-4175,2022,foreign,f,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+4175,2022,foreign,f,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 4176,2019,foreign,f,004,Interdisz. Studien (Schwerpunkt Geisteswiss.),2674
 4177,2018,domestic,m,365,Pädagogik der frühen Kindheit,347
 4178,2023,domestic,m,096,Lebensmittelchemie,582
@@ -4195,7 +4195,7 @@
 4193,2020,foreign,f,163,Rhythmik,3
 4194,2023,foreign,f,010,Arabisch/Arabistik,85
 4195,2021,foreign,m,253,Sozialwesen,379
-4196,2019,domestic,m,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+4196,2019,domestic,m,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 4197,2020,foreign,f,162,Caritaswissenschaft,14
 4198,2023,foreign,f,156,Tiermedizin/Veterinärmedizin,535
 4199,2020,foreign,m,066,Geophysik,107
@@ -4248,7 +4248,7 @@
 4246,2018,foreign,f,390,Archäometrie (Ingenieurarchäologie),4
 4247,2023,domestic,m,201,Werken (technisch)/Technologie,167
 4248,2023,foreign,f,157,Mikroelektronik,124
-4249,2021,domestic,m,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+4249,2021,domestic,m,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 4250,2019,domestic,m,458,Umweltschutz,871
 4251,2019,foreign,m,253,Sozialwesen,367
 4252,2018,foreign,f,150,Spanisch,694
@@ -4256,7 +4256,7 @@
 4254,2018,domestic,f,115,Grundschul-/Primärstufenpädagogik,6616
 4255,2022,domestic,f,009,Anthropologie (Humanbiologie),337
 4256,2020,domestic,f,223,Nautik/Seefahrt,169
-4257,2019,domestic,m,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+4257,2019,domestic,m,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 4258,2018,foreign,m,064,Naturschutz,76
 4259,2021,domestic,f,545,"Kath. Religionspäd., kirchliche Bildungsarbeit",266
 4260,2023,domestic,f,282,Biotechnologie,6072
@@ -4266,7 +4266,7 @@
 4264,2023,domestic,m,108,Metalltechnik,465
 4265,2021,domestic,f,305,Medientechnik,3262
 4266,2021,foreign,f,002,Afrikanistik,183
-4267,2022,domestic,m,303,Journalistik (ab 2008 zu SF303),0
+4267,2022,domestic,m,252,Journalistik (ab 2008 zu SF303),0
 4268,2020,domestic,f,129,Politikwissenschaft/Politologie,12463
 4269,2018,foreign,f,056,Finno-Ugristik,12
 4270,2021,foreign,m,014,Astrophysik und Astronomie,229
@@ -4288,18 +4288,18 @@
 4286,2022,domestic,m,254,Sachunterricht (einschließlich Schulgarten),210
 4287,2021,domestic,f,056,Finno-Ugristik,73
 4288,2018,domestic,m,123,Ingenieurinformatik/Technische Informatik,9253
-4289,2020,foreign,m,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+4289,2020,foreign,m,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 4290,2022,foreign,f,064,Naturschutz,262
 4291,2023,domestic,f,280,Kartografie,102
 4292,2023,foreign,m,168,Justizvollzug,0
 4293,2021,foreign,f,242,Innenarchitektur,481
 4294,2019,domestic,m,066,Geophysik,1048
-4295,2018,foreign,m,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+4295,2018,foreign,m,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 4296,2020,foreign,f,067,Germanistik/Deutsch,4368
 4297,2020,foreign,m,219,Kunststofftechnik,92
 4298,2022,domestic,m,014,Astrophysik und Astronomie,184
 4299,2022,domestic,f,092,"Kunstgeschichte, Kunstwissenschaft",7368
-4300,2023,foreign,f,303,Journalistik (ab 2008 zu SF303),0
+4300,2023,foreign,f,252,Journalistik (ab 2008 zu SF303),0
 4301,2020,domestic,m,221,Bioinformatik,1257
 4302,2023,foreign,m,022,Informations-/Bibliothekswiss. (nicht f. Verw.-FH),41
 4303,2019,domestic,f,056,Finno-Ugristik,95
@@ -4308,7 +4308,7 @@
 4306,2020,domestic,f,464,Facility Management,1400
 4307,2020,domestic,f,224,Physikal. Technik/Mechanische Verfahrenstechnik,643
 4308,2021,foreign,m,011,Arbeitslehre/Wirtschaftslehre,45
-4309,2019,foreign,m,303,Journalistik (ab 2008 zu SF303),0
+4309,2019,foreign,m,252,Journalistik (ab 2008 zu SF303),0
 4310,2023,domestic,f,041,Sonstiges Orientierungsstudium,24
 4311,2020,foreign,f,316,Elektronische Energietechnik,169
 4312,2018,domestic,f,212,Feinwerktechnik,54
@@ -4332,10 +4332,10 @@
 4330,2019,foreign,f,002,Afrikanistik,179
 4331,2019,foreign,f,242,Innenarchitektur,346
 4332,2019,foreign,m,158,Turkologie,49
-4333,2023,domestic,m,303,Publizistik (ab 2008 zu SF303),0
+4333,2023,domestic,m,109,Publizistik (ab 2008 zu SF303),0
 4334,2021,domestic,m,066,Geophysik,897
 4335,2018,domestic,f,118,Technomathematik,501
-4336,2023,domestic,m,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+4336,2023,domestic,m,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 4337,2021,domestic,m,316,Elektronische Energietechnik,1523
 4338,2022,foreign,m,226,Verfahrenstechnik,1171
 4339,2019,domestic,f,545,"Kath. Religionspäd., kirchliche Bildungsarbeit",288
@@ -4354,16 +4354,16 @@
 4352,2018,foreign,m,312,Statistik,0
 4353,2022,domestic,m,255,Archivwesen,170
 4354,2023,domestic,m,193,Kirchenmusik,269
-4355,2019,domestic,f,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
-4356,2022,foreign,f,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+4355,2019,domestic,f,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+4356,2022,foreign,f,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 4357,2020,foreign,m,458,Umweltschutz,552
 4358,2023,foreign,m,167,Europäische Wirtschaft,183
 4359,2022,domestic,f,247,Medizinische Informatik,1135
 4360,2022,foreign,f,219,Kunststofftechnik,25
 4361,2018,foreign,m,458,Umweltschutz,507
-4362,2018,foreign,m,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+4362,2018,foreign,m,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 4363,2020,foreign,f,068,Geschichte,1426
-4364,2020,foreign,m,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+4364,2020,foreign,m,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 4365,2018,foreign,f,544,"Ev. Religionspädagogik, kirchliche Bildungsarbeit",4
 4366,2023,foreign,m,021,Betriebswirtschaftslehre,17419
 4367,2022,domestic,f,091,Kunsterziehung,4624
@@ -4376,7 +4376,7 @@
 4374,2023,foreign,f,013,Architektur,4616
 4375,2019,foreign,m,011,Arbeitslehre/Wirtschaftslehre,33
 4376,2023,domestic,f,186,Lernbereich Naturwissenschaft/Sachunterricht,4325
-4377,2021,foreign,m,303,Journalistik (ab 2008 zu SF303),0
+4377,2021,foreign,m,252,Journalistik (ab 2008 zu SF303),0
 4378,2020,foreign,f,161,Diakoniewissenschaft,11
 4379,2023,foreign,f,159,Edelstein- und Schmuckdesign,34
 4380,2018,foreign,f,054,Film und Fernsehen,220
@@ -4388,7 +4388,7 @@
 4386,2019,domestic,m,064,Naturschutz,258
 4387,2021,foreign,m,012,Archäologie,196
 4388,2019,domestic,f,150,Spanisch,3344
-4389,2021,domestic,f,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+4389,2021,domestic,f,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 4390,2022,foreign,m,071,Haushalts- und Ernährungswissenschaft,191
 4391,2021,foreign,m,158,Turkologie,49
 4392,2022,foreign,m,321,Erwachsenenbildung und außerschulische Jugendbild.,27
@@ -4399,7 +4399,7 @@
 4397,2018,domestic,f,117,Ausländerpädagogik,117
 4398,2021,foreign,f,004,Interdisz. Studien (Schwerpunkt Geisteswiss.),2575
 4399,2019,domestic,f,390,Archäometrie (Ingenieurarchäologie),7
-4400,2019,domestic,f,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+4400,2019,domestic,f,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 4401,2018,domestic,f,262,Bibliothekswesen,47
 4402,2023,domestic,m,181,Wirtschaftspädagogik,2249
 4403,2019,domestic,f,001,Ägyptologie,397
@@ -4428,7 +4428,7 @@
 4426,2021,foreign,m,209,Tschechisch,4
 4427,2018,foreign,f,118,Technomathematik,78
 4428,2022,foreign,m,032,Chemie,3245
-4429,2018,domestic,m,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+4429,2018,domestic,m,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 4430,2022,domestic,f,544,"Ev. Religionspädagogik, kirchliche Bildungsarbeit",431
 4431,2020,domestic,f,213,Versorgungstechnik,427
 4432,2021,domestic,f,290,Sonstige Fächer,1337
@@ -4459,7 +4459,7 @@
 4457,2022,domestic,f,054,Film und Fernsehen,1047
 4458,2018,foreign,m,265,Bankwesen,7
 4459,2019,domestic,m,544,"Ev. Religionspädagogik, kirchliche Bildungsarbeit",211
-4460,2020,domestic,m,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+4460,2020,domestic,m,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 4461,2021,foreign,m,544,"Ev. Religionspädagogik, kirchliche Bildungsarbeit",2
 4462,2018,domestic,f,261,Innere Verwaltung,4263
 4463,2023,domestic,m,182,Internationale Betriebswirtschaft/Management,14496
@@ -4479,7 +4479,7 @@
 4477,2021,foreign,m,294,Materialwissenschaften,491
 4478,2018,domestic,m,077,Wasserwirtschaft,684
 4479,2023,foreign,m,156,Tiermedizin/Veterinärmedizin,155
-4480,2021,foreign,f,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+4480,2021,foreign,f,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 4481,2022,domestic,m,213,Versorgungstechnik,2389
 4482,2018,foreign,f,119,Niederländisch,29
 4483,2018,domestic,f,021,Betriebswirtschaftslehre,98112
@@ -4506,7 +4506,7 @@
 4504,2023,domestic,f,033,Chemie-Ingenieurwesen/Chemieverfahrenstechnik,2295
 4505,2022,domestic,f,053,"Evangelische Theologie, - Religionslehre",5097
 4506,2018,foreign,m,264,Sozialversicherung,64
-4507,2021,domestic,f,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+4507,2021,domestic,f,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 4508,2023,domestic,m,089,Verkehrsingenieurwesen,2727
 4509,2023,domestic,f,429,Stahlbau,2
 4510,2023,domestic,f,273,Mittlere und neuere Geschichte,327
@@ -4517,7 +4517,7 @@
 4515,2022,foreign,m,030,"Interdisz.Studien(Schwerp.Rechts-,Wirt.-u.Sozialw)",1230
 4516,2018,foreign,f,210,Verkehrswirtschaft,155
 4517,2023,foreign,f,096,Lebensmittelchemie,158
-4518,2021,foreign,m,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+4518,2021,foreign,m,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 4519,2023,domestic,m,183,Wirtschafts-/Sozialgeschichte,91
 4520,2020,foreign,f,058,"Forstwissenschaft, -wirtschaft",356
 4521,2019,foreign,m,149,Soziologie,657
@@ -4536,7 +4536,7 @@
 4534,2020,foreign,f,548,Ur- und Frühgeschichte,49
 4535,2020,foreign,f,152,Allg. Sprachwissenschaft/Indogermanistik,948
 4536,2022,foreign,m,176,Werkerziehung,1
-4537,2020,foreign,f,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+4537,2020,foreign,f,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 4538,2023,domestic,f,272,Alte Geschichte,100
 4539,2023,foreign,m,159,Edelstein- und Schmuckdesign,8
 4540,2019,domestic,m,390,Archäometrie (Ingenieurarchäologie),17
@@ -4562,9 +4562,9 @@
 4560,2021,foreign,f,147,Sozialkunde,122
 4561,2023,domestic,f,032,Chemie,12750
 4562,2021,foreign,m,300,Biomedizin,371
-4563,2021,domestic,f,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+4563,2021,domestic,f,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 4564,2023,foreign,f,095,Latein,40
-4565,2022,domestic,f,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+4565,2022,domestic,f,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 4566,2022,domestic,f,208,Soziale Arbeit,60770
 4567,2021,domestic,f,052,Erziehungswissenschaft (Pädagogik),44596
 4568,2021,domestic,f,208,Soziale Arbeit,58263
@@ -4596,18 +4596,18 @@
 4594,2022,foreign,m,031,Byzantinistik,18
 4595,2019,domestic,m,056,Finno-Ugristik,50
 4596,2020,domestic,m,135,Rechtswissenschaft,47725
-4597,2023,foreign,m,303,Journalistik (ab 2008 zu SF303),0
-4598,2021,foreign,m,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+4597,2023,foreign,m,252,Journalistik (ab 2008 zu SF303),0
+4598,2021,foreign,m,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 4599,2018,domestic,f,263,Polizei/Verfassungsschutz,7227
 4600,2018,foreign,m,262,Bibliothekswesen,0
 4601,2020,domestic,f,310,Regenerative Energien,632
-4602,2022,domestic,f,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+4602,2022,domestic,f,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 4603,2019,foreign,m,242,Innenarchitektur,83
 4604,2019,domestic,m,545,"Kath. Religionspäd., kirchliche Bildungsarbeit",119
 4605,2023,domestic,f,271,Deutsch als Fremdsprache oder als Zweitsprache,1969
 4606,2019,domestic,m,305,Medientechnik,4561
 4607,2021,domestic,f,303,Kommunikationswissenschaft/Publizistik,11859
-4608,2019,foreign,f,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+4608,2019,foreign,f,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 4609,2022,foreign,f,220,Milch- und Molkereiwirtschaft,17
 4610,2023,foreign,f,200,Computer- und Kommunikationstechniken,641
 4611,2020,domestic,f,060,Gartenbau,875
@@ -4648,12 +4648,12 @@
 4646,2019,foreign,m,103,Markscheidewesen,4
 4647,2019,domestic,f,049,Interdisz. Studien (Schwerp. Naturwissenschaften),3209
 4648,2018,foreign,f,060,Gartenbau,102
-4649,2021,foreign,m,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+4649,2021,foreign,m,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 4650,2018,domestic,f,266,Finanzverwaltung,1134
 4651,2019,domestic,m,153,"Südslawisch(Bulgarisch,Serbokroatisch,Slowen.usw.)",3
 4652,2022,domestic,f,300,Biomedizin,1583
 4653,2022,domestic,f,290,Sonstige Fächer,1434
-4654,2020,foreign,f,303,Journalistik (ab 2008 zu SF303),0
+4654,2020,foreign,f,252,Journalistik (ab 2008 zu SF303),0
 4655,2021,domestic,f,201,Werken (technisch)/Technologie,263
 4656,2018,domestic,f,120,"Nordistik/Skandinavist.(Nord.Phil.,Einzelsp.a.n.g)",924
 4657,2021,domestic,m,211,Energieverfahrenstechnik,3568
@@ -4668,7 +4668,7 @@
 4666,2021,domestic,f,192,Dirigieren,55
 4667,2023,foreign,m,015,Außereurop. Sprachen und Kult. in Ozeanien und Am.,25
 4668,2021,domestic,f,202,Fertigungs-/Produktionstechnik,675
-4669,2018,domestic,f,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+4669,2018,domestic,f,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 4670,2022,domestic,f,196,Studienkolleg,0
 4671,2022,domestic,f,206,Polnisch,27
 4672,2021,domestic,m,118,Technomathematik,1686
@@ -4677,7 +4677,7 @@
 4675,2018,foreign,m,261,Innere Verwaltung,27
 4676,2020,domestic,f,457,Umwelttechnik (einschließlich Recycling),2626
 4677,2022,domestic,f,050,Geografie/Erdkunde,10322
-4678,2021,foreign,f,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+4678,2021,foreign,f,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 4679,2019,domestic,m,548,Ur- und Frühgeschichte,474
 4680,2023,foreign,f,245,Sozialpädagogik,489
 4681,2023,domestic,m,040,"Interdisz. Studien (Schwerpunkt Kunst, Kunstwiss.)",212
@@ -4725,24 +4725,24 @@
 4723,2018,domestic,f,026,Biologie,29611
 4724,2020,domestic,f,312,Statistik,990
 4725,2021,domestic,m,117,Ausländerpädagogik,15
-4726,2019,domestic,m,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
-4727,2021,foreign,f,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+4726,2019,domestic,m,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+4727,2021,foreign,f,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 4728,2023,foreign,f,090,Lernbereich Geisteswissenschaften,184
 4729,2021,foreign,m,058,"Forstwissenschaft, -wirtschaft",473
 4730,2021,domestic,f,193,Kirchenmusik,129
 4731,2023,foreign,m,014,Astrophysik und Astronomie,274
 4732,2020,domestic,f,458,Umweltschutz,1028
 4733,2023,foreign,f,006,Amerikanistik/Amerikakunde,738
-4734,2021,domestic,f,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+4734,2021,domestic,f,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 4735,2019,foreign,m,102,Schauspiel,49
-4736,2020,domestic,f,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+4736,2020,domestic,f,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 4737,2022,foreign,f,222,Kommunikations- und Informationstechnik,824
 4738,2023,domestic,f,131,Portugiesisch,29
 4739,2023,domestic,m,041,Sonstiges Orientierungsstudium,45
 4740,2023,domestic,f,371,Tierproduktion,152
 4741,2018,foreign,m,166,Sportmanagement/Sportökonomie,268
 4742,2023,domestic,m,187,Asiatische Sprachen u.Kulturen/Asienwissenschaften,393
-4743,2021,domestic,f,303,Publizistik (ab 2008 zu SF303),0
+4743,2021,domestic,f,109,Publizistik (ab 2008 zu SF303),0
 4744,2020,domestic,m,132,Psychologie,23677
 4745,2019,foreign,f,081,Iranistik,40
 4746,2019,domestic,f,385,Geoökologie,727
@@ -4751,7 +4751,7 @@
 4749,2019,foreign,m,007,Angewandte Kunst,187
 4750,2021,foreign,m,545,"Kath. Religionspäd., kirchliche Bildungsarbeit",109
 4751,2023,domestic,f,036,Sonstige Regionalwissenschaften,206
-4752,2019,foreign,f,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),281
+4752,2019,foreign,f,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),281
 4753,2020,foreign,f,156,Tiermedizin/Veterinärmedizin,548
 4754,2022,foreign,m,172,Verwaltungswissenschaft/-wesen,345
 4755,2019,foreign,m,247,Medizinische Informatik,427
@@ -4798,7 +4798,7 @@
 4796,2023,foreign,m,017,Bauingenieurwesen/Ingenieurbau,8576
 4797,2018,domestic,f,029,Sportwissenschaft,6768
 4798,2023,foreign,f,007,Angewandte Kunst,392
-4799,2020,domestic,f,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+4799,2020,domestic,f,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 4800,2022,foreign,f,225,Textil- und Bekleidungstechnik/-gewerbe,247
 4801,2022,domestic,m,211,Energieverfahrenstechnik,3627
 4802,2022,foreign,m,173,Ethnologie,280
@@ -4848,9 +4848,9 @@
 4846,2023,domestic,f,275,Wissenschaftsgeschichte/Technikgeschichte,12
 4847,2021,domestic,f,195,Gesundheitspädagogik,4953
 4848,2023,domestic,m,283,Landschaftsökol./Biogeografie (ab 2012 ohne SF385),520
-4849,2022,domestic,f,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+4849,2022,domestic,f,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 4850,2023,foreign,f,008,Anglistik/Englisch,4327
-4851,2022,domestic,f,303,Publizistik (ab 2008 zu SF303),0
+4851,2022,domestic,f,109,Publizistik (ab 2008 zu SF303),0
 4852,2020,domestic,f,064,Naturschutz,714
 4853,2022,foreign,f,224,Physikal. Technik/Mechanische Verfahrenstechnik,162
 4854,2018,domestic,m,071,Haushalts- und Ernährungswissenschaft,1396
@@ -4922,7 +4922,7 @@
 4920,2020,domestic,m,271,Deutsch als Fremdsprache oder als Zweitsprache,449
 4921,2020,foreign,f,257,Arbeits- und Berufsberatung,7
 4922,2018,foreign,f,257,Arbeits- und Berufsberatung,3
-4923,2023,foreign,f,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+4923,2023,foreign,f,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 4924,2019,foreign,m,106,Tanzpädagogik,83
 4925,2018,domestic,m,429,Stahlbau,51
 4926,2018,domestic,f,065,Geologie/Paläontologie,178
@@ -4998,7 +4998,7 @@
 4996,2020,foreign,f,254,Sachunterricht (einschließlich Schulgarten),21
 4997,2023,foreign,f,052,Erziehungswissenschaft (Pädagogik),3338
 4998,2018,domestic,m,030,"Interdisz.Studien(Schwerp.Rechts-,Wirt.-u.Sozialw)",5994
-4999,2023,foreign,f,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+4999,2023,foreign,f,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 5000,2022,foreign,m,132,Psychologie,2035
 5001,2018,domestic,f,068,Geschichte,13904
 5002,2018,domestic,m,176,Werkerziehung,24
@@ -5012,10 +5012,10 @@
 5010,2022,domestic,m,316,Elektronische Energietechnik,1108
 5011,2021,domestic,f,096,Lebensmittelchemie,1380
 5012,2022,foreign,f,265,Bankwesen,17
-5013,2023,domestic,m,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+5013,2023,domestic,m,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 5014,2018,domestic,m,270,Berufs- und Wirtschaftspädagogik,695
 5015,2022,domestic,m,160,Computerlinguistik,696
-5016,2022,foreign,m,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+5016,2022,foreign,m,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 5017,2019,foreign,f,188,Allgemeine Literaturwissenschaft,467
 5018,2021,foreign,f,282,Biotechnologie,1527
 5019,2019,foreign,f,042,Wirtschaftsrecht,1258
@@ -5045,9 +5045,9 @@
 5043,2020,foreign,f,255,Archivwesen,5
 5044,2020,domestic,m,429,Stahlbau,66
 5045,2023,foreign,f,053,"Evangelische Theologie, - Religionslehre",201
-5046,2023,domestic,f,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+5046,2023,domestic,f,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 5047,2019,domestic,m,158,Turkologie,68
-5048,2021,domestic,m,303,Journalistik (ab 2008 zu SF303),0
+5048,2021,domestic,m,252,Journalistik (ab 2008 zu SF303),0
 5049,2020,domestic,m,033,Chemie-Ingenieurwesen/Chemieverfahrenstechnik,4704
 5050,2018,domestic,f,161,Diakoniewissenschaft,151
 5051,2021,foreign,m,096,Lebensmittelchemie,56
@@ -5058,7 +5058,7 @@
 5056,2020,domestic,f,069,Grafikdesign/Kommunikationsgestaltung,12783
 5057,2021,domestic,f,190,Sonderpädagogik,14901
 5058,2019,foreign,f,282,Biotechnologie,1116
-5059,2019,domestic,m,303,Journalistik (ab 2008 zu SF303),0
+5059,2019,domestic,m,252,Journalistik (ab 2008 zu SF303),0
 5060,2021,domestic,f,200,Computer- und Kommunikationstechniken,2114
 5061,2018,domestic,f,067,Germanistik/Deutsch,50459
 5062,2023,domestic,f,039,Geowissenschaften allgemein,3338
@@ -5081,7 +5081,7 @@
 5079,2019,domestic,f,190,Sonderpädagogik,13185
 5080,2022,foreign,f,024,Europäische Ethnologie und Kulturwissenschaft,457
 5081,2019,domestic,f,200,Computer- und Kommunikationstechniken,1950
-5082,2023,domestic,m,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+5082,2023,domestic,m,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 5083,2018,domestic,m,271,Deutsch als Fremdsprache oder als Zweitsprache,561
 5084,2022,foreign,m,134,Raumplanung,532
 5085,2022,domestic,f,153,"Südslawisch(Bulgarisch,Serbokroatisch,Slowen.usw.)",4
@@ -5133,7 +5133,7 @@
 5131,2023,foreign,f,191,Komposition,121
 5132,2022,domestic,f,548,Ur- und Frühgeschichte,480
 5133,2021,foreign,f,280,Kartografie,65
-5134,2022,foreign,f,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+5134,2022,foreign,f,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 5135,2018,foreign,m,123,Ingenieurinformatik/Technische Informatik,2646
 5136,2023,foreign,f,201,Werken (technisch)/Technologie,21
 5137,2019,domestic,f,005,Klassische Philologie,213
@@ -5152,14 +5152,14 @@
 5150,2018,foreign,m,029,Sportwissenschaft,664
 5151,2018,foreign,f,115,Grundschul-/Primärstufenpädagogik,153
 5152,2021,foreign,m,206,Polnisch,5
-5153,2023,foreign,f,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+5153,2023,foreign,f,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 5154,2022,domestic,f,058,"Forstwissenschaft, -wirtschaft",2120
 5155,2019,domestic,m,014,Astrophysik und Astronomie,201
 5156,2018,foreign,m,269,Zoll- und Steuerverwaltung,4
 5157,2020,domestic,f,165,Orchestermusik,373
 5158,2020,domestic,m,079,Informatik,87429
 5159,2019,domestic,f,090,Lernbereich Geisteswissenschaften,5319
-5160,2023,foreign,f,303,Publizistik (ab 2008 zu SF303),0
+5160,2023,foreign,f,109,Publizistik (ab 2008 zu SF303),0
 5161,2021,foreign,m,050,Geografie/Erdkunde,606
 5162,2019,foreign,f,280,Kartografie,51
 5163,2022,foreign,m,131,Portugiesisch,8
@@ -5189,7 +5189,7 @@
 5187,2023,foreign,f,202,Fertigungs-/Produktionstechnik,253
 5188,2020,foreign,m,123,Ingenieurinformatik/Technische Informatik,3235
 5189,2020,domestic,m,172,Verwaltungswissenschaft/-wesen,6906
-5190,2022,domestic,f,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+5190,2022,domestic,f,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 5191,2020,foreign,f,115,Grundschul-/Primärstufenpädagogik,202
 5192,2019,domestic,f,006,Amerikanistik/Amerikakunde,1540
 5193,2023,foreign,f,192,Dirigieren,74
@@ -5215,17 +5215,17 @@
 5213,2018,foreign,f,258,Arbeitsverwaltung,5
 5214,2019,domestic,m,257,Arbeits- und Berufsberatung,149
 5215,2019,domestic,f,101,Restaurierungskunde,600
-5216,2019,foreign,m,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+5216,2019,foreign,m,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 5217,2021,domestic,f,091,Kunsterziehung,4758
 5218,2022,foreign,m,274,Tourismuswirtschaft,452
 5219,2021,domestic,m,017,Bauingenieurwesen/Ingenieurbau,32311
-5220,2021,foreign,m,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+5220,2021,foreign,m,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 5221,2022,domestic,m,312,Statistik,2024
 5222,2018,foreign,f,018,Berufsbezogene Fremdsprachenausbildung,254
 5223,2021,foreign,f,041,Sonstiges Orientierungsstudium,1
 5224,2022,foreign,m,034,Dänisch,0
-5225,2019,foreign,m,303,Publizistik (ab 2008 zu SF303),0
-5226,2021,foreign,m,303,Publizistik (ab 2008 zu SF303),0
+5225,2019,foreign,m,109,Publizistik (ab 2008 zu SF303),0
+5226,2021,foreign,m,109,Publizistik (ab 2008 zu SF303),0
 5227,2023,domestic,f,138,Agrarbiologie,280
 5228,2021,domestic,m,257,Arbeits- und Berufsberatung,170
 5229,2018,domestic,f,166,Sportmanagement/Sportökonomie,1395
@@ -5250,7 +5250,7 @@
 5248,2020,foreign,m,122,"Orientalistik, Altorientalistik",140
 5249,2020,domestic,m,175,Volkswirtschaftslehre,11991
 5250,2022,domestic,f,056,Finno-Ugristik,69
-5251,2022,domestic,m,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+5251,2022,domestic,m,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 5252,2020,foreign,f,018,Berufsbezogene Fremdsprachenausbildung,178
 5253,2022,foreign,f,269,Zoll- und Steuerverwaltung,32
 5254,2023,foreign,f,193,Kirchenmusik,58
@@ -5279,7 +5279,7 @@
 5277,2019,foreign,m,202,Fertigungs-/Produktionstechnik,1403
 5278,2021,foreign,m,194,Tonmeister,66
 5279,2023,domestic,f,231,Druck- und Reproduktionstechnik,740
-5280,2018,foreign,m,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+5280,2018,foreign,m,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 5281,2020,domestic,f,021,Betriebswirtschaftslehre,100627
 5282,2018,foreign,f,019,Orientierungsstudium MINT,0
 5283,2021,foreign,f,040,"Interdisz. Studien (Schwerpunkt Kunst, Kunstwiss.)",214
@@ -5321,8 +5321,8 @@
 5319,2019,domestic,f,092,"Kunstgeschichte, Kunstwissenschaft",7767
 5320,2023,foreign,m,118,Technomathematik,434
 5321,2022,domestic,f,305,Medientechnik,3096
-5322,2020,foreign,m,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
-5323,2022,domestic,m,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+5322,2020,foreign,m,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+5323,2022,domestic,m,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 5324,2020,domestic,f,260,Bundeswehrverwaltung,298
 5325,2020,foreign,f,259,Auswärtige Angelegenheiten,5
 5326,2022,foreign,f,028,Brauwesen/Getränketechnologie,20
@@ -5342,11 +5342,11 @@
 5340,2020,domestic,f,275,Wissenschaftsgeschichte/Technikgeschichte,8
 5341,2023,foreign,f,165,Orchestermusik,630
 5342,2019,foreign,m,186,Lernbereich Naturwissenschaft/Sachunterricht,22
-5343,2021,domestic,f,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
-5344,2022,domestic,m,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+5343,2021,domestic,f,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+5344,2022,domestic,m,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 5345,2022,domestic,f,139,Russisch,319
 5346,2020,domestic,f,035,Darstellende Kunst/Bühnenkunst/Regie,856
-5347,2021,foreign,f,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+5347,2021,foreign,f,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 5348,2019,foreign,m,040,"Interdisz. Studien (Schwerpunkt Kunst, Kunstwiss.)",93
 5349,2023,domestic,f,225,Textil- und Bekleidungstechnik/-gewerbe,1404
 5350,2022,foreign,f,079,Informatik,9533
@@ -5358,14 +5358,14 @@
 5356,2018,domestic,f,321,Erwachsenenbildung und außerschulische Jugendbild.,2082
 5357,2022,domestic,m,380,Mechatronik,10351
 5358,2020,domestic,m,182,Internationale Betriebswirtschaft/Management,16855
-5359,2019,domestic,f,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+5359,2019,domestic,f,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 5360,2020,foreign,m,253,Sozialwesen,371
-5361,2023,domestic,m,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+5361,2023,domestic,m,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 5362,2018,foreign,f,140,Angewandte Systemwissenschaften,189
 5363,2019,foreign,m,187,Asiatische Sprachen u.Kulturen/Asienwissenschaften,254
 5364,2021,foreign,m,004,Interdisz. Studien (Schwerpunkt Geisteswiss.),1091
 5365,2020,foreign,f,095,Latein,48
-5366,2019,foreign,f,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+5366,2019,foreign,f,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 5367,2023,foreign,m,072,Interdisz. Studien (Schwerp. Ingenieurwissensch.),4088
 5368,2020,foreign,f,105,Mathematik,2556
 5369,2018,domestic,f,227,Weinbau und Kellerwirtschaft,342
@@ -5379,9 +5379,9 @@
 5377,2019,domestic,f,458,Umweltschutz,1029
 5378,2018,domestic,f,071,Haushalts- und Ernährungswissenschaft,6267
 5379,2022,foreign,m,081,Iranistik,44
-5380,2022,foreign,m,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
+5380,2022,foreign,m,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
 5381,2022,domestic,m,140,Angewandte Systemwissenschaften,1642
-5382,2018,foreign,f,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+5382,2018,foreign,f,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 5383,2023,domestic,f,464,Facility Management,1392
 5384,2022,domestic,f,232,Gesundheitswissenschaften/-management,26685
 5385,2020,domestic,f,130,Westslawisch (allgemein und a.n.g.),17
@@ -5410,13 +5410,13 @@
 5408,2023,domestic,f,224,Physikal. Technik/Mechanische Verfahrenstechnik,417
 5409,2023,foreign,m,321,Erwachsenenbildung und außerschulische Jugendbild.,26
 5410,2020,domestic,m,181,Wirtschaftspädagogik,2585
-5411,2020,foreign,m,303,Journalistik (ab 2008 zu SF303),0
-5412,2018,foreign,m,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
-5413,2018,foreign,m,303,Publizistik (ab 2008 zu SF303),0
+5411,2020,foreign,m,252,Journalistik (ab 2008 zu SF303),0
+5412,2018,foreign,m,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+5413,2018,foreign,m,109,Publizistik (ab 2008 zu SF303),0
 5414,2020,foreign,m,012,Archäologie,188
 5415,2018,foreign,f,141,Abfallwirtschaft,0
 5416,2021,domestic,f,029,Sportwissenschaft,7363
-5417,2019,domestic,f,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+5417,2019,domestic,f,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 5418,2020,foreign,f,096,Lebensmittelchemie,141
 5419,2020,foreign,f,106,Tanzpädagogik,173
 5420,2018,domestic,f,320,Ernährungswissenschaft,2944
@@ -5424,14 +5424,14 @@
 5422,2018,foreign,f,287,Neue Medien,232
 5423,2022,foreign,m,082,Holz-/Fasertechnik,34
 5424,2022,domestic,m,287,Neue Medien,1145
-5425,2020,domestic,m,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+5425,2020,domestic,m,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 5426,2023,foreign,m,227,Weinbau und Kellerwirtschaft,102
 5427,2020,foreign,m,158,Turkologie,43
 5428,2021,foreign,m,245,Sozialpädagogik,57
 5429,2018,domestic,f,226,Verfahrenstechnik,3341
 5430,2021,domestic,m,174,Volkskunde,258
 5431,2022,domestic,m,141,Abfallwirtschaft,48
-5432,2018,foreign,f,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+5432,2018,foreign,f,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 5433,2020,foreign,f,200,Computer- und Kommunikationstechniken,510
 5434,2021,foreign,m,005,Klassische Philologie,34
 5435,2018,domestic,f,070,Griechisch,187
@@ -5493,7 +5493,7 @@
 5491,2018,foreign,m,201,Werken (technisch)/Technologie,3
 5492,2018,foreign,m,191,Komposition,137
 5493,2019,domestic,m,221,Bioinformatik,1302
-5494,2018,domestic,m,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+5494,2018,domestic,m,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 5495,2023,domestic,f,222,Kommunikations- und Informationstechnik,578
 5496,2019,foreign,f,038,Lateinamerika-Studien,104
 5497,2023,foreign,m,074,Transport-/Fördertechnik,24
@@ -5553,7 +5553,7 @@
 5551,2018,domestic,m,370,Wirtschaftsingenieurw. m. ingenieurwiss.Schwerpkt.,47361
 5552,2019,foreign,m,284,Angewandte Sprachwissenschaft,220
 5553,2022,foreign,f,031,Byzantinistik,8
-5554,2020,domestic,f,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+5554,2020,domestic,f,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 5555,2018,domestic,m,130,Westslawisch (allgemein und a.n.g.),16
 5556,2021,domestic,f,169,Ethik,868
 5557,2018,foreign,m,096,Lebensmittelchemie,46
@@ -5562,8 +5562,8 @@
 5560,2023,domestic,m,137,"Romanistik (Roman.Philologie,Einzelsprach. a.n.g.)",418
 5561,2022,domestic,m,042,Wirtschaftsrecht,7899
 5562,2022,foreign,f,178,Wirtschafts-/Sozialgeografie,16
-5563,2020,foreign,f,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
-5564,2020,foreign,f,303,Publizistik (ab 2008 zu SF303),0
+5563,2020,foreign,f,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+5564,2020,foreign,f,109,Publizistik (ab 2008 zu SF303),0
 5565,2020,domestic,f,039,Geowissenschaften allgemein,3840
 5566,2022,domestic,m,282,Biotechnologie,4365
 5567,2020,domestic,m,084,Italienisch,212
@@ -5577,7 +5577,7 @@
 5575,2020,foreign,f,193,Kirchenmusik,45
 5576,2022,foreign,m,139,Russisch,27
 5577,2021,foreign,m,102,Schauspiel,52
-5578,2023,foreign,m,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+5578,2023,foreign,m,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 5579,2021,domestic,m,273,Mittlere und neuere Geschichte,423
 5580,2022,domestic,m,188,Allgemeine Literaturwissenschaft,739
 5581,2021,domestic,m,429,Stahlbau,64
@@ -5648,7 +5648,7 @@
 5646,2023,foreign,f,163,Rhythmik,12
 5647,2021,domestic,f,265,Bankwesen,340
 5648,2021,domestic,m,275,Wissenschaftsgeschichte/Technikgeschichte,21
-5649,2022,domestic,f,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+5649,2022,domestic,f,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 5650,2021,foreign,f,085,Japanologie,280
 5651,2023,foreign,m,173,Ethnologie,257
 5652,2019,foreign,m,042,Wirtschaftsrecht,695
@@ -5709,7 +5709,7 @@
 5707,2020,domestic,f,230,Gesang,484
 5708,2023,foreign,m,172,Verwaltungswissenschaft/-wesen,331
 5709,2021,domestic,f,120,"Nordistik/Skandinavist.(Nord.Phil.,Einzelsp.a.n.g)",712
-5710,2022,domestic,m,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+5710,2022,domestic,m,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 5711,2022,foreign,f,272,Alte Geschichte,17
 5712,2018,foreign,m,009,Anthropologie (Humanbiologie),109
 5713,2019,foreign,m,041,Sonstiges Orientierungsstudium,0
@@ -5718,7 +5718,7 @@
 5716,2023,domestic,f,070,Griechisch,118
 5717,2022,domestic,f,038,Lateinamerika-Studien,208
 5718,2022,foreign,f,032,Chemie,3709
-5719,2020,foreign,m,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+5719,2020,foreign,m,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 5720,2023,domestic,m,234,Pflegewissenschaft/-management,3184
 5721,2020,domestic,f,136,Religionswissenschaft,958
 5722,2023,foreign,m,078,Indologie,21
@@ -5736,7 +5736,7 @@
 5734,2021,domestic,m,274,Tourismuswirtschaft,2024
 5735,2021,foreign,m,091,Kunsterziehung,110
 5736,2020,foreign,f,202,Fertigungs-/Produktionstechnik,261
-5737,2018,domestic,f,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+5737,2018,domestic,f,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 5738,2019,domestic,m,225,Textil- und Bekleidungstechnik/-gewerbe,375
 5739,2022,domestic,f,131,Portugiesisch,43
 5740,2020,foreign,f,192,Dirigieren,67
@@ -5768,7 +5768,7 @@
 5766,2022,foreign,m,089,Verkehrsingenieurwesen,913
 5767,2020,foreign,f,208,Soziale Arbeit,3316
 5768,2023,domestic,m,235,Fahrzeugtechnik,7358
-5769,2020,foreign,f,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+5769,2020,foreign,f,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 5770,2018,foreign,m,390,Archäometrie (Ingenieurarchäologie),1
 5771,2020,foreign,f,207,Sorabistik,5
 5772,2020,foreign,f,197,Holzbau,8
@@ -5780,8 +5780,8 @@
 5778,2020,domestic,f,137,"Romanistik (Roman.Philologie,Einzelsprach. a.n.g.)",1712
 5779,2018,foreign,f,184,Wirtschaftswissenschaften,6383
 5780,2021,foreign,m,048,Elektrotechnik/Elektronik,17773
-5781,2023,foreign,f,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
-5782,2020,foreign,f,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+5781,2023,foreign,f,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+5782,2020,foreign,f,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 5783,2023,domestic,f,172,Verwaltungswissenschaft/-wesen,10932
 5784,2018,domestic,f,365,Pädagogik der frühen Kindheit,2889
 5785,2020,foreign,m,057,Luft- und Raumfahrttechnik,1072
@@ -5791,7 +5791,7 @@
 5789,2019,domestic,m,072,Interdisz. Studien (Schwerp. Ingenieurwissensch.),10907
 5790,2018,domestic,m,081,Iranistik,80
 5791,2022,foreign,f,071,Haushalts- und Ernährungswissenschaft,442
-5792,2018,domestic,m,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),1200
+5792,2018,domestic,m,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),1200
 5793,2019,domestic,f,166,Sportmanagement/Sportökonomie,1342
 5794,2022,domestic,m,004,Interdisz. Studien (Schwerpunkt Geisteswiss.),4955
 5795,2022,foreign,m,184,Wirtschaftswissenschaften,6252
@@ -5801,7 +5801,7 @@
 5799,2019,domestic,m,321,Erwachsenenbildung und außerschulische Jugendbild.,573
 5800,2019,domestic,f,260,Bundeswehrverwaltung,286
 5801,2021,domestic,f,166,Sportmanagement/Sportökonomie,2952
-5802,2023,domestic,f,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+5802,2023,domestic,f,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 5803,2020,domestic,f,232,Gesundheitswissenschaften/-management,26867
 5804,2019,domestic,f,020,Bergbau/Bergtechnik,248
 5805,2020,domestic,m,235,Fahrzeugtechnik,9292
@@ -5834,7 +5834,7 @@
 5832,2023,foreign,f,028,Brauwesen/Getränketechnologie,15
 5833,2021,domestic,f,020,Bergbau/Bergtechnik,231
 5834,2022,foreign,f,070,Griechisch,36
-5835,2021,foreign,f,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
+5835,2021,foreign,f,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
 5836,2019,foreign,m,048,Elektrotechnik/Elektronik,16987
 5837,2023,domestic,f,077,Wasserwirtschaft,250
 5838,2019,domestic,m,071,Haushalts- und Ernährungswissenschaft,1373
@@ -5843,9 +5843,9 @@
 5841,2022,domestic,m,245,Sozialpädagogik,2163
 5842,2021,domestic,f,167,Europäische Wirtschaft,1179
 5843,2022,foreign,f,073,Judaistik/Hebräisch,68
-5844,2022,foreign,m,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+5844,2022,foreign,m,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 5845,2022,domestic,m,005,Klassische Philologie,130
-5846,2023,domestic,m,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
+5846,2023,domestic,m,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
 5847,2023,foreign,m,031,Byzantinistik,17
 5848,2021,domestic,f,021,Betriebswirtschaftslehre,97537
 5849,2019,foreign,f,139,Russisch,207
@@ -5872,7 +5872,7 @@
 5870,2020,domestic,f,233,Nichtärztliche Heilberufe/Therapien,9875
 5871,2022,domestic,f,333,Haushaltswissenschaft,120
 5872,2019,domestic,m,074,Transport-/Fördertechnik,347
-5873,2021,foreign,m,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+5873,2021,foreign,m,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 5874,2023,domestic,f,076,Hütten- und Gießereiwesen,63
 5875,2023,foreign,f,123,Ingenieurinformatik/Technische Informatik,1225
 5876,2020,foreign,m,055,Orientierungsstudium Gesellschaftswissenschaften,0
@@ -5896,7 +5896,7 @@
 5894,2021,domestic,f,261,Innere Verwaltung,5086
 5895,2018,domestic,f,127,Philosophie,7466
 5896,2021,domestic,m,075,Holzwirtschaft,149
-5897,2019,foreign,m,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+5897,2019,foreign,m,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 5898,2022,foreign,f,072,Interdisz. Studien (Schwerp. Ingenieurwissensch.),1422
 5899,2023,domestic,m,082,Holz-/Fasertechnik,635
 5900,2023,foreign,m,030,"Interdisz.Studien(Schwerp.Rechts-,Wirt.-u.Sozialw)",1340
@@ -5923,7 +5923,7 @@
 5921,2018,domestic,f,126,Pharmazie,9416
 5922,2018,foreign,m,199,Lernbereich Technik,18
 5923,2018,foreign,m,209,Tschechisch,5
-5924,2019,foreign,m,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+5924,2019,foreign,m,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 5925,2021,domestic,m,074,Transport-/Fördertechnik,294
 5926,2019,domestic,m,073,Judaistik/Hebräisch,205
 5927,2023,domestic,f,075,Holzwirtschaft,39
@@ -5934,10 +5934,10 @@
 5932,2020,domestic,m,081,Iranistik,69
 5933,2019,foreign,m,286,Mikrosystemtechnik,955
 5934,2018,foreign,f,089,Verkehrsingenieurwesen,242
-5935,2021,foreign,m,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+5935,2021,foreign,m,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 5936,2020,foreign,f,050,Geografie/Erdkunde,632
 5937,2023,foreign,f,124,Ozeanografie,3
-5938,2020,domestic,m,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
+5938,2020,domestic,m,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
 5939,2020,foreign,f,300,Biomedizin,481
 5940,2020,foreign,f,290,Sonstige Fächer,581
 5941,2018,domestic,m,080,Instrumentalmusik,1155
@@ -5960,13 +5960,13 @@
 5958,2018,foreign,m,052,Erziehungswissenschaft (Pädagogik),794
 5959,2020,foreign,f,056,Finno-Ugristik,12
 5960,2023,foreign,m,179,Wirtschaftsingenieurw.m.wirtschaftswiss.Schwerpkt.,2558
-5961,2022,domestic,f,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
+5961,2022,domestic,f,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
 5962,2023,foreign,f,023,Bildende Kunst/Grafik,881
 5963,2023,foreign,m,429,Stahlbau,4
 5964,2020,domestic,m,232,Gesundheitswissenschaften/-management,9576
 5965,2019,domestic,f,067,Germanistik/Deutsch,50349
 5966,2023,domestic,m,333,Haushaltswissenschaft,31
-5967,2020,foreign,m,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+5967,2020,foreign,m,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 5968,2018,foreign,m,302,Medienwissenschaft,354
 5969,2018,foreign,m,292,Islamische Studien/Islamische Theologie,59
 5970,2020,foreign,m,208,Soziale Arbeit,1045
@@ -5980,13 +5980,13 @@
 5978,2021,domestic,m,171,Vermessungswesen (Geodäsie),2851
 5979,2020,domestic,f,235,Fahrzeugtechnik,666
 5980,2018,foreign,f,282,Biotechnologie,957
-5981,2019,foreign,m,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+5981,2019,foreign,m,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 5982,2019,domestic,m,076,Hütten- und Gießereiwesen,453
 5983,2020,domestic,m,138,Agrarbiologie,373
 5984,2023,domestic,f,270,Berufs- und Wirtschaftspädagogik,1561
 5985,2021,foreign,m,146,Slawistik (Slawische Philologie),92
 5986,2018,foreign,f,042,Wirtschaftsrecht,1250
-5987,2018,foreign,m,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+5987,2018,foreign,m,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 5988,2018,foreign,m,208,Soziale Arbeit,805
 5989,2020,foreign,f,545,"Kath. Religionspäd., kirchliche Bildungsarbeit",96
 5990,2019,domestic,f,316,Elektronische Energietechnik,268
@@ -5996,7 +5996,7 @@
 5994,2019,foreign,m,147,Sozialkunde,69
 5995,2021,domestic,m,077,Wasserwirtschaft,499
 5996,2019,domestic,f,160,Computerlinguistik,568
-5997,2019,domestic,m,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+5997,2019,domestic,m,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 5998,2023,domestic,f,176,Werkerziehung,69
 5999,2021,foreign,f,136,Religionswissenschaft,152
 6000,2021,domestic,f,161,Diakoniewissenschaft,149
@@ -6013,11 +6013,11 @@
 6011,2021,foreign,f,232,Gesundheitswissenschaften/-management,2531
 6012,2019,domestic,f,162,Caritaswissenschaft,65
 6013,2021,domestic,f,068,Geschichte,13335
-6014,2018,foreign,m,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+6014,2018,foreign,m,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 6015,2020,foreign,f,057,Luft- und Raumfahrttechnik,266
 6016,2023,foreign,m,178,Wirtschafts-/Sozialgeografie,7
 6017,2020,domestic,m,137,"Romanistik (Roman.Philologie,Einzelsprach. a.n.g.)",541
-6018,2020,foreign,m,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+6018,2020,foreign,m,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 6019,2020,foreign,m,197,Holzbau,25
 6020,2020,foreign,m,207,Sorabistik,3
 6021,2023,foreign,m,032,Chemie,3225
@@ -6027,9 +6027,9 @@
 6025,2018,foreign,f,283,Landschaftsökol./Biogeografie (ab 2012 ohne SF385),34
 6026,2023,foreign,f,024,Europäische Ethnologie und Kulturwissenschaft,423
 6027,2020,foreign,f,150,Spanisch,636
-6028,2021,foreign,m,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+6028,2021,foreign,m,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 6029,2020,domestic,f,080,Instrumentalmusik,1254
-6030,2021,domestic,m,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+6030,2021,domestic,m,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 6031,2018,foreign,f,043,Neugriechisch,56
 6032,2018,foreign,m,197,Holzbau,31
 6033,2018,foreign,m,207,Sorabistik,1
@@ -6088,7 +6088,7 @@
 6086,2020,domestic,f,081,Iranistik,64
 6087,2018,foreign,f,040,"Interdisz. Studien (Schwerpunkt Kunst, Kunstwiss.)",131
 6088,2020,foreign,f,303,Kommunikationswissenschaft/Publizistik,1152
-6089,2020,domestic,f,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
+6089,2020,domestic,f,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
 6090,2018,foreign,f,186,Lernbereich Naturwissenschaft/Sachunterricht,94
 6091,2023,domestic,m,086,"Katholische Theologie, - Religionslehre",2051
 6092,2021,domestic,f,163,Rhythmik,19
@@ -6099,7 +6099,7 @@
 6097,2018,domestic,f,225,Textil- und Bekleidungstechnik/-gewerbe,2184
 6098,2021,domestic,m,173,Ethnologie,923
 6099,2019,foreign,m,145,Sinologie/Koreanistik,169
-6100,2022,foreign,f,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+6100,2022,foreign,f,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 6101,2023,domestic,m,180,Kaukasistik,1
 6102,2021,foreign,f,138,Agrarbiologie,244
 6103,2019,foreign,f,136,Religionswissenschaft,162
@@ -6139,15 +6139,15 @@
 6137,2021,foreign,m,145,Sinologie/Koreanistik,194
 6138,2018,domestic,f,464,Facility Management,1360
 6139,2020,domestic,f,082,Holz-/Fasertechnik,153
-6140,2022,domestic,m,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+6140,2022,domestic,m,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 6141,2021,domestic,m,078,Indologie,43
-6142,2023,domestic,m,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+6142,2023,domestic,m,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 6143,2023,domestic,f,079,Informatik,17724
 6144,2019,foreign,f,230,Gesang,390
 6145,2021,domestic,f,164,Jazz und Popularmusik,326
 6146,2018,domestic,m,138,Agrarbiologie,256
 6147,2021,foreign,f,137,"Romanistik (Roman.Philologie,Einzelsprach. a.n.g.)",583
-6148,2020,domestic,m,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+6148,2020,domestic,m,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 6149,2021,foreign,m,280,Kartografie,77
 6150,2021,domestic,m,220,Milch- und Molkereiwirtschaft,34
 6151,2019,foreign,m,138,Agrarbiologie,224
@@ -6155,7 +6155,7 @@
 6153,2018,foreign,m,159,Edelstein- und Schmuckdesign,8
 6154,2021,foreign,m,040,"Interdisz. Studien (Schwerpunkt Kunst, Kunstwiss.)",140
 6155,2020,foreign,m,457,Umwelttechnik (einschließlich Recycling),776
-6156,2020,foreign,f,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+6156,2020,foreign,f,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 6157,2019,domestic,f,014,Astrophysik und Astronomie,74
 6158,2022,domestic,m,095,Latein,707
 6159,2018,foreign,f,105,Mathematik,2551
@@ -6180,10 +6180,10 @@
 6178,2023,domestic,f,261,Innere Verwaltung,4836
 6179,2019,domestic,m,161,Diakoniewissenschaft,89
 6180,2020,foreign,f,380,Mechatronik,830
-6181,2018,foreign,m,303,Journalistik (ab 2008 zu SF303),0
+6181,2018,foreign,m,252,Journalistik (ab 2008 zu SF303),0
 6182,2020,domestic,f,226,Verfahrenstechnik,3044
 6183,2022,foreign,f,232,Gesundheitswissenschaften/-management,2674
-6184,2022,foreign,m,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+6184,2022,foreign,m,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 6185,2021,foreign,f,132,Psychologie,6396
 6186,2018,domestic,m,183,Wirtschafts-/Sozialgeschichte,149
 6187,2023,foreign,f,210,Verkehrswirtschaft,163
@@ -6196,7 +6196,7 @@
 6194,2019,foreign,m,232,Gesundheitswissenschaften/-management,1067
 6195,2023,domestic,f,021,Betriebswirtschaftslehre,89968
 6196,2022,domestic,f,041,Sonstiges Orientierungsstudium,15
-6197,2021,domestic,f,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+6197,2021,domestic,f,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 6198,2023,foreign,f,116,Textilgestaltung,417
 6199,2018,foreign,m,012,Archäologie,191
 6200,2021,domestic,f,219,Kunststofftechnik,130
@@ -6238,7 +6238,7 @@
 6236,2019,domestic,m,316,Elektronische Energietechnik,1497
 6237,2019,foreign,f,076,Hütten- und Gießereiwesen,112
 6238,2022,domestic,f,280,Kartografie,72
-6239,2022,foreign,m,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+6239,2022,foreign,m,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 6240,2020,domestic,f,071,Haushalts- und Ernährungswissenschaft,5846
 6241,2018,domestic,m,184,Wirtschaftswissenschaften,44765
 6242,2022,domestic,m,106,Tanzpädagogik,30
@@ -6263,11 +6263,11 @@
 6261,2018,foreign,f,103,Markscheidewesen,2
 6262,2022,foreign,m,283,Landschaftsökol./Biogeografie (ab 2012 ohne SF385),27
 6263,2021,foreign,m,184,Wirtschaftswissenschaften,5803
-6264,2023,domestic,m,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+6264,2023,domestic,m,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 6265,2021,foreign,f,277,Wirtschaftsinformatik,3551
 6266,2019,domestic,f,256,Rechtspflege,1942
 6267,2020,domestic,m,003,Agrarwissenschaft/Landwirtschaft,7432
-6268,2018,domestic,m,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+6268,2018,domestic,m,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 6269,2022,foreign,m,189,Niederdeutsch,0
 6270,2018,foreign,f,093,Landespflege/Landschaftsgestaltung,291
 6271,2023,foreign,m,266,Finanzverwaltung,3
@@ -6309,7 +6309,7 @@
 6307,2018,domestic,f,370,Wirtschaftsingenieurw. m. ingenieurwiss.Schwerpkt.,12461
 6308,2020,domestic,m,242,Innenarchitektur,383
 6309,2023,domestic,m,171,Vermessungswesen (Geodäsie),2686
-6310,2020,foreign,f,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+6310,2020,foreign,f,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 6311,2022,foreign,m,044,Ost- und Südosteuropa-Studien,40
 6312,2018,foreign,f,094,Wasserbau,135
 6313,2018,domestic,f,036,Sonstige Regionalwissenschaften,229
@@ -6336,7 +6336,7 @@
 6334,2022,domestic,f,184,Wirtschaftswissenschaften,32705
 6335,2023,foreign,m,025,Biochemie,630
 6336,2022,foreign,f,233,Nichtärztliche Heilberufe/Therapien,761
-6337,2021,foreign,f,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+6337,2021,foreign,f,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 6338,2018,domestic,f,037,Archiv- und Dokumentationswissenschaft,194
 6339,2019,domestic,f,257,Arbeits- und Berufsberatung,358
 6340,2021,domestic,m,128,Physik,28835
@@ -6369,7 +6369,7 @@
 6367,2020,domestic,m,049,Interdisz. Studien (Schwerp. Naturwissenschaften),3335
 6368,2023,foreign,m,122,"Orientalistik, Altorientalistik",109
 6369,2021,domestic,m,224,Physikal. Technik/Mechanische Verfahrenstechnik,1731
-6370,2018,domestic,f,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+6370,2018,domestic,f,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 6371,2019,domestic,m,020,Bergbau/Bergtechnik,949
 6372,2021,domestic,m,464,Facility Management,2180
 6373,2021,foreign,m,044,Ost- und Südosteuropa-Studien,57
@@ -6381,8 +6381,8 @@
 6379,2019,domestic,f,010,Arabisch/Arabistik,329
 6380,2022,domestic,m,091,Kunsterziehung,961
 6381,2019,domestic,m,166,Sportmanagement/Sportökonomie,3893
-6382,2018,foreign,f,303,Publizistik (ab 2008 zu SF303),0
-6383,2018,foreign,f,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+6382,2018,foreign,f,109,Publizistik (ab 2008 zu SF303),0
+6383,2018,foreign,f,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 6384,2022,domestic,f,183,Wirtschafts-/Sozialgeschichte,69
 6385,2023,foreign,m,028,Brauwesen/Getränketechnologie,53
 6386,2018,foreign,m,154,Lernbereich Gesellschaftslehre,7
@@ -6424,7 +6424,7 @@
 6422,2018,foreign,f,204,Malerei,154
 6423,2022,domestic,m,102,Schauspiel,225
 6424,2020,domestic,m,048,Elektrotechnik/Elektronik,39500
-6425,2023,foreign,m,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+6425,2023,foreign,m,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 6426,2018,foreign,m,153,"Südslawisch(Bulgarisch,Serbokroatisch,Slowen.usw.)",2
 6427,2021,foreign,f,033,Chemie-Ingenieurwesen/Chemieverfahrenstechnik,847
 6428,2023,foreign,f,353,Pflanzenproduktion,22
@@ -6449,7 +6449,7 @@
 6447,2018,domestic,m,180,Kaukasistik,1
 6448,2020,domestic,m,385,Geoökologie,596
 6449,2019,foreign,f,224,Physikal. Technik/Mechanische Verfahrenstechnik,250
-6450,2019,domestic,f,303,Journalistik (ab 2008 zu SF303),0
+6450,2019,domestic,f,252,Journalistik (ab 2008 zu SF303),0
 6451,2020,foreign,f,049,Interdisz. Studien (Schwerp. Naturwissenschaften),1033
 6452,2022,foreign,m,185,Zahnmedizin,1025
 6453,2020,domestic,f,077,Wasserwirtschaft,330
@@ -6480,7 +6480,7 @@
 6478,2018,domestic,m,083,Islamwissenschaft,607
 6479,2018,foreign,m,548,Ur- und Frühgeschichte,39
 6480,2018,foreign,f,097,Lebensmitteltechnologie,231
-6481,2020,domestic,f,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+6481,2020,domestic,f,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 6482,2021,domestic,m,227,Weinbau und Kellerwirtschaft,660
 6483,2018,domestic,f,136,Religionswissenschaft,1087
 6484,2022,domestic,f,181,Wirtschaftspädagogik,3722
@@ -6497,7 +6497,7 @@
 6495,2018,domestic,m,333,Haushaltswissenschaft,47
 6496,2020,foreign,m,211,Energieverfahrenstechnik,1092
 6497,2020,domestic,f,076,Hütten- und Gießereiwesen,113
-6498,2022,domestic,f,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+6498,2022,domestic,f,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 6499,2019,foreign,f,464,Facility Management,97
 6500,2023,domestic,f,263,Polizei/Verfassungsschutz,9855
 6501,2018,foreign,m,058,"Forstwissenschaft, -wirtschaft",518
@@ -6534,11 +6534,11 @@
 6532,2018,foreign,f,108,Metalltechnik,7
 6533,2022,domestic,f,086,"Katholische Theologie, - Religionslehre",3233
 6534,2021,foreign,m,189,Niederdeutsch,0
-6535,2021,domestic,f,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+6535,2021,domestic,f,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 6536,2018,domestic,m,084,Italienisch,229
 6537,2023,foreign,m,123,Ingenieurinformatik/Technische Informatik,3959
 6538,2019,domestic,m,260,Bundeswehrverwaltung,248
-6539,2018,foreign,m,190,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
+6539,2018,foreign,m,151,Sprachheilpädagogik/Logopädie (ab 2016 zu SF190),0
 6540,2021,domestic,f,458,Umweltschutz,952
 6541,2021,foreign,f,035,Darstellende Kunst/Bühnenkunst/Regie,319
 6542,2021,domestic,m,226,Verfahrenstechnik,4695
@@ -6554,11 +6554,11 @@
 6552,2023,foreign,m,029,Sportwissenschaft,903
 6553,2022,foreign,f,081,Iranistik,54
 6554,2023,domestic,m,030,"Interdisz.Studien(Schwerp.Rechts-,Wirt.-u.Sozialw)",6940
-6555,2022,foreign,f,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
+6555,2022,foreign,f,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),0
 6556,2023,domestic,f,262,Bibliothekswesen,44
 6557,2020,foreign,m,115,Grundschul-/Primärstufenpädagogik,44
 6558,2021,foreign,m,084,Italienisch,71
-6559,2023,foreign,f,190,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
+6559,2023,foreign,f,063,Geistigbeh./Prakt.-Bildb.-Pädag.(ab 2016 zu SF190),0
 6560,2018,foreign,m,115,Grundschul-/Primärstufenpädagogik,33
 6561,2020,foreign,f,003,Agrarwissenschaft/Landwirtschaft,1047
 6562,2019,foreign,m,084,Italienisch,91
@@ -6579,7 +6579,7 @@
 6577,2019,domestic,m,264,Sozialversicherung,623
 6578,2021,foreign,f,030,"Interdisz.Studien(Schwerp.Rechts-,Wirt.-u.Sozialw)",1766
 6579,2023,domestic,f,029,Sportwissenschaft,7747
-6580,2022,foreign,m,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+6580,2022,foreign,m,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 6581,2019,foreign,f,270,Berufs- und Wirtschaftspädagogik,49
 6582,2022,foreign,f,275,Wissenschaftsgeschichte/Technikgeschichte,0
 6583,2018,domestic,f,079,Informatik,16716
@@ -6600,7 +6600,7 @@
 6598,2020,domestic,f,172,Verwaltungswissenschaft/-wesen,10228
 6599,2023,domestic,m,271,Deutsch als Fremdsprache oder als Zweitsprache,362
 6600,2020,domestic,m,284,Angewandte Sprachwissenschaft,974
-6601,2022,domestic,m,190,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
+6601,2022,domestic,m,051,Erziehungsschwierigenpädagogik (ab 2016 zu SF190),0
 6602,2022,foreign,m,148,Sozialwissenschaften,953
 6603,2023,foreign,f,312,Statistik,722
 6604,2020,foreign,f,149,Soziologie,1508
@@ -6610,7 +6610,7 @@
 6608,2018,domestic,f,078,Indologie,102
 6609,2019,domestic,m,169,Ethik,344
 6610,2021,domestic,m,169,Ethik,378
-6611,2018,domestic,m,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+6611,2018,domestic,m,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 6612,2019,foreign,m,083,Islamwissenschaft,148
 6613,2023,domestic,f,268,Verkehrswesen,0
 6614,2021,domestic,m,023,Bildende Kunst/Grafik,1157
@@ -6655,7 +6655,7 @@
 6653,2023,domestic,m,272,Alte Geschichte,108
 6654,2022,domestic,m,052,Erziehungswissenschaft (Pädagogik),12361
 6655,2022,foreign,m,149,Soziologie,651
-6656,2022,domestic,m,232,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
+6656,2022,domestic,m,198,Managem.im Gesundh.-u.Sozialber.(ab 2004 zu SF232),0
 6657,2020,foreign,m,114,Musikwissenschaft/-geschichte,281
 6658,2020,foreign,f,004,Interdisz. Studien (Schwerpunkt Geisteswiss.),2435
 6659,2019,domestic,f,117,Ausländerpädagogik,132
@@ -6665,7 +6665,7 @@
 6663,2019,domestic,m,266,Finanzverwaltung,870
 6664,2018,foreign,f,147,Sozialkunde,119
 6665,2020,domestic,m,287,Neue Medien,1099
-6666,2023,domestic,f,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+6666,2023,domestic,f,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 6667,2018,domestic,m,189,Niederdeutsch,2
 6668,2020,foreign,f,147,Sozialkunde,121
 6669,2018,foreign,m,259,Auswärtige Angelegenheiten,3
@@ -6681,14 +6681,14 @@
 6679,2020,foreign,m,019,Orientierungsstudium MINT,0
 6680,2019,domestic,m,026,Biologie,16386
 6681,2021,domestic,m,120,"Nordistik/Skandinavist.(Nord.Phil.,Einzelsp.a.n.g)",280
-6682,2020,foreign,f,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
+6682,2020,foreign,f,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),0
 6683,2018,domestic,m,283,Landschaftsökol./Biogeografie (ab 2012 ohne SF385),479
 6684,2022,foreign,f,371,Tierproduktion,17
 6685,2018,foreign,m,019,Orientierungsstudium MINT,0
 6686,2018,domestic,m,043,Neugriechisch,20
 6687,2021,domestic,f,212,Feinwerktechnik,45
 6688,2022,foreign,m,385,Geoökologie,61
-6689,2020,domestic,m,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+6689,2020,domestic,m,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 6690,2021,domestic,m,026,Biologie,16462
 6691,2022,foreign,f,131,Portugiesisch,20
 6692,2019,domestic,m,120,"Nordistik/Skandinavist.(Nord.Phil.,Einzelsp.a.n.g)",332
@@ -6722,18 +6722,18 @@
 6720,2023,domestic,m,273,Mittlere und neuere Geschichte,405
 6721,2022,domestic,m,053,"Evangelische Theologie, - Religionslehre",3422
 6722,2021,domestic,m,025,Biochemie,3040
-6723,2022,domestic,f,234,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
+6723,2022,domestic,f,047,Krankenpflege-Ausbildung (ab 2004 zu SF234),0
 6724,2020,foreign,m,018,Berufsbezogene Fremdsprachenausbildung,56
 6725,2019,domestic,m,025,Biochemie,3018
 6726,2020,domestic,f,176,Werkerziehung,74
-6727,2019,foreign,m,312,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),316
+6727,2019,foreign,m,237,Math.Stat./Wahrscheinlichkeitsr. (ab 2020 z.SF312),316
 6728,2021,foreign,m,083,Islamwissenschaft,130
 6729,2018,foreign,m,018,Berufsbezogene Fremdsprachenausbildung,83
 6730,2020,foreign,f,002,Afrikanistik,190
 6731,2023,foreign,f,160,Computerlinguistik,663
 6732,2023,domestic,f,026,Biologie,31813
 6733,2018,foreign,f,002,Afrikanistik,168
-6734,2020,domestic,m,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+6734,2020,domestic,m,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 6735,2022,domestic,f,287,Neue Medien,1454
 6736,2021,domestic,m,265,Bankwesen,475
 6737,2023,foreign,f,316,Elektronische Energietechnik,134
@@ -6769,7 +6769,7 @@
 6767,2022,foreign,m,001,Ägyptologie,30
 6768,2021,foreign,f,270,Berufs- und Wirtschaftspädagogik,74
 6769,2018,foreign,m,111,Mineralogie,54
-6770,2018,foreign,f,211,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),2
+6770,2018,foreign,f,241,Kerntechnik/Kernverfahrenstechn.(ab 2020 zu SF211),2
 6771,2022,domestic,f,286,Mikrosystemtechnik,182
 6772,2023,domestic,f,120,"Nordistik/Skandinavist.(Nord.Phil.,Einzelsp.a.n.g)",647
 6773,2019,domestic,f,119,Niederländisch,228
@@ -6797,7 +6797,7 @@
 6795,2018,foreign,m,257,Arbeits- und Berufsberatung,0
 6796,2023,domestic,f,221,Bioinformatik,889
 6797,2018,foreign,f,091,Kunsterziehung,386
-6798,2022,domestic,f,232,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
+6798,2022,domestic,f,046,Sozialmed./Öff. Gesundheitsw. (ab 2004 zu SF232),0
 6799,2020,domestic,f,177,Werkstofftechnik,948
 6800,2022,domestic,m,193,Kirchenmusik,285
 6801,2021,foreign,m,088,Optoelektronik,110
@@ -6817,7 +6817,7 @@
 6815,2021,foreign,f,078,Indologie,26
 6816,2023,foreign,m,464,Facility Management,89
 6817,2021,domestic,f,019,Orientierungsstudium MINT,21
-6818,2022,domestic,m,303,Publizistik (ab 2008 zu SF303),0
+6818,2022,domestic,m,109,Publizistik (ab 2008 zu SF303),0
 6819,2020,domestic,m,280,Kartografie,172
 6820,2019,foreign,f,079,Informatik,6580
 6821,2023,domestic,m,275,Wissenschaftsgeschichte/Technikgeschichte,20
@@ -6839,7 +6839,7 @@
 6837,2020,domestic,f,030,"Interdisz.Studien(Schwerp.Rechts-,Wirt.-u.Sozialw)",8362
 6838,2019,domestic,f,018,Berufsbezogene Fremdsprachenausbildung,1077
 6839,2018,foreign,m,110,Meteorologie,80
-6840,2022,domestic,m,190,Lernbehindertenpädagogik (ab 2016 zu SF190),0
+6840,2022,domestic,m,099,Lernbehindertenpädagogik (ab 2016 zu SF190),0
 6841,2020,domestic,m,040,"Interdisz. Studien (Schwerpunkt Kunst, Kunstwiss.)",277
 6842,2020,domestic,f,032,Chemie,15010
 6843,2018,domestic,f,176,Werkerziehung,67
@@ -6848,7 +6848,7 @@
 6846,2018,domestic,f,030,"Interdisz.Studien(Schwerp.Rechts-,Wirt.-u.Sozialw)",7650
 6847,2018,foreign,f,092,"Kunstgeschichte, Kunstwissenschaft",1131
 6848,2020,domestic,f,178,Wirtschafts-/Sozialgeografie,256
-6849,2019,domestic,m,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+6849,2019,domestic,m,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 6850,2021,domestic,m,121,Medieninformatik,10653
 6851,2018,domestic,f,270,Berufs- und Wirtschaftspädagogik,830
 6852,2018,foreign,f,102,Schauspiel,35
@@ -6861,9 +6861,9 @@
 6859,2019,domestic,f,353,Pflanzenproduktion,324
 6860,2019,domestic,m,361,Schulpädagogik,182
 6861,2018,domestic,m,042,Wirtschaftsrecht,8906
-6862,2019,foreign,m,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+6862,2019,foreign,m,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 6863,2021,domestic,f,353,Pflanzenproduktion,274
-6864,2021,domestic,m,190,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
+6864,2021,domestic,m,027,Blinden-/Sehbehindertenpädagogik(ab 2016 zu SF190),0
 6865,2019,foreign,f,173,Ethnologie,431
 6866,2019,domestic,m,121,Medieninformatik,10883
 6867,2021,foreign,f,077,Wasserwirtschaft,200
@@ -6874,7 +6874,7 @@
 6872,2019,domestic,f,019,Orientierungsstudium MINT,0
 6873,2023,domestic,m,130,Westslawisch (allgemein und a.n.g.),12
 6874,2023,foreign,m,223,Nautik/Seefahrt,196
-6875,2022,foreign,f,303,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
+6875,2022,foreign,f,133,Medienk./Komm.-/Infowissenschaft (ab 08 zu SF303),0
 6876,2019,foreign,f,174,Volkskunde,83
 6877,2019,domestic,f,259,Auswärtige Angelegenheiten,152
 6878,2023,domestic,m,276,Wirtschaftsmathematik,2681
@@ -6916,7 +6916,7 @@
 6914,2019,domestic,m,124,Ozeanografie,4
 6915,2018,domestic,m,185,Zahnmedizin,4325
 6916,2021,domestic,f,114,Musikwissenschaft/-geschichte,2044
-6917,2019,foreign,f,190,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
+6917,2019,foreign,f,170,Verhaltensgestörtenpädagogik (ab 2016 zu SF190),0
 6918,2020,domestic,f,179,Wirtschaftsingenieurw.m.wirtschaftswiss.Schwerpkt.,7334
 6919,2018,domestic,f,179,Wirtschaftsingenieurw.m.wirtschaftswiss.Schwerpkt.,7764
 6920,2023,domestic,m,037,Archiv- und Dokumentationswissenschaft,130
@@ -6960,7 +6960,7 @@
 6958,2020,domestic,f,274,Tourismuswirtschaft,7362
 6959,2023,foreign,f,458,Umweltschutz,459
 6960,2020,foreign,f,090,Lernbereich Geisteswissenschaften,170
-6961,2023,foreign,f,190,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
+6961,2023,foreign,f,062,Gehörlosen-/Schwerhörigenpäd. (ab 2016 zu SF190),0
 6962,2023,domestic,f,124,Ozeanografie,3
 6963,2021,foreign,m,181,Wirtschaftspädagogik,87
 6964,2020,domestic,f,034,Dänisch,53
@@ -6971,7 +6971,7 @@
 6969,2021,domestic,m,029,Sportwissenschaft,11665
 6970,2022,foreign,m,142,Schiffbau/Schiffstechnik,228
 6971,2019,foreign,f,171,Vermessungswesen (Geodäsie),440
-6972,2021,foreign,m,190,Körperbehindertenpädagogik (ab 2016 zu SF190),0
+6972,2021,foreign,m,087,Körperbehindertenpädagogik (ab 2016 zu SF190),0
 6973,2022,domestic,m,290,Sonstige Fächer,921
 6974,2021,foreign,f,173,Ethnologie,406
 6975,2022,domestic,m,300,Biomedizin,541
