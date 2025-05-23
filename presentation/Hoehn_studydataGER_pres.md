@@ -1,6 +1,5 @@
 ---
-title: Stud
-subtitle: Comments on implementation
+title: Database of study data for Germany
 author: Georg F.K. Höhn
 short-author: Höhn
 institute: Ironhack
@@ -92,6 +91,18 @@ csquotes: true
   - time marked by semesters for total students and incoming students table, plain year elsewhere
   - subject codes in student-related tables prefixed by 'SF'
   - format for cluster and group codes in personnel/professorial data is even more messy
+
+## Data coding
+
+- `time` (renamed to `year`): 
+  - in students and incoming student data provided as more complex string, elsewhere just string of year
+  - normalised to year int everywhere
+- `gender` coded binary: GESW, GESM 
+  - recoded as f, m
+- `nationality` coded binary: NATD, NATD
+  - recoded as domestic, foreign
+- `subj_code`, `subj_name`: as strings
+- `number`: aggregated student count for a particular combination of gender, nationality and subject 
 
 
 ## Challenge 2: Taxonomies
@@ -234,6 +245,13 @@ $\chi^2=298192, df=8, p < 0.01$ <!-- -->
 
 # Selected SQL prompts
 
+## 
+
+In my project, SQL prompts are provided in two ways:
+
+- in a separate SQL script
+- inside the jupyter notebook calling the database using `sqlalchemy`
+
 ## 6. Which were the top 10 subjects studied by foreigners? 
 
 
@@ -289,6 +307,11 @@ ORDER BY is2.subj_code, is2.year;
 
 
 # Conclusion
+
+##
+
+- database, cleaned csv files, notebook: [github.com/gfkpth/project-2-eda-sql](https://github.com/gfkpth/project-2-eda-sql) 
+- (somewhat) cleaned up version of repository can be found on [github.com/gfkpth/data-study-subjects](https://github.com/gfkpth/data-study-subjects) 
 
 ## 
 
